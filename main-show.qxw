@@ -168,6 +168,16 @@
    <Channels>1</Channels>
   </Fixture>
   <Fixture>
+   <Manufacturer>American DJ</Manufacturer>
+   <Model>UBL 9H</Model>
+   <Mode>25Ch</Mode>
+   <ID>15</ID>
+   <Name>Ultrabar #1</Name>
+   <Universe>0</Universe>
+   <Address>239</Address>
+   <Channels>25</Channels>
+  </Fixture>
+  <Fixture>
    <Manufacturer>Chauvet</Manufacturer>
    <Model>COLORdash Par-Hex 12</Model>
    <Mode>12 Channel</Mode>
@@ -186,6 +196,16 @@
    <Universe>0</Universe>
    <Address>339</Address>
    <Channels>12</Channels>
+  </Fixture>
+  <Fixture>
+   <Manufacturer>American DJ</Manufacturer>
+   <Model>UBL 9H</Model>
+   <Mode>25Ch</Mode>
+   <ID>18</ID>
+   <Name>Ultrabar #2</Name>
+   <Universe>0</Universe>
+   <Address>269</Address>
+   <Channels>25</Channels>
   </Fixture>
   <ChannelsGroup ID="8" Name="Hex Int" Value="0">4,0,5,0,6,0,7,0</ChannelsGroup>
   <ChannelsGroup ID="0" Name="Hex Red" Value="0">4,1,5,1,6,1,7,1</ChannelsGroup>
