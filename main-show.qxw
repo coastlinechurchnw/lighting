@@ -229,6 +229,13 @@
   <ChannelsGroup ID="19" Name="Dash Amber" Value="0">16,4,17,4</ChannelsGroup>
   <ChannelsGroup ID="20" Name="Dash White" Value="0">16,5,17,5</ChannelsGroup>
   <ChannelsGroup ID="21" Name="Dash UV" Value="0">16,6,17,6</ChannelsGroup>
+  <ChannelsGroup ID="22" Name="Bar Int" Value="0">15,22,18,22</ChannelsGroup>
+  <ChannelsGroup ID="23" Name="Bar Red" Value="0">15,0,15,6,15,12,18,0,18,6,18,12</ChannelsGroup>
+  <ChannelsGroup ID="24" Name="Bar Green" Value="0">15,1,15,7,15,13,18,1,18,7,18,13</ChannelsGroup>
+  <ChannelsGroup ID="25" Name="Bar Blue" Value="0">15,2,15,8,15,14,18,2,18,8,18,14</ChannelsGroup>
+  <ChannelsGroup ID="26" Name="Bar Amber" Value="0">15,3,15,9,15,15,18,3,18,9,18,15</ChannelsGroup>
+  <ChannelsGroup ID="27" Name="Bar Lime" Value="0">15,4,15,10,15,16,18,4,18,10,18,16</ChannelsGroup>
+  <ChannelsGroup ID="28" Name="Bar UV" Value="0">15,5,15,11,15,17,18,5,18,11,18,17</ChannelsGroup>
   <Function ID="0" Type="Scene" Name="Mid-Front House 255" Path=".Intensity Palette">
    <Speed FadeIn="5000" FadeOut="5000" Duration="0"/>
    <FixtureVal ID="3">0,255</FixtureVal>
@@ -270,7 +277,7 @@
   </Function>
   <Function ID="9" Type="Scene" Name="Magenta" Path=".Color Palette">
    <Speed FadeIn="5000" FadeOut="5000" Duration="0"/>
-   <ChannelGroupsVal>0,159,2,255,5,255,6,255,10,44,12,91,14,255,16,255,18,97,21,255</ChannelGroupsVal>
+   <ChannelGroupsVal>0,159,2,255,5,255,6,255,10,44,12,91,14,255,16,255,18,97,21,255,23,255,25,128,28,255</ChannelGroupsVal>
    <FixtureVal ID="4">1,159,3,255,6,255</FixtureVal>
    <FixtureVal ID="5">1,159,3,255,6,255</FixtureVal>
    <FixtureVal ID="6">1,159,3,255,6,255</FixtureVal>
@@ -283,10 +290,12 @@
    <FixtureVal ID="13">0,91,2,255,3,91,5,255,6,91,8,255</FixtureVal>
    <FixtureVal ID="16">1,255,3,97,6,255</FixtureVal>
    <FixtureVal ID="17">1,255,3,97,6,255</FixtureVal>
+   <FixtureVal ID="15">0,255,2,128,5,255,6,160,8,255,11,255,12,255,14,128,17,255</FixtureVal>
+   <FixtureVal ID="18">0,255,2,128,5,255,6,160,8,255,11,255,12,255,14,128,17,255</FixtureVal>
   </Function>
   <Function ID="10" Type="Scene" Name="Cyan" Path=".Color Palette">
    <Speed FadeIn="5000" FadeOut="5000" Duration="0"/>
-   <ChannelGroupsVal>1,255,2,196,7,34,10,255,13,255,14,255,17,58,18,255</ChannelGroupsVal>
+   <ChannelGroupsVal>1,255,2,196,7,34,10,255,13,255,14,255,17,58,18,255,24,255,25,120</ChannelGroupsVal>
    <FixtureVal ID="4">2,255,3,196</FixtureVal>
    <FixtureVal ID="5">2,255,3,196</FixtureVal>
    <FixtureVal ID="6">2,255,3,196</FixtureVal>
@@ -299,10 +308,12 @@
    <FixtureVal ID="13">1,255,2,255,4,255,5,255,7,255,8,255</FixtureVal>
    <FixtureVal ID="16">2,58,3,255</FixtureVal>
    <FixtureVal ID="17">2,58,3,255</FixtureVal>
+   <FixtureVal ID="15">1,255,2,120,7,255,8,255,13,255,14,120</FixtureVal>
+   <FixtureVal ID="18">1,255,2,120,7,255,8,255,13,255,14,120</FixtureVal>
   </Function>
   <Function ID="11" Type="Scene" Name="Amber" Path=".Color Palette">
    <Speed FadeIn="5000" FadeOut="5000" Duration="0"/>
-   <ChannelGroupsVal>0,69,1,30,3,255,4,45,6,255,7,30,12,255,13,87,16,65,17,0,19,255,20,0</ChannelGroupsVal>
+   <ChannelGroupsVal>0,69,1,30,3,255,4,45,6,255,7,30,12,255,13,87,16,65,17,0,19,255,20,0,26,255</ChannelGroupsVal>
    <FixtureVal ID="4">1,69,2,30,4,255,5,45</FixtureVal>
    <FixtureVal ID="5">1,69,2,30,4,255,5,45</FixtureVal>
    <FixtureVal ID="6">1,69,2,30,4,255,5,45</FixtureVal>
@@ -315,10 +326,12 @@
    <FixtureVal ID="13">0,255,1,87,3,255,4,87,6,255,7,87</FixtureVal>
    <FixtureVal ID="16">1,65,2,0,4,255,5,0</FixtureVal>
    <FixtureVal ID="17">1,65,2,0,4,255,5,0</FixtureVal>
+   <FixtureVal ID="15">3,255,9,255,10,47,15,255</FixtureVal>
+   <FixtureVal ID="18">3,255,9,255,10,47,15,255</FixtureVal>
   </Function>
   <Function ID="12" Type="Scene" Name="Blue" Path=".Color Palette">
    <Speed FadeIn="5000" FadeOut="5000" Duration="0"/>
-   <ChannelGroupsVal>0,31,1,0,2,255,4,55,5,255,6,34,7,0,10,255,12,56,13,125,14,255,16,0,17,53,18,255,20,0,21,255</ChannelGroupsVal>
+   <ChannelGroupsVal>0,31,1,0,2,255,4,55,5,255,6,34,7,0,10,255,12,56,13,125,14,255,16,0,17,53,18,255,20,0,21,255,25,255,28,255</ChannelGroupsVal>
    <FixtureVal ID="4">1,31,2,0,3,255,5,55,6,255</FixtureVal>
    <FixtureVal ID="5">1,31,2,0,3,255,5,55,6,255</FixtureVal>
    <FixtureVal ID="6">1,31,2,0,3,255,5,55,6,255</FixtureVal>
@@ -331,10 +344,12 @@
    <FixtureVal ID="13">0,56,1,125,2,255,3,56,4,125,5,255,6,56,7,125,8,255</FixtureVal>
    <FixtureVal ID="16">1,0,2,53,3,255,5,0,6,255</FixtureVal>
    <FixtureVal ID="17">1,0,2,53,3,255,5,0,6,255</FixtureVal>
+   <FixtureVal ID="15">2,255,5,255,8,255,10,76,11,255,14,255,17,255</FixtureVal>
+   <FixtureVal ID="18">2,255,5,255,8,255,10,76,11,255,14,255,17,255</FixtureVal>
   </Function>
   <Function ID="13" Type="Scene" Name="LED 025%" Path=".Intensity Palette">
    <Speed FadeIn="5000" FadeOut="5000" Duration="0"/>
-   <ChannelGroupsVal>8,100,9,0,11,37,15,42</ChannelGroupsVal>
+   <ChannelGroupsVal>8,100,9,0,11,37,15,42,22,0</ChannelGroupsVal>
    <FixtureVal ID="4">0,100</FixtureVal>
    <FixtureVal ID="5">0,100</FixtureVal>
    <FixtureVal ID="6">0,100</FixtureVal>
@@ -347,10 +362,12 @@
    <FixtureVal ID="13">12,37</FixtureVal>
    <FixtureVal ID="16">0,42</FixtureVal>
    <FixtureVal ID="17">0,42</FixtureVal>
+   <FixtureVal ID="15">22,0</FixtureVal>
+   <FixtureVal ID="18">22,0</FixtureVal>
   </Function>
   <Function ID="14" Type="Scene" Name="LED 050%" Path=".Intensity Palette">
    <Speed FadeIn="5000" FadeOut="5000" Duration="0"/>
-   <ChannelGroupsVal>8,100,9,50,11,70,15,128</ChannelGroupsVal>
+   <ChannelGroupsVal>8,100,9,50,11,70,15,128,22,14</ChannelGroupsVal>
    <FixtureVal ID="4">0,100</FixtureVal>
    <FixtureVal ID="5">0,100</FixtureVal>
    <FixtureVal ID="6">0,100</FixtureVal>
@@ -363,10 +380,12 @@
    <FixtureVal ID="13">12,70</FixtureVal>
    <FixtureVal ID="16">0,128</FixtureVal>
    <FixtureVal ID="17">0,128</FixtureVal>
+   <FixtureVal ID="15">22,14</FixtureVal>
+   <FixtureVal ID="18">22,14</FixtureVal>
   </Function>
   <Function ID="15" Type="Scene" Name="LED 075%" Path=".Intensity Palette">
    <Speed FadeIn="5000" FadeOut="5000" Duration="0"/>
-   <ChannelGroupsVal>8,200,9,170,11,230,15,200</ChannelGroupsVal>
+   <ChannelGroupsVal>8,200,9,170,11,230,15,200,22,128</ChannelGroupsVal>
    <FixtureVal ID="4">0,200</FixtureVal>
    <FixtureVal ID="5">0,200</FixtureVal>
    <FixtureVal ID="6">0,200</FixtureVal>
@@ -379,10 +398,12 @@
    <FixtureVal ID="13">12,230</FixtureVal>
    <FixtureVal ID="16">0,200</FixtureVal>
    <FixtureVal ID="17">0,200</FixtureVal>
+   <FixtureVal ID="15">22,128</FixtureVal>
+   <FixtureVal ID="18">22,128</FixtureVal>
   </Function>
   <Function ID="16" Type="Scene" Name="LED 100%" Path=".Intensity Palette">
    <Speed FadeIn="5000" FadeOut="5000" Duration="0"/>
-   <ChannelGroupsVal>8,255,9,255,11,255,15,255</ChannelGroupsVal>
+   <ChannelGroupsVal>8,255,9,255,11,255,15,255,22,255</ChannelGroupsVal>
    <FixtureVal ID="4">0,255</FixtureVal>
    <FixtureVal ID="5">0,255</FixtureVal>
    <FixtureVal ID="6">0,255</FixtureVal>
@@ -395,10 +416,12 @@
    <FixtureVal ID="13">12,255</FixtureVal>
    <FixtureVal ID="16">0,255</FixtureVal>
    <FixtureVal ID="17">0,255</FixtureVal>
+   <FixtureVal ID="15">22,255</FixtureVal>
+   <FixtureVal ID="18">22,255</FixtureVal>
   </Function>
   <Function ID="17" Type="Scene" Name="LED 000%" Path=".Intensity Palette">
    <Speed FadeIn="5000" FadeOut="5000" Duration="0"/>
-   <ChannelGroupsVal>8,0,9,0,11,0,15,0</ChannelGroupsVal>
+   <ChannelGroupsVal>8,0,9,0,11,0,15,0,22,0</ChannelGroupsVal>
    <FixtureVal ID="4">0,0</FixtureVal>
    <FixtureVal ID="5">0,0</FixtureVal>
    <FixtureVal ID="6">0,0</FixtureVal>
@@ -411,10 +434,12 @@
    <FixtureVal ID="13">12,0</FixtureVal>
    <FixtureVal ID="16">0,0</FixtureVal>
    <FixtureVal ID="17">0,0</FixtureVal>
+   <FixtureVal ID="15">22,0</FixtureVal>
+   <FixtureVal ID="18">22,0</FixtureVal>
   </Function>
   <Function ID="18" Type="Scene" Name="Red" Path=".Color Palette">
    <Speed FadeIn="5000" FadeOut="5000" Duration="0"/>
-   <ChannelGroupsVal>0,255,1,0,3,0,4,51,6,255,7,17,12,255,13,0,16,255,17,0,19,0,20,16</ChannelGroupsVal>
+   <ChannelGroupsVal>0,255,1,0,3,0,4,51,6,255,7,17,12,255,13,0,16,255,17,0,19,0,20,16,23,255,28,18</ChannelGroupsVal>
    <FixtureVal ID="4">1,255,2,0,4,0,5,51</FixtureVal>
    <FixtureVal ID="5">1,255,2,0,4,0,5,51</FixtureVal>
    <FixtureVal ID="6">1,255,2,0,4,0,5,51</FixtureVal>
@@ -427,6 +452,8 @@
    <FixtureVal ID="13">0,255,1,0,3,255,4,0,6,255,7,0</FixtureVal>
    <FixtureVal ID="16">1,255,2,0,4,0,5,16</FixtureVal>
    <FixtureVal ID="17">1,255,2,0,4,0,5,16</FixtureVal>
+   <FixtureVal ID="15">0,255,5,18,6,255,11,18,12,255,17,18</FixtureVal>
+   <FixtureVal ID="18">0,255,5,18,6,255,11,18,12,255,17,18</FixtureVal>
   </Function>
   <Monitor DisplayMode="0" ShowLabels="0">
    <Font>Arial,12,-1,5,50,0,0,0,0,0</Font>
