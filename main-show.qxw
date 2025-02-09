@@ -10,7 +10,7 @@
   <InputOutputMap>
    <BeatGenerator BeatType="Disabled" BPM="0"/>
    <Universe Name="Universe 1" ID="0">
-    <Output Plugin="ArtNet" UID="192.168.1.202" Line="2"/>
+    <Output Plugin="ArtNet" UID="192.168.1.202" Line="1"/>
    </Universe>
    <Universe Name="Universe 2" ID="1"/>
    <Universe Name="Universe 3" ID="2"/>
@@ -207,6 +207,16 @@
    <Address>269</Address>
    <Channels>25</Channels>
   </Fixture>
+  <FixtureGroup ID="0">
+   <Name>Ultrabars</Name>
+   <Size X="6" Y="1"/>
+   <Head X="0" Y="0" Fixture="15">2</Head>
+   <Head X="1" Y="0" Fixture="15">1</Head>
+   <Head X="2" Y="0" Fixture="15">0</Head>
+   <Head X="3" Y="0" Fixture="18">2</Head>
+   <Head X="4" Y="0" Fixture="18">1</Head>
+   <Head X="5" Y="0" Fixture="18">0</Head>
+  </FixtureGroup>
   <ChannelsGroup ID="8" Name="Hex Int" Value="0">4,0,5,0,6,0,7,0</ChannelsGroup>
   <ChannelsGroup ID="0" Name="Hex Red" Value="0">4,1,5,1,6,1,7,1</ChannelsGroup>
   <ChannelsGroup ID="1" Name="Hex Green" Value="0">4,2,5,2,6,2,7,2</ChannelsGroup>
@@ -454,6 +464,15 @@
    <FixtureVal ID="17">1,255,2,0,4,0,5,16</FixtureVal>
    <FixtureVal ID="15">0,255,5,18,6,255,11,18,12,255,17,18</FixtureVal>
    <FixtureVal ID="18">0,255,5,18,6,255,11,18,12,255,17,18</FixtureVal>
+  </Function>
+  <Function ID="19" Type="RGBMatrix" Name="Bars">
+   <Speed FadeIn="1000" FadeOut="2000" Duration="1500"/>
+   <Direction>Forward</Direction>
+   <RunOrder>Loop</RunOrder>
+   <Algorithm Type="Script">Stripes</Algorithm>
+   <MonoColor>4283590399</MonoColor>
+   <ControlMode>RGB</ControlMode>
+   <FixtureGroup>0</FixtureGroup>
   </Function>
   <Monitor DisplayMode="0" ShowLabels="0">
    <Font>Arial,12,-1,5,50,0,0,0,0,0</Font>
@@ -1005,6 +1024,19 @@
      <Function>4294967295</Function>
     </Playback>
    </Slider>
+   <Button Caption="Ultrabars testing" ID="29" Icon="">
+    <WindowState Visible="True" X="280" Y="515" Width="225" Height="145"/>
+    <Appearance>
+     <FrameStyle>None</FrameStyle>
+     <ForegroundColor>Default</ForegroundColor>
+     <BackgroundColor>4279310401</BackgroundColor>
+     <BackgroundImage>None</BackgroundImage>
+     <Font>Default</Font>
+    </Appearance>
+    <Function ID="19"/>
+    <Action>Toggle</Action>
+    <Intensity Adjust="False">100</Intensity>
+   </Button>
   </Frame>
   <Properties>
    <Size Width="1920" Height="1080"/>
