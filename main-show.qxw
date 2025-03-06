@@ -3656,108 +3656,87 @@
    <FixtureVal ID="12">0,64,1,42,2,19,3,64,4,42,5,19,6,64,7,42,8,19,12,255</FixtureVal>
    <FixtureVal ID="13">0,64,1,42,2,19,3,64,4,42,5,19,6,64,7,42,8,19,12,255</FixtureVal>
   </Function>
-  <Function ID="199" Type="Scene" Name="X Bridge 1 Build 1A" Path="Graves Into Gardens/.Effects">
-   <Speed FadeIn="0" FadeOut="0" Duration="0"/>
-   <ChannelGroupsVal>15,48,16,0,17,0,18,0,19,255,20,255,21,0,8,48,0,59,1,0,2,0,3,136,4,255,5,0,9,51,6,255,7,134,10,71,22,128,23,54,24,8,25,31,26,128,27,128,28,0,11,32,12,255,13,213,14,157</ChannelGroupsVal>
-   <FixtureVal ID="16"/>
-   <FixtureVal ID="17"/>
-   <FixtureVal ID="4"/>
-   <FixtureVal ID="5"/>
-   <FixtureVal ID="6"/>
-   <FixtureVal ID="7">0,64,1,160,2,0,3,0,4,255,5,16,6,0</FixtureVal>
-   <FixtureVal ID="8"/>
-   <FixtureVal ID="9"/>
-   <FixtureVal ID="10"/>
-   <FixtureVal ID="11"/>
-   <FixtureVal ID="15">6,255,7,8,8,0,9,255,10,62,11,0</FixtureVal>
-   <FixtureVal ID="18">6,255,7,8,8,0,9,255,10,62,11,0</FixtureVal>
-   <FixtureVal ID="12"/>
-   <FixtureVal ID="13"/>
+  <Function ID="199" Type="Scene" Name="Chorus 3" Path="Graves Into Gardens">
+   <Speed FadeIn="5000" FadeOut="5000" Duration="0"/>
+   <ChannelGroupsVal>15,48,16,128,17,0,18,0,19,255,20,255,21,0,8,64,0,128,1,0,2,12,3,255,4,0,5,0,9,67,6,255,7,32,10,15,22,64,23,128,24,0,25,8,26,255,27,16,28,0,11,32,12,255,13,13,14,0</ChannelGroupsVal>
+   <FixtureVal ID="16">0,48,1,128,2,0,3,0,4,255,5,255,6,0</FixtureVal>
+   <FixtureVal ID="17">0,48,1,128,2,0,3,0,4,255,5,255,6,0</FixtureVal>
+   <FixtureVal ID="4">0,64,1,128,2,0,3,12,4,255,5,0,6,0</FixtureVal>
+   <FixtureVal ID="5">0,64,1,128,2,0,3,12,4,255,5,0,6,0</FixtureVal>
+   <FixtureVal ID="6">0,64,1,128,2,0,3,12,4,255,5,0,6,0</FixtureVal>
+   <FixtureVal ID="7">0,64,1,128,2,0,3,12,4,255,5,0,6,0</FixtureVal>
+   <FixtureVal ID="8">0,255,1,32,2,15,6,67</FixtureVal>
+   <FixtureVal ID="9">0,255,1,32,2,15,6,67</FixtureVal>
+   <FixtureVal ID="10">0,255,1,32,2,15,6,67</FixtureVal>
+   <FixtureVal ID="11">0,255,1,32,2,15,6,67</FixtureVal>
+   <FixtureVal ID="15">0,128,1,0,2,8,3,255,4,16,5,0,6,128,7,0,8,8,9,255,10,16,11,0,12,128,13,0,14,8,15,255,16,16,17,0,22,64</FixtureVal>
+   <FixtureVal ID="18">0,128,1,0,2,8,3,255,4,16,5,0,6,128,7,0,8,8,9,255,10,16,11,0,12,128,13,0,14,8,15,255,16,16,17,0,22,64</FixtureVal>
+   <FixtureVal ID="12">0,255,1,13,2,0,3,255,4,13,5,0,6,255,7,13,8,0,12,32</FixtureVal>
+   <FixtureVal ID="13">0,255,1,13,2,0,3,255,4,13,5,0,6,255,7,13,8,0,12,32</FixtureVal>
   </Function>
-  <Function ID="200" Type="Collection" Name="Bridge 1 Build 1 Seq" Path="Graves Into Gardens">
+  <Function ID="200" Type="Collection" Name="Bridge 1 Build 1 Seq (17s in)" Path="Graves Into Gardens">
    <Step Number="0">216</Step>
    <Step Number="1">209</Step>
    <Step Number="2">211</Step>
    <Step Number="3">210</Step>
    <Step Number="4">215</Step>
   </Function>
-  <Function ID="201" Type="Scene" Name="X Bridge 1 Build 1C" Path="Graves Into Gardens/.Effects">
-   <Speed FadeIn="0" FadeOut="0" Duration="0"/>
-   <ChannelGroupsVal>15,48,16,0,17,0,18,0,19,255,20,255,21,0,8,48,0,59,1,0,2,0,3,136,4,255,5,0,9,51,6,255,7,134,10,71,22,128,23,54,24,8,25,31,26,128,27,128,28,0,11,32,12,255,13,213,14,157</ChannelGroupsVal>
-   <FixtureVal ID="16">0,96,1,255,2,0,3,0,4,255,5,64,6,0</FixtureVal>
-   <FixtureVal ID="17"/>
-   <FixtureVal ID="4"/>
-   <FixtureVal ID="5"/>
-   <FixtureVal ID="6"/>
-   <FixtureVal ID="7"/>
-   <FixtureVal ID="8"/>
-   <FixtureVal ID="9"/>
-   <FixtureVal ID="10"/>
-   <FixtureVal ID="11"/>
-   <FixtureVal ID="15"/>
-   <FixtureVal ID="18"/>
-   <FixtureVal ID="12"/>
-   <FixtureVal ID="13"/>
+  <Function ID="201" Type="Scene" Name="Chorus 3 Big (14s in)" Path="Graves Into Gardens">
+   <Speed FadeIn="14000" FadeOut="5000" Duration="0"/>
+   <ChannelGroupsVal>15,80,16,255,17,0,18,0,19,255,20,255,21,0,8,90,0,255,1,0,2,12,3,128,4,0,5,0,9,67,6,255,7,32,10,15,22,128,23,255,24,0,25,8,26,255,27,16,28,0,11,90,12,255,13,13,14,0</ChannelGroupsVal>
+   <FixtureVal ID="16">0,80,1,255,2,0,3,0,4,255,5,255,6,0</FixtureVal>
+   <FixtureVal ID="17">0,80,1,255,2,0,3,0,4,255,5,255,6,0</FixtureVal>
+   <FixtureVal ID="4">0,90,1,255,2,0,3,12,4,128,5,0,6,0</FixtureVal>
+   <FixtureVal ID="5">0,90,1,255,2,0,3,12,4,128,5,0,6,0</FixtureVal>
+   <FixtureVal ID="6">0,90,1,255,2,0,3,12,4,128,5,0,6,0</FixtureVal>
+   <FixtureVal ID="7">0,90,1,255,2,0,3,12,4,128,5,0,6,0</FixtureVal>
+   <FixtureVal ID="8">0,255,1,32,2,15,6,67</FixtureVal>
+   <FixtureVal ID="9">0,255,1,32,2,15,6,67</FixtureVal>
+   <FixtureVal ID="10">0,255,1,32,2,15,6,67</FixtureVal>
+   <FixtureVal ID="11">0,255,1,32,2,15,6,67</FixtureVal>
+   <FixtureVal ID="15">0,255,1,0,2,8,3,255,4,16,5,0,6,255,7,0,8,8,9,255,10,16,11,0,12,255,13,0,14,8,15,255,16,16,17,0,22,128</FixtureVal>
+   <FixtureVal ID="18">0,255,1,0,2,8,3,255,4,16,5,0,6,255,7,0,8,8,9,255,10,16,11,0,12,255,13,0,14,8,15,255,16,16,17,0,22,128</FixtureVal>
+   <FixtureVal ID="12">0,255,1,13,2,0,3,255,4,13,5,0,6,255,7,13,8,0,12,90</FixtureVal>
+   <FixtureVal ID="13">0,255,1,13,2,0,3,255,4,13,5,0,6,255,7,13,8,0,12,90</FixtureVal>
   </Function>
-  <Function ID="202" Type="Chaser" Name="X Offset Bridge 1 Build 1A" Path="Effects/Graves Into Gardens">
-   <Speed FadeIn="0" FadeOut="0" Duration="0"/>
-   <Direction>Forward</Direction>
-   <RunOrder>SingleShot</RunOrder>
-   <SpeedModes FadeIn="PerStep" FadeOut="PerStep" Duration="PerStep"/>
-   <Step Number="0" FadeIn="0" Hold="3000" FadeOut="0">203</Step>
-   <Step Number="1" FadeIn="8000" Hold="4294967294" FadeOut="4000">199</Step>
+  <Function ID="202" Type="Scene" Name="Bridge 2 Build (48s in)" Path="Graves Into Gardens">
+   <Speed FadeIn="48000" FadeOut="5000" Duration="0"/>
+   <ChannelGroupsVal>15,255,16,255,17,0,18,0,19,255,20,255,21,0,8,255,0,255,1,0,2,12,3,255,4,255,5,0,9,255,6,255,7,32,10,15,22,255,23,255,24,0,25,16,26,255,27,76,28,0,11,255,12,255,13,75,14,23</ChannelGroupsVal>
+   <FixtureVal ID="16">0,255,1,255,2,0,3,0,4,255,5,255,6,0</FixtureVal>
+   <FixtureVal ID="17">0,255,1,255,2,0,3,0,4,255,5,255,6,0</FixtureVal>
+   <FixtureVal ID="4">0,255,1,255,2,0,3,12,4,255,5,255,6,0</FixtureVal>
+   <FixtureVal ID="5">0,255,1,255,2,0,3,12,4,255,5,255,6,0</FixtureVal>
+   <FixtureVal ID="6">0,255,1,255,2,0,3,12,4,255,5,255,6,0</FixtureVal>
+   <FixtureVal ID="7">0,255,1,255,2,0,3,12,4,255,5,255,6,0</FixtureVal>
+   <FixtureVal ID="8">0,255,1,32,2,15,6,255</FixtureVal>
+   <FixtureVal ID="9">0,255,1,32,2,15,6,255</FixtureVal>
+   <FixtureVal ID="10">0,255,1,32,2,15,6,255</FixtureVal>
+   <FixtureVal ID="11">0,255,1,32,2,15,6,255</FixtureVal>
+   <FixtureVal ID="15">0,255,1,0,2,16,3,255,4,76,5,0,6,255,7,0,8,16,9,255,10,76,11,0,12,255,13,0,14,16,15,255,16,76,17,0,22,255</FixtureVal>
+   <FixtureVal ID="18">0,255,1,0,2,16,3,255,4,76,5,0,6,255,7,0,8,16,9,255,10,76,11,0,12,255,13,0,14,16,15,255,16,76,17,0,22,255</FixtureVal>
+   <FixtureVal ID="12">0,255,1,75,2,23,3,255,4,75,5,23,6,255,7,75,8,23,12,255</FixtureVal>
+   <FixtureVal ID="13">0,255,1,75,2,23,3,255,4,75,5,23,6,255,7,75,8,23,12,255</FixtureVal>
   </Function>
   <Function ID="203" Type="Scene" Name=".Empty">
    <Speed FadeIn="0" FadeOut="0" Duration="0"/>
   </Function>
-  <Function ID="204" Type="Scene" Name="X Bridge 1 Build 1 Background" Path="Graves Into Gardens/.Effects">
-   <Speed FadeIn="1000" FadeOut="5000" Duration="0"/>
-   <ChannelGroupsVal>15,255,16,0,17,0,18,0,19,32,20,32,21,0,8,255,0,16,1,0,2,0,3,39,4,58,5,0,9,255,6,64,7,27,10,8,22,255,23,27,24,5,25,12,26,38,27,39,28,0,11,255,12,33,13,18,14,8</ChannelGroupsVal>
-   <FixtureVal ID="16">0,255,1,0,2,0,3,0,4,32,5,32,6,0</FixtureVal>
-   <FixtureVal ID="17">0,255,1,0,2,0,3,0,4,32,5,32,6,0</FixtureVal>
-   <FixtureVal ID="4">0,255,1,16,2,0,3,0,4,39,5,58,6,0</FixtureVal>
-   <FixtureVal ID="5">0,255,1,16,2,0,3,0,4,39,5,58,6,0</FixtureVal>
-   <FixtureVal ID="6">0,255,1,16,2,0,3,0,4,39,5,58,6,0</FixtureVal>
-   <FixtureVal ID="7">0,255,1,16,2,0,3,0,4,39,5,58,6,0</FixtureVal>
-   <FixtureVal ID="8">0,64,1,27,2,8,6,255</FixtureVal>
-   <FixtureVal ID="9">0,64,1,27,2,8,6,255</FixtureVal>
-   <FixtureVal ID="10">0,64,1,27,2,8,6,255</FixtureVal>
-   <FixtureVal ID="11">0,64,1,27,2,8,6,255</FixtureVal>
-   <FixtureVal ID="15">0,27,1,5,2,12,3,38,4,39,5,0,6,27,7,5,8,12,9,38,10,39,11,0,12,27,13,5,14,12,15,38,16,39,17,0,22,255</FixtureVal>
-   <FixtureVal ID="18">0,27,1,5,2,12,3,38,4,39,5,0,6,27,7,5,8,12,9,38,10,39,11,0,12,27,13,5,14,12,15,38,16,39,17,0,22,255</FixtureVal>
-   <FixtureVal ID="12">0,33,1,18,2,8,3,33,4,18,5,8,6,33,7,18,8,8,12,255</FixtureVal>
-   <FixtureVal ID="13">0,33,1,18,2,8,3,33,4,18,5,8,6,33,7,18,8,8,12,255</FixtureVal>
-  </Function>
-  <Function ID="205" Type="Scene" Name="X Bridge 1 Build 1B" Path="Graves Into Gardens/.Effects">
-   <Speed FadeIn="0" FadeOut="0" Duration="0"/>
-   <ChannelGroupsVal>15,48,16,0,17,0,18,0,19,255,20,255,21,0,8,48,0,59,1,0,2,0,3,136,4,255,5,0,9,51,6,255,7,134,10,71,22,128,23,54,24,8,25,31,26,128,27,128,28,0,11,32,12,255,13,213,14,157</ChannelGroupsVal>
-   <FixtureVal ID="16"/>
-   <FixtureVal ID="17"/>
-   <FixtureVal ID="4"/>
-   <FixtureVal ID="5">0,64,1,160,2,0,3,0,4,255,5,16,6,0</FixtureVal>
-   <FixtureVal ID="6"/>
-   <FixtureVal ID="7"/>
-   <FixtureVal ID="8"/>
-   <FixtureVal ID="9"/>
-   <FixtureVal ID="10"/>
-   <FixtureVal ID="11"/>
-   <FixtureVal ID="15">6,255,7,8,8,0,9,255,10,62,11,0</FixtureVal>
-   <FixtureVal ID="18">6,255,7,8,8,0,9,255,10,62,11,0</FixtureVal>
-   <FixtureVal ID="12"/>
-   <FixtureVal ID="13"/>
-  </Function>
-  <Function ID="206" Type="Collection" Name="X Bridge 1 Build 1" Path="Graves Into Gardens">
-   <Step Number="0">204</Step>
-   <Step Number="1">202</Step>
-   <Step Number="2">207</Step>
-  </Function>
-  <Function ID="207" Type="Chaser" Name="X Offset Bridge 1 Build 1B" Path="Effects/Graves Into Gardens">
-   <Speed FadeIn="0" FadeOut="0" Duration="0"/>
-   <Direction>Forward</Direction>
-   <RunOrder>SingleShot</RunOrder>
-   <SpeedModes FadeIn="PerStep" FadeOut="PerStep" Duration="PerStep"/>
-   <Step Number="0" FadeIn="0" Hold="7000" FadeOut="0">203</Step>
-   <Step Number="1" FadeIn="8000" Hold="4294967294" FadeOut="4000">205</Step>
+  <Function ID="204" Type="Scene" Name="Song Out" Path="Graves Into Gardens">
+   <Speed FadeIn="8000" FadeOut="5000" Duration="0"/>
+   <ChannelGroupsVal>15,133,16,205,17,0,18,0,19,255,20,255,21,0,8,123,0,145,1,0,2,12,3,255,4,0,5,0,9,67,6,255,7,32,10,15,22,64,23,255,24,0,25,8,26,64,27,16,28,0,11,32,12,255,13,13,14,0</ChannelGroupsVal>
+   <FixtureVal ID="16">0,133,1,205,2,0,3,0,4,255,5,255,6,0</FixtureVal>
+   <FixtureVal ID="17">0,133,1,205,2,0,3,0,4,255,5,255,6,0</FixtureVal>
+   <FixtureVal ID="4">0,123,1,145,2,0,3,12,4,255,5,0,6,0</FixtureVal>
+   <FixtureVal ID="5">0,123,1,145,2,0,3,12,4,255,5,0,6,0</FixtureVal>
+   <FixtureVal ID="6">0,123,1,145,2,0,3,12,4,255,5,0,6,0</FixtureVal>
+   <FixtureVal ID="7">0,123,1,145,2,0,3,12,4,255,5,0,6,0</FixtureVal>
+   <FixtureVal ID="8">0,255,1,32,2,15,6,67</FixtureVal>
+   <FixtureVal ID="9">0,255,1,32,2,15,6,67</FixtureVal>
+   <FixtureVal ID="10">0,255,1,32,2,15,6,67</FixtureVal>
+   <FixtureVal ID="11">0,255,1,32,2,15,6,67</FixtureVal>
+   <FixtureVal ID="15">0,255,1,0,2,8,3,64,4,16,5,0,6,255,7,0,8,8,9,64,10,16,11,0,12,255,13,0,14,8,15,64,16,16,17,0,22,64</FixtureVal>
+   <FixtureVal ID="18">0,255,1,0,2,8,3,64,4,16,5,0,6,255,7,0,8,8,9,64,10,16,11,0,12,255,13,0,14,8,15,64,16,16,17,0,22,64</FixtureVal>
+   <FixtureVal ID="12">0,255,1,13,2,0,3,255,4,13,5,0,6,255,7,13,8,0,12,32</FixtureVal>
+   <FixtureVal ID="13">0,255,1,13,2,0,3,255,4,13,5,0,6,255,7,13,8,0,12,32</FixtureVal>
   </Function>
   <Function ID="208" Type="Scene" Name="Bridge 1 Build 1A" Hidden="True">
    <Speed FadeIn="0" FadeOut="0" Duration="0"/>
@@ -3912,7 +3891,7 @@
    <FixtureVal ID="8">0,0,1,0,2,0,6,0</FixtureVal>
    <FixtureVal ID="10">0,0,1,0,2,0,6,0</FixtureVal>
   </Function>
-  <Function ID="226" Type="Collection" Name="Bridge 2 Build 2 Seq" Path="Graves Into Gardens">
+  <Function ID="226" Type="Collection" Name="Bridge 2 Build 2 Seq (17s in)" Path="Graves Into Gardens">
    <Step Number="0">217</Step>
    <Step Number="1">219</Step>
    <Step Number="2">220</Step>
@@ -3924,12 +3903,16 @@
    <Direction>Forward</Direction>
    <RunOrder>SingleShot</RunOrder>
    <SpeedModes FadeIn="Default" FadeOut="Default" Duration="PerStep"/>
-   <Step Number="0" FadeIn="0" Hold="4294967294" FadeOut="0">195</Step>
-   <Step Number="1" FadeIn="0" Hold="4294967294" FadeOut="0">196</Step>
-   <Step Number="2" FadeIn="0" Hold="4294967294" FadeOut="0">197</Step>
-   <Step Number="3" FadeIn="0" Hold="4294967294" FadeOut="0">198</Step>
-   <Step Number="4" FadeIn="0" Hold="4294967294" FadeOut="0">200</Step>
-   <Step Number="5" FadeIn="0" Hold="4294967294" FadeOut="0">226</Step>
+   <Step Number="0" FadeIn="0" Hold="4294967294" FadeOut="0" Note="    GRAVES INTO GARDENS in + v1">195</Step>
+   <Step Number="1" FadeIn="0" Hold="4294967294" FadeOut="0" Note="&quot;There's nothing better than You&quot; + v2">196</Step>
+   <Step Number="2" FadeIn="0" Hold="4294967294" FadeOut="0" Note="&quot;There's nothing better than You&quot;">197</Step>
+   <Step Number="3" FadeIn="0" Hold="4294967294" FadeOut="0" Note="Inst + &quot;You turn mourning&quot; #1">198</Step>
+   <Step Number="4" FadeIn="0" Hold="4294967294" FadeOut="0" Note="&quot;You turn mourning to dancing&quot; #2">200</Step>
+   <Step Number="5" FadeIn="0" Hold="4294967294" FadeOut="0" Note="&quot;You turn graves into gardens&quot;">226</Step>
+   <Step Number="6" FadeIn="0" Hold="4294967294" FadeOut="0" Note="&quot;There's nothing better than You&quot;">199</Step>
+   <Step Number="7" FadeIn="0" Hold="4294967294" FadeOut="0" Note="&quot;Nothing is better than You&quot;">201</Step>
+   <Step Number="8" FadeIn="0" Hold="4294967294" FadeOut="0" Note="&quot;You turn graves into gardens&quot;">202</Step>
+   <Step Number="9" FadeIn="0" Hold="4294967294" FadeOut="0" Note="    GRAVES INTO GARDENS out">204</Step>
   </Function>
   <Monitor DisplayMode="0" ShowLabels="0">
    <Font>Arial,12,-1,5,50,0,0,0,0,0</Font>
