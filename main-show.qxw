@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE Workspace>
-<Workspace xmlns="http://www.qlcplus.org/Workspace" CurrentWindow="FunctionManager">
+<Workspace xmlns="http://www.qlcplus.org/Workspace" CurrentWindow="VirtualConsole">
  <Creator>
   <Name>Q Light Controller Plus</Name>
   <Version>4.13.1</Version>
@@ -1039,33 +1039,31 @@
    <Direction>Forward</Direction>
    <RunOrder>SingleShot</RunOrder>
    <SpeedModes FadeIn="Default" FadeOut="Default" Duration="PerStep"/>
-   <Step Number="0" FadeIn="0" Hold="4294967294" FadeOut="0" Note="    TRUST IN GOD in">205</Step>
-   <Step Number="1" FadeIn="0" Hold="4294967294" FadeOut="0" Note="&quot;I trust in God&quot;">206</Step>
-   <Step Number="2" FadeIn="0" Hold="4294967294" FadeOut="0" Note="&quot;I trust in God&quot;">207</Step>
-   <Step Number="3" FadeIn="0" Hold="4294967294" FadeOut="0" Note="Inst">228</Step>
-   <Step Number="4" FadeIn="0" Hold="4294967294" FadeOut="0" Note="&quot;That's why I trust Him&quot; #2">229</Step>
-   <Step Number="5" FadeIn="0" Hold="4294967294" FadeOut="0" Note="&quot;I trust in God&quot;">230</Step>
-   <Step Number="6" FadeIn="0" Hold="4294967294" FadeOut="0" Note="&quot;I sought the Lord&quot;">231</Step>
-   <Step Number="7" FadeIn="0" Hold="4294967294" FadeOut="0" Note="Inst">232</Step>
-   <Step Number="8" FadeIn="0" Hold="4294967294" FadeOut="0" Note="    TRUST IN GOD out">233</Step>
-   <Step Number="9" FadeIn="0" Hold="4294967294" FadeOut="0" Note="    WE HAVE HOPE in">426</Step>
-   <Step Number="10" FadeIn="0" Hold="4294967294" FadeOut="0" Note="&quot;We have hope in Jesus&quot;">443</Step>
-   <Step Number="11" FadeIn="0" Hold="4294967294" FadeOut="0" Note="&quot;We have hope in Jesus&quot;">444</Step>
-   <Step Number="12" FadeIn="0" Hold="4294967294" FadeOut="0" Note="Inst">445</Step>
-   <Step Number="13" FadeIn="0" Hold="4294967294" FadeOut="0" Note="&quot;No He has never failed&quot; #3">446</Step>
-   <Step Number="14" FadeIn="0" Hold="4294967294" FadeOut="0" Note="&quot;We have hope in Jesus&quot;">447</Step>
-   <Step Number="15" FadeIn="0" Hold="4294967294" FadeOut="0" Note="    WE HAVE HOPE out">448</Step>
-   <Step Number="16" FadeIn="0" Hold="4294967294" FadeOut="0" Note="    WE HAVE HOPE reprise in">446</Step>
-   <Step Number="17" FadeIn="0" Hold="4294967294" FadeOut="0" Note="&quot;We have hope in Jesus&quot;">447</Step>
-   <Step Number="18" FadeIn="0" Hold="4294967294" FadeOut="0" Note="    WE HAVE HOPE out">448</Step>
-   <Step Number="19" FadeIn="0" Hold="4294967294" FadeOut="0" Note="    MERCY in">450</Step>
-   <Step Number="20" FadeIn="0" Hold="4294967294" FadeOut="0" Note="&quot;Now I'm alive to tell&quot; #2">451</Step>
-   <Step Number="21" FadeIn="0" Hold="4294967294" FadeOut="0" Note="Inst">452</Step>
-   <Step Number="22" FadeIn="0" Hold="4294967294" FadeOut="0" Note="&quot;Was the cross meant&quot; #2">453</Step>
-   <Step Number="23" FadeIn="0" Hold="4294967294" FadeOut="0" Note="&quot;Now I'm alive to tell&quot;">454</Step>
-   <Step Number="24" FadeIn="0" Hold="4294967294" FadeOut="0" Note="&quot;What can wash away my sin&quot;">455</Step>
-   <Step Number="25" FadeIn="0" Hold="4294967294" FadeOut="0" Note="&quot;Was the cross meant&quot;">456</Step>
-   <Step Number="26" FadeIn="0" Hold="4294967294" FadeOut="0" Note="    MERCY out">457</Step>
+   <Step Number="0" FadeIn="0" Hold="4294967294" FadeOut="0" Note="    RAISE A HALLELUJAH in + v1">107</Step>
+   <Step Number="1" FadeIn="0" Hold="4294967294" FadeOut="0" Note="&quot;I'm gonna sing&quot; + v2">108</Step>
+   <Step Number="2" FadeIn="0" Hold="4294967294" FadeOut="0" Note="&quot;I'm gonna sing&quot;">109</Step>
+   <Step Number="3" FadeIn="0" Hold="4294967294" FadeOut="0" Note="Inst down [25s wash out]">110</Step>
+   <Step Number="4" FadeIn="0" Hold="4294967294" FadeOut="0" Note="&quot;Sing a little louder&quot; #5">111</Step>
+   <Step Number="5" FadeIn="0" Hold="4294967294" FadeOut="0" Note="&quot;I'M GONNA SING&quot; [must be on time]">112</Step>
+   <Step Number="6" FadeIn="0" Hold="4294967294" FadeOut="0" Note="&quot;Louder and louder&quot; [fast follow]">113</Step>
+   <Step Number="7" FadeIn="0" Hold="4294967294" FadeOut="0" Note="&quot;I'm gonna sing&quot; #2">114</Step>
+   <Step Number="8" FadeIn="0" Hold="4294967294" FadeOut="0" Note="&quot;I raise a hallelujah&quot;">115</Step>
+   <Step Number="9" FadeIn="0" Hold="4294967294" FadeOut="0" Note="    RAISE A HALLELUJAH out">116</Step>
+   <Step Number="10" FadeIn="0" Hold="4294967294" FadeOut="0" Note="    TREMBLE in">536</Step>
+   <Step Number="11" FadeIn="0" Hold="4294967294" FadeOut="0" Note="&quot;Peace bring the&quot; + v2">529</Step>
+   <Step Number="12" FadeIn="0" Hold="4294967294" FadeOut="0" Note="&quot;Jesus,  Jesus&quot;">530</Step>
+   <Step Number="13" FadeIn="0" Hold="4294967294" FadeOut="0" Note="&quot;Jesus,  Jesus&quot;">531</Step>
+   <Step Number="14" FadeIn="0" Hold="4294967294" FadeOut="0" Note="&quot;Your name is a light&quot;">533</Step>
+   <Step Number="15" FadeIn="0" Hold="4294967294" FadeOut="0" Note="&quot;Jesus,  Jesus&quot;">535</Step>
+   <Step Number="16" FadeIn="0" Hold="4294967294" FadeOut="0" Note="Inst">542</Step>
+   <Step Number="17" FadeIn="0" Hold="4294967294" FadeOut="0" Note="&quot;Your name is a light&quot; #3">543</Step>
+   <Step Number="18" FadeIn="0" Hold="4294967294" FadeOut="0" Note="&quot;Jesus,  Jesus&quot;">544</Step>
+   <Step Number="19" FadeIn="0" Hold="4294967294" FadeOut="0" Note="    TREMBLE out">545</Step>
+   <Step Number="20" FadeIn="0" Hold="4294967294" FadeOut="0" Note="    CAME TO MY RESCUE in">537</Step>
+   <Step Number="21" FadeIn="0" Hold="4294967294" FadeOut="0" Note="&quot;I called,  You answered&quot;">538</Step>
+   <Step Number="22" FadeIn="0" Hold="4294967294" FadeOut="0" Note="&quot;In my life&quot;">539</Step>
+   <Step Number="23" FadeIn="0" Hold="4294967294" FadeOut="0" Note="&quot;I called,  You answered&quot;">540</Step>
+   <Step Number="24" FadeIn="0" Hold="4294967294" FadeOut="0" Note="    CAME TO MY RESCUE out">547</Step>
   </Function>
   <Function ID="52" Type="Scene" Name="Song In" Path=".Templates">
    <Speed FadeIn="5000" FadeOut="5000" Duration="0"/>
@@ -8043,8 +8041,8 @@
    <FixtureVal ID="15">0,0,1,83,2,255,3,0,4,35,5,0,6,0,7,83,8,255,9,0,10,35,11,0,12,0,13,83,14,255,15,0,16,35,17,0,22,132</FixtureVal>
    <FixtureVal ID="18">0,0,1,83,2,255,3,0,4,35,5,0,6,0,7,83,8,255,9,0,10,35,11,0,12,0,13,83,14,255,15,0,16,35,17,0,22,132</FixtureVal>
   </Function>
-  <Function ID="467" Type="Scene" Name="Chorus 4 Build (32s in)" Path="The Creed">
-   <Speed FadeIn="32000" FadeOut="5000" Duration="0"/>
+  <Function ID="467" Type="Scene" Name="Chorus 4 Build (28s in)" Path="The Creed">
+   <Speed FadeIn="28000" FadeOut="5000" Duration="0"/>
    <ChannelGroupsVal>15,127,16,0,17,92,18,154,19,0,20,255,21,0,8,89,0,0,1,25,2,158,3,0,4,255,5,0,22,159,23,0,24,83,25,172,26,0,27,164,28,0</ChannelGroupsVal>
    <FixtureVal ID="16">0,127,1,0,2,92,3,154,4,0,5,255,6,0</FixtureVal>
    <FixtureVal ID="17">0,127,1,0,2,92,3,154,4,0,5,255,6,0</FixtureVal>
@@ -8208,6 +8206,802 @@
    <FixtureVal ID="15">0,0,1,83,2,255,3,0,4,255,5,0,6,0,7,83,8,255,9,0,10,255,11,0,12,0,13,83,14,255,15,0,16,255,17,0,22,162</FixtureVal>
    <FixtureVal ID="18">0,0,1,83,2,255,3,0,4,255,5,0,6,0,7,83,8,255,9,0,10,255,11,0,12,0,13,83,14,255,15,0,16,255,17,0,22,162</FixtureVal>
   </Function>
+  <Function ID="480" Type="Scene" Name="Song In" Path="Touch of Heaven">
+   <Speed FadeIn="5000" FadeOut="5000" Duration="0"/>
+   <ChannelGroupsVal>15,193,16,0,17,0,18,0,19,156,20,77,21,0,8,0,0,0,1,0,2,0,3,0,4,0,5,0,22,75,23,0,24,0,25,0,26,44,27,0,28,0</ChannelGroupsVal>
+   <FixtureVal ID="16">0,193,1,0,2,0,3,0,4,156,5,77,6,0</FixtureVal>
+   <FixtureVal ID="17">0,193,1,0,2,0,3,0,4,156,5,77,6,0</FixtureVal>
+   <FixtureVal ID="4">0,0,1,0,2,0,3,0,4,0,5,0,6,0</FixtureVal>
+   <FixtureVal ID="5">0,0,1,0,2,0,3,0,4,0,5,0,6,0</FixtureVal>
+   <FixtureVal ID="6">0,0,1,0,2,0,3,0,4,0,5,0,6,0</FixtureVal>
+   <FixtureVal ID="7">0,0,1,0,2,0,3,0,4,0,5,0,6,0</FixtureVal>
+   <FixtureVal ID="15">0,0,1,0,2,0,3,44,4,0,5,0,6,0,7,0,8,0,9,44,10,0,11,0,12,0,13,0,14,0,15,44,16,0,17,0,22,75</FixtureVal>
+   <FixtureVal ID="18">0,0,1,0,2,0,3,44,4,0,5,0,6,0,7,0,8,0,9,44,10,0,11,0,12,0,13,0,14,0,15,44,16,0,17,0,22,75</FixtureVal>
+  </Function>
+  <Function ID="481" Type="Scene" Name="Verse 1" Path="Touch of Heaven">
+   <Speed FadeIn="5000" FadeOut="5000" Duration="0"/>
+   <ChannelGroupsVal>15,224,16,0,17,0,18,0,19,152,20,88,21,0,8,54,0,0,1,0,2,0,3,37,4,7,5,0,22,154,23,0,24,0,25,0,26,44,27,0,28,0</ChannelGroupsVal>
+   <FixtureVal ID="16">0,224,1,0,2,0,3,0,4,152,5,88,6,0</FixtureVal>
+   <FixtureVal ID="17">0,224,1,0,2,0,3,0,4,152,5,88,6,0</FixtureVal>
+   <FixtureVal ID="4">0,54,1,0,2,0,3,0,4,37,5,7,6,0</FixtureVal>
+   <FixtureVal ID="5">0,54,1,0,2,0,3,0,4,37,5,7,6,0</FixtureVal>
+   <FixtureVal ID="6">0,54,1,0,2,0,3,0,4,37,5,7,6,0</FixtureVal>
+   <FixtureVal ID="7">0,54,1,0,2,0,3,0,4,37,5,7,6,0</FixtureVal>
+   <FixtureVal ID="15">0,0,1,0,2,0,3,44,4,0,5,0,6,0,7,0,8,0,9,44,10,0,11,0,12,0,13,0,14,0,15,44,16,0,17,0,22,154</FixtureVal>
+   <FixtureVal ID="18">0,0,1,0,2,0,3,44,4,0,5,0,6,0,7,0,8,0,9,44,10,0,11,0,12,0,13,0,14,0,15,44,16,0,17,0,22,154</FixtureVal>
+  </Function>
+  <Function ID="482" Type="Scene" Name="Chorus 1" Path="Touch of Heaven">
+   <Speed FadeIn="5000" FadeOut="5000" Duration="0"/>
+   <ChannelGroupsVal>15,236,16,0,17,0,18,0,19,196,20,113,21,0,8,70,0,0,1,0,2,0,3,26,4,5,5,0,22,73,23,39,24,0,25,0,26,88,27,0,28,0</ChannelGroupsVal>
+   <FixtureVal ID="16">0,236,1,0,2,0,3,0,4,196,5,113,6,0</FixtureVal>
+   <FixtureVal ID="17">0,236,1,0,2,0,3,0,4,196,5,113,6,0</FixtureVal>
+   <FixtureVal ID="4">0,70,1,0,2,0,3,0,4,26,5,5,6,0</FixtureVal>
+   <FixtureVal ID="5">0,70,1,0,2,0,3,0,4,26,5,5,6,0</FixtureVal>
+   <FixtureVal ID="6">0,70,1,0,2,0,3,0,4,26,5,5,6,0</FixtureVal>
+   <FixtureVal ID="7">0,70,1,0,2,0,3,0,4,26,5,5,6,0</FixtureVal>
+   <FixtureVal ID="15">0,39,1,0,2,0,3,88,4,0,5,0,6,39,7,0,8,0,9,88,10,0,11,0,12,39,13,0,14,0,15,88,16,0,17,0,22,73</FixtureVal>
+   <FixtureVal ID="18">0,39,1,0,2,0,3,88,4,0,5,0,6,39,7,0,8,0,9,88,10,0,11,0,12,39,13,0,14,0,15,88,16,0,17,0,22,73</FixtureVal>
+  </Function>
+  <Function ID="483" Type="Scene" Name="Verse 2" Path="Touch of Heaven">
+   <Speed FadeIn="5000" FadeOut="5000" Duration="0"/>
+   <ChannelGroupsVal>15,238,16,0,17,0,18,0,19,195,20,132,21,0,8,98,0,0,1,0,2,0,3,25,4,3,5,0,22,161,23,0,24,0,25,0,26,78,27,0,28,0</ChannelGroupsVal>
+   <FixtureVal ID="16">0,238,1,0,2,0,3,0,4,195,5,132,6,0</FixtureVal>
+   <FixtureVal ID="17">0,238,1,0,2,0,3,0,4,195,5,132,6,0</FixtureVal>
+   <FixtureVal ID="4">0,98,1,0,2,0,3,0,4,25,5,3,6,0</FixtureVal>
+   <FixtureVal ID="5">0,98,1,0,2,0,3,0,4,25,5,3,6,0</FixtureVal>
+   <FixtureVal ID="6">0,98,1,0,2,0,3,0,4,25,5,3,6,0</FixtureVal>
+   <FixtureVal ID="7">0,98,1,0,2,0,3,0,4,25,5,3,6,0</FixtureVal>
+   <FixtureVal ID="15">0,0,1,0,2,0,3,78,4,0,5,0,6,0,7,0,8,0,9,78,10,0,11,0,12,0,13,0,14,0,15,78,16,0,17,0,22,161</FixtureVal>
+   <FixtureVal ID="18">0,0,1,0,2,0,3,78,4,0,5,0,6,0,7,0,8,0,9,78,10,0,11,0,12,0,13,0,14,0,15,78,16,0,17,0,22,161</FixtureVal>
+  </Function>
+  <Function ID="484" Type="Scene" Name="Chorus 2" Path="Touch of Heaven">
+   <Speed FadeIn="5000" FadeOut="5000" Duration="0"/>
+   <ChannelGroupsVal>15,230,16,0,17,0,18,0,19,174,20,162,21,0,8,115,0,0,1,0,2,0,3,70,4,4,5,0,22,168,23,0,24,0,25,0,26,78,27,0,28,0</ChannelGroupsVal>
+   <FixtureVal ID="16">0,230,1,0,2,0,3,0,4,174,5,162,6,0</FixtureVal>
+   <FixtureVal ID="17">0,230,1,0,2,0,3,0,4,174,5,162,6,0</FixtureVal>
+   <FixtureVal ID="4">0,115,1,0,2,0,3,0,4,70,5,4,6,0</FixtureVal>
+   <FixtureVal ID="5">0,115,1,0,2,0,3,0,4,70,5,4,6,0</FixtureVal>
+   <FixtureVal ID="6">0,115,1,0,2,0,3,0,4,70,5,4,6,0</FixtureVal>
+   <FixtureVal ID="7">0,115,1,0,2,0,3,0,4,70,5,4,6,0</FixtureVal>
+   <FixtureVal ID="15">0,0,1,0,2,0,3,78,4,0,5,0,6,0,7,0,8,0,9,78,10,0,11,0,12,0,13,0,14,0,15,78,16,0,17,0,22,168</FixtureVal>
+   <FixtureVal ID="18">0,0,1,0,2,0,3,78,4,0,5,0,6,0,7,0,8,0,9,78,10,0,11,0,12,0,13,0,14,0,15,78,16,0,17,0,22,168</FixtureVal>
+  </Function>
+  <Function ID="485" Type="Scene" Name="Bridge (18s in)" Path="Touch of Heaven">
+   <Speed FadeIn="18000" FadeOut="5000" Duration="0"/>
+   <ChannelGroupsVal>15,229,16,0,17,0,18,0,19,234,20,160,21,0,8,26,0,50,1,0,2,0,3,36,4,11,5,0,22,97,23,72,24,0,25,0,26,78,27,0,28,0</ChannelGroupsVal>
+   <FixtureVal ID="16">0,229,1,0,2,0,3,0,4,234,5,160,6,0</FixtureVal>
+   <FixtureVal ID="17">0,229,1,0,2,0,3,0,4,234,5,160,6,0</FixtureVal>
+   <FixtureVal ID="4">0,26,1,50,2,0,3,0,4,36,5,11,6,0</FixtureVal>
+   <FixtureVal ID="5">0,26,1,50,2,0,3,0,4,36,5,11,6,0</FixtureVal>
+   <FixtureVal ID="6">0,26,1,50,2,0,3,0,4,36,5,11,6,0</FixtureVal>
+   <FixtureVal ID="7">0,26,1,50,2,0,3,0,4,36,5,11,6,0</FixtureVal>
+   <FixtureVal ID="15">0,72,1,0,2,0,3,78,4,0,5,0,6,72,7,0,8,0,9,78,10,0,11,0,12,72,13,0,14,0,15,78,16,0,17,0,22,97</FixtureVal>
+   <FixtureVal ID="18">0,72,1,0,2,0,3,78,4,0,5,0,6,72,7,0,8,0,9,78,10,0,11,0,12,72,13,0,14,0,15,78,16,0,17,0,22,97</FixtureVal>
+  </Function>
+  <Function ID="486" Type="Scene" Name="Chorus 3" Path="Touch of Heaven">
+   <Speed FadeIn="5000" FadeOut="5000" Duration="0"/>
+   <ChannelGroupsVal>15,224,16,66,17,0,18,0,19,152,20,128,21,0,8,155,0,6,1,0,2,0,3,70,4,10,5,0,22,205,23,62,24,0,25,0,26,115,27,0,28,0</ChannelGroupsVal>
+   <FixtureVal ID="16">0,224,1,66,2,0,3,0,4,152,5,128,6,0</FixtureVal>
+   <FixtureVal ID="17">0,224,1,66,2,0,3,0,4,152,5,128,6,0</FixtureVal>
+   <FixtureVal ID="4">0,155,1,6,2,0,3,0,4,70,5,10,6,0</FixtureVal>
+   <FixtureVal ID="5">0,155,1,6,2,0,3,0,4,70,5,10,6,0</FixtureVal>
+   <FixtureVal ID="6">0,155,1,6,2,0,3,0,4,70,5,10,6,0</FixtureVal>
+   <FixtureVal ID="7">0,155,1,6,2,0,3,0,4,70,5,10,6,0</FixtureVal>
+   <FixtureVal ID="15">0,62,1,0,2,0,3,115,4,0,5,0,6,62,7,0,8,0,9,115,10,0,11,0,12,62,13,0,14,0,15,115,16,0,17,0,22,205</FixtureVal>
+   <FixtureVal ID="18">0,62,1,0,2,0,3,115,4,0,5,0,6,62,7,0,8,0,9,115,10,0,11,0,12,62,13,0,14,0,15,115,16,0,17,0,22,205</FixtureVal>
+  </Function>
+  <Function ID="487" Type="Chaser" Name="Came To My Rescue" Path="Runsheets">
+   <Speed FadeIn="0" FadeOut="0" Duration="0"/>
+   <Direction>Forward</Direction>
+   <RunOrder>Loop</RunOrder>
+   <SpeedModes FadeIn="Default" FadeOut="Default" Duration="PerStep"/>
+   <Step Number="0" FadeIn="0" Hold="4294967294" FadeOut="0">537</Step>
+   <Step Number="1" FadeIn="0" Hold="4294967294" FadeOut="0">538</Step>
+   <Step Number="2" FadeIn="0" Hold="4294967294" FadeOut="0">539</Step>
+   <Step Number="3" FadeIn="0" Hold="4294967294" FadeOut="0">540</Step>
+   <Step Number="4" FadeIn="0" Hold="4294967294" FadeOut="0">541</Step>
+   <Step Number="5" FadeIn="0" Hold="4294967294" FadeOut="0">546</Step>
+   <Step Number="6" FadeIn="0" Hold="4294967294" FadeOut="0">547</Step>
+  </Function>
+  <Function ID="488" Type="Scene" Name="Song Out" Path="Touch of Heaven">
+   <Speed FadeIn="5000" FadeOut="5000" Duration="0"/>
+   <ChannelGroupsVal>15,193,16,0,17,0,18,0,19,156,20,77,21,0,8,0,0,0,1,0,2,0,3,0,4,0,5,0,22,75,23,0,24,0,25,0,26,44,27,0,28,0</ChannelGroupsVal>
+   <FixtureVal ID="16">0,193,1,0,2,0,3,0,4,156,5,77,6,0</FixtureVal>
+   <FixtureVal ID="17">0,193,1,0,2,0,3,0,4,156,5,77,6,0</FixtureVal>
+   <FixtureVal ID="4">0,0,1,0,2,0,3,0,4,0,5,0,6,0</FixtureVal>
+   <FixtureVal ID="5">0,0,1,0,2,0,3,0,4,0,5,0,6,0</FixtureVal>
+   <FixtureVal ID="6">0,0,1,0,2,0,3,0,4,0,5,0,6,0</FixtureVal>
+   <FixtureVal ID="7">0,0,1,0,2,0,3,0,4,0,5,0,6,0</FixtureVal>
+   <FixtureVal ID="15">0,0,1,0,2,0,3,44,4,0,5,0,6,0,7,0,8,0,9,44,10,0,11,0,12,0,13,0,14,0,15,44,16,0,17,0,22,75</FixtureVal>
+   <FixtureVal ID="18">0,0,1,0,2,0,3,44,4,0,5,0,6,0,7,0,8,0,9,44,10,0,11,0,12,0,13,0,14,0,15,44,16,0,17,0,22,75</FixtureVal>
+  </Function>
+  <Function ID="489" Type="Chaser" Name="Touch of Heaven" Path="Runsheets">
+   <Speed FadeIn="0" FadeOut="0" Duration="0"/>
+   <Direction>Forward</Direction>
+   <RunOrder>SingleShot</RunOrder>
+   <SpeedModes FadeIn="Default" FadeOut="Default" Duration="PerStep"/>
+   <Step Number="0" FadeIn="0" Hold="4294967294" FadeOut="0">480</Step>
+   <Step Number="1" FadeIn="0" Hold="4294967294" FadeOut="0">481</Step>
+   <Step Number="2" FadeIn="0" Hold="4294967294" FadeOut="0">482</Step>
+   <Step Number="3" FadeIn="0" Hold="4294967294" FadeOut="0">483</Step>
+   <Step Number="4" FadeIn="0" Hold="4294967294" FadeOut="0">484</Step>
+   <Step Number="5" FadeIn="0" Hold="4294967294" FadeOut="0">490</Step>
+   <Step Number="6" FadeIn="0" Hold="4294967294" FadeOut="0">485</Step>
+   <Step Number="7" FadeIn="0" Hold="4294967294" FadeOut="0">486</Step>
+   <Step Number="8" FadeIn="0" Hold="4294967294" FadeOut="0">488</Step>
+  </Function>
+  <Function ID="490" Type="Scene" Name="Bridge Down" Path="Touch of Heaven">
+   <Speed FadeIn="5000" FadeOut="5000" Duration="0"/>
+   <ChannelGroupsVal>15,223,16,0,17,0,18,0,19,234,20,107,21,0,8,0,0,50,1,0,2,0,3,36,4,11,5,0,22,55,23,72,24,0,25,0,26,78,27,0,28,0</ChannelGroupsVal>
+   <FixtureVal ID="16">0,223,1,0,2,0,3,0,4,234,5,107,6,0</FixtureVal>
+   <FixtureVal ID="17">0,223,1,0,2,0,3,0,4,234,5,107,6,0</FixtureVal>
+   <FixtureVal ID="4">0,0,1,50,2,0,3,0,4,36,5,11,6,0</FixtureVal>
+   <FixtureVal ID="5">0,0,1,50,2,0,3,0,4,36,5,11,6,0</FixtureVal>
+   <FixtureVal ID="6">0,0,1,50,2,0,3,0,4,36,5,11,6,0</FixtureVal>
+   <FixtureVal ID="7">0,0,1,50,2,0,3,0,4,36,5,11,6,0</FixtureVal>
+   <FixtureVal ID="15">0,72,1,0,2,0,3,78,4,0,5,0,6,72,7,0,8,0,9,78,10,0,11,0,12,72,13,0,14,0,15,78,16,0,17,0,22,55</FixtureVal>
+   <FixtureVal ID="18">0,72,1,0,2,0,3,78,4,0,5,0,6,72,7,0,8,0,9,78,10,0,11,0,12,72,13,0,14,0,15,78,16,0,17,0,22,55</FixtureVal>
+  </Function>
+  <Function ID="491" Type="Scene" Name="Song In" Path="This Is Amazing Grace">
+   <Speed FadeIn="3000" FadeOut="5000" Duration="0"/>
+   <ChannelGroupsVal>15,60,16,47,17,11,18,0,19,255,20,104,21,0,8,0,0,43,1,15,2,0,3,255,4,26,5,0,22,0,23,0,24,0,25,0,26,0,27,0,28,0</ChannelGroupsVal>
+   <FixtureVal ID="16">0,60,1,47,2,11,3,0,4,255,5,104,6,0</FixtureVal>
+   <FixtureVal ID="17">0,60,1,47,2,11,3,0,4,255,5,104,6,0</FixtureVal>
+   <FixtureVal ID="4">0,0,1,43,2,15,3,0,4,255,5,26,6,0</FixtureVal>
+   <FixtureVal ID="5">0,0,1,43,2,15,3,0,4,255,5,26,6,0</FixtureVal>
+   <FixtureVal ID="6">0,0,1,43,2,15,3,0,4,255,5,26,6,0</FixtureVal>
+   <FixtureVal ID="7">0,0,1,43,2,15,3,0,4,255,5,26,6,0</FixtureVal>
+   <FixtureVal ID="15">0,0,1,0,2,0,3,0,4,0,5,0,6,0,7,0,8,0,9,0,10,0,11,0,12,0,13,0,14,0,15,0,16,0,17,0,22,0</FixtureVal>
+   <FixtureVal ID="18">0,0,1,0,2,0,3,0,4,0,5,0,6,0,7,0,8,0,9,0,10,0,11,0,12,0,13,0,14,0,15,0,16,0,17,0,22,0</FixtureVal>
+  </Function>
+  <Function ID="492" Type="Scene" Name="Chorus 1" Path="This Is Amazing Grace">
+   <Speed FadeIn="2000" FadeOut="5000" Duration="0"/>
+   <ChannelGroupsVal>15,137,16,120,17,40,18,0,19,255,20,67,21,0,8,64,0,56,1,15,2,0,3,255,4,58,5,0,22,64,23,64,24,0,25,0,26,255,27,32,28,0</ChannelGroupsVal>
+   <FixtureVal ID="16">0,137,1,120,2,40,3,0,4,255,5,67,6,0</FixtureVal>
+   <FixtureVal ID="17">0,137,1,120,2,40,3,0,4,255,5,67,6,0</FixtureVal>
+   <FixtureVal ID="4">0,64,1,56,2,15,3,0,4,255,5,58,6,0</FixtureVal>
+   <FixtureVal ID="5">0,64,1,56,2,15,3,0,4,255,5,58,6,0</FixtureVal>
+   <FixtureVal ID="6">0,64,1,56,2,15,3,0,4,255,5,58,6,0</FixtureVal>
+   <FixtureVal ID="7">0,64,1,56,2,15,3,0,4,255,5,58,6,0</FixtureVal>
+   <FixtureVal ID="15">0,64,1,0,2,0,3,255,4,32,5,0,6,64,7,0,8,0,9,255,10,32,11,0,12,64,13,0,14,0,15,255,16,32,17,0,22,64</FixtureVal>
+   <FixtureVal ID="18">0,64,1,0,2,0,3,255,4,32,5,0,6,64,7,0,8,0,9,255,10,32,11,0,12,64,13,0,14,0,15,255,16,32,17,0,22,64</FixtureVal>
+  </Function>
+  <Function ID="494" Type="Scene" Name="Bridge Down" Path="This Is Amazing Grace">
+   <Speed FadeIn="6000" FadeOut="5000" Duration="0"/>
+   <ChannelGroupsVal>15,113,16,94,17,49,18,0,19,255,20,103,21,0,8,31,0,129,1,19,2,0,3,255,4,22,5,0,22,43,23,74,24,0,25,0,26,255,27,0,28,0</ChannelGroupsVal>
+   <FixtureVal ID="16">0,113,1,94,2,49,3,0,4,255,5,103,6,0</FixtureVal>
+   <FixtureVal ID="17">0,113,1,94,2,49,3,0,4,255,5,103,6,0</FixtureVal>
+   <FixtureVal ID="4">0,31,1,129,2,19,3,0,4,255,5,22,6,0</FixtureVal>
+   <FixtureVal ID="5">0,31,1,129,2,19,3,0,4,255,5,22,6,0</FixtureVal>
+   <FixtureVal ID="6">0,31,1,129,2,19,3,0,4,255,5,22,6,0</FixtureVal>
+   <FixtureVal ID="7">0,31,1,129,2,19,3,0,4,255,5,22,6,0</FixtureVal>
+   <FixtureVal ID="15">0,74,1,0,2,0,3,255,4,0,5,0,6,74,7,0,8,0,9,255,10,0,11,0,12,74,13,0,14,0,15,255,16,0,17,0,22,43</FixtureVal>
+   <FixtureVal ID="18">0,74,1,0,2,0,3,255,4,0,5,0,6,74,7,0,8,0,9,255,10,0,11,0,12,74,13,0,14,0,15,255,16,0,17,0,22,43</FixtureVal>
+  </Function>
+  <Function ID="495" Type="Scene" Name="Bridge Build (14s in)" Path="This Is Amazing Grace">
+   <Speed FadeIn="14000" FadeOut="5000" Duration="0"/>
+   <ChannelGroupsVal>15,177,16,173,17,45,18,0,19,255,20,113,21,0,8,58,0,190,1,23,2,0,3,255,4,22,5,0,22,123,23,153,24,0,25,0,26,255,27,24,28,0</ChannelGroupsVal>
+   <FixtureVal ID="16">0,177,1,173,2,45,3,0,4,255,5,113,6,0</FixtureVal>
+   <FixtureVal ID="17">0,177,1,173,2,45,3,0,4,255,5,113,6,0</FixtureVal>
+   <FixtureVal ID="4">0,58,1,190,2,23,3,0,4,255,5,22,6,0</FixtureVal>
+   <FixtureVal ID="5">0,58,1,190,2,23,3,0,4,255,5,22,6,0</FixtureVal>
+   <FixtureVal ID="6">0,58,1,190,2,23,3,0,4,255,5,22,6,0</FixtureVal>
+   <FixtureVal ID="7">0,58,1,190,2,23,3,0,4,255,5,22,6,0</FixtureVal>
+   <FixtureVal ID="15">0,153,1,0,2,0,3,255,4,24,5,0,6,153,7,0,8,0,9,255,10,24,11,0,12,153,13,0,14,0,15,255,16,24,17,0,22,123</FixtureVal>
+   <FixtureVal ID="18">0,153,1,0,2,0,3,255,4,24,5,0,6,153,7,0,8,0,9,255,10,24,11,0,12,153,13,0,14,0,15,255,16,24,17,0,22,123</FixtureVal>
+  </Function>
+  <Function ID="496" Type="Scene" Name="Song In" Path="Living Sacrifice">
+   <Speed FadeIn="5000" FadeOut="5000" Duration="0"/>
+   <ChannelGroupsVal>15,62,16,0,17,0,18,255,19,71,20,0,21,0,8,32,0,0,1,0,2,98,3,23,4,180,5,0,22,0,23,0,24,0,25,0,26,0,27,0,28,0</ChannelGroupsVal>
+   <FixtureVal ID="16">0,62,1,0,2,0,3,255,4,71,5,0,6,0</FixtureVal>
+   <FixtureVal ID="17">0,62,1,0,2,0,3,255,4,71,5,0,6,0</FixtureVal>
+   <FixtureVal ID="4">0,32,1,0,2,0,3,98,4,23,5,180,6,0</FixtureVal>
+   <FixtureVal ID="5">0,32,1,0,2,0,3,98,4,23,5,180,6,0</FixtureVal>
+   <FixtureVal ID="6">0,32,1,0,2,0,3,98,4,23,5,180,6,0</FixtureVal>
+   <FixtureVal ID="7">0,32,1,0,2,0,3,98,4,23,5,180,6,0</FixtureVal>
+   <FixtureVal ID="15">0,0,1,0,2,0,3,0,4,0,5,0,6,0,7,0,8,0,9,0,10,0,11,0,12,0,13,0,14,0,15,0,16,0,17,0,22,0</FixtureVal>
+   <FixtureVal ID="18">0,0,1,0,2,0,3,0,4,0,5,0,6,0,7,0,8,0,9,0,10,0,11,0,12,0,13,0,14,0,15,0,16,0,17,0,22,0</FixtureVal>
+  </Function>
+  <Function ID="497" Type="Scene" Name="Chorus 1" Path="Living Sacrifice">
+   <Speed FadeIn="5000" FadeOut="5000" Duration="0"/>
+   <ChannelGroupsVal>15,110,16,0,17,0,18,255,19,71,20,0,21,0,8,32,0,0,1,0,2,98,3,23,4,180,5,0,22,0,23,0,24,0,25,0,26,0,27,0,28,0</ChannelGroupsVal>
+   <FixtureVal ID="16">0,110,1,0,2,0,3,255,4,71,5,0,6,0</FixtureVal>
+   <FixtureVal ID="17">0,110,1,0,2,0,3,255,4,71,5,0,6,0</FixtureVal>
+   <FixtureVal ID="4">0,32,1,0,2,0,3,98,4,23,5,180,6,0</FixtureVal>
+   <FixtureVal ID="5">0,32,1,0,2,0,3,98,4,23,5,180,6,0</FixtureVal>
+   <FixtureVal ID="6">0,32,1,0,2,0,3,98,4,23,5,180,6,0</FixtureVal>
+   <FixtureVal ID="7">0,32,1,0,2,0,3,98,4,23,5,180,6,0</FixtureVal>
+   <FixtureVal ID="15">0,0,1,0,2,0,3,0,4,0,5,0,6,0,7,0,8,0,9,0,10,0,11,0,12,0,13,0,14,0,15,0,16,0,17,0,22,0</FixtureVal>
+   <FixtureVal ID="18">0,0,1,0,2,0,3,0,4,0,5,0,6,0,7,0,8,0,9,0,10,0,11,0,12,0,13,0,14,0,15,0,16,0,17,0,22,0</FixtureVal>
+  </Function>
+  <Function ID="498" Type="Scene" Name="Bridge 1 Down" Path="Living Sacrifice">
+   <Speed FadeIn="10000" FadeOut="5000" Duration="0"/>
+   <ChannelGroupsVal>15,94,16,0,17,0,18,255,19,48,20,0,21,0,8,32,0,0,1,0,2,98,3,23,4,96,5,0,22,0,23,0,24,0,25,0,26,0,27,0,28,0</ChannelGroupsVal>
+   <FixtureVal ID="16">0,94,1,0,2,0,3,255,4,48,5,0,6,0</FixtureVal>
+   <FixtureVal ID="17">0,94,1,0,2,0,3,255,4,48,5,0,6,0</FixtureVal>
+   <FixtureVal ID="4">0,32,1,0,2,0,3,98,4,23,5,96,6,0</FixtureVal>
+   <FixtureVal ID="5">0,32,1,0,2,0,3,98,4,23,5,96,6,0</FixtureVal>
+   <FixtureVal ID="6">0,32,1,0,2,0,3,98,4,23,5,96,6,0</FixtureVal>
+   <FixtureVal ID="7">0,32,1,0,2,0,3,98,4,23,5,96,6,0</FixtureVal>
+   <FixtureVal ID="15">0,0,1,0,2,0,3,0,4,0,5,0,6,0,7,0,8,0,9,0,10,0,11,0,12,0,13,0,14,0,15,0,16,0,17,0,22,0</FixtureVal>
+   <FixtureVal ID="18">0,0,1,0,2,0,3,0,4,0,5,0,6,0,7,0,8,0,9,0,10,0,11,0,12,0,13,0,14,0,15,0,16,0,17,0,22,0</FixtureVal>
+  </Function>
+  <Function ID="499" Type="Scene" Name="Bridge 1 Build (24s in)" Path="Living Sacrifice">
+   <Speed FadeIn="24000" FadeOut="5000" Duration="0"/>
+   <ChannelGroupsVal>15,153,16,0,17,0,18,255,19,80,20,0,21,0,8,83,0,0,1,0,2,98,3,23,4,26,5,0,22,64,23,0,24,0,25,255,26,23,27,0,28,0</ChannelGroupsVal>
+   <FixtureVal ID="16">0,153,1,0,2,0,3,255,4,80,5,0,6,0</FixtureVal>
+   <FixtureVal ID="17">0,153,1,0,2,0,3,255,4,80,5,0,6,0</FixtureVal>
+   <FixtureVal ID="4">0,83,1,0,2,0,3,98,4,23,5,26,6,0</FixtureVal>
+   <FixtureVal ID="5">0,83,1,0,2,0,3,98,4,23,5,26,6,0</FixtureVal>
+   <FixtureVal ID="6">0,83,1,0,2,0,3,98,4,23,5,26,6,0</FixtureVal>
+   <FixtureVal ID="7">0,83,1,0,2,0,3,98,4,23,5,26,6,0</FixtureVal>
+   <FixtureVal ID="15">0,0,1,0,2,255,3,23,4,0,5,0,6,0,7,0,8,255,9,23,10,0,11,0,12,0,13,0,14,255,15,23,16,0,17,0,22,64</FixtureVal>
+   <FixtureVal ID="18">0,0,1,0,2,255,3,23,4,0,5,0,6,0,7,0,8,255,9,23,10,0,11,0,12,0,13,0,14,255,15,23,16,0,17,0,22,64</FixtureVal>
+  </Function>
+  <Function ID="500" Type="Scene" Name="Chorus 2" Path="Living Sacrifice">
+   <Speed FadeIn="6000" FadeOut="5000" Duration="0"/>
+   <ChannelGroupsVal>15,128,16,0,17,0,18,255,19,147,20,0,21,0,8,32,0,0,1,0,2,203,3,75,4,180,5,0,22,0,23,0,24,0,25,0,26,0,27,0,28,0</ChannelGroupsVal>
+   <FixtureVal ID="16">0,128,1,0,2,0,3,255,4,147,5,0,6,0</FixtureVal>
+   <FixtureVal ID="17">0,128,1,0,2,0,3,255,4,147,5,0,6,0</FixtureVal>
+   <FixtureVal ID="4">0,32,1,0,2,0,3,203,4,75,5,180,6,0</FixtureVal>
+   <FixtureVal ID="5">0,32,1,0,2,0,3,203,4,75,5,180,6,0</FixtureVal>
+   <FixtureVal ID="6">0,32,1,0,2,0,3,203,4,75,5,180,6,0</FixtureVal>
+   <FixtureVal ID="7">0,32,1,0,2,0,3,203,4,75,5,180,6,0</FixtureVal>
+   <FixtureVal ID="15">0,0,1,0,2,0,3,0,4,0,5,0,6,0,7,0,8,0,9,0,10,0,11,0,12,0,13,0,14,0,15,0,16,0,17,0,22,0</FixtureVal>
+   <FixtureVal ID="18">0,0,1,0,2,0,3,0,4,0,5,0,6,0,7,0,8,0,9,0,10,0,11,0,12,0,13,0,14,0,15,0,16,0,17,0,22,0</FixtureVal>
+  </Function>
+  <Function ID="501" Type="Scene" Name="Chorus 3" Path="Living Sacrifice">
+   <Speed FadeIn="6000" FadeOut="5000" Duration="0"/>
+   <ChannelGroupsVal>15,153,16,0,17,0,18,255,19,180,20,0,21,0,8,83,0,0,1,0,2,98,3,64,4,95,5,0,22,64,23,0,24,0,25,255,26,151,27,0,28,0</ChannelGroupsVal>
+   <FixtureVal ID="16">0,153,1,0,2,0,3,255,4,180,5,0,6,0</FixtureVal>
+   <FixtureVal ID="17">0,153,1,0,2,0,3,255,4,180,5,0,6,0</FixtureVal>
+   <FixtureVal ID="4">0,83,1,0,2,0,3,98,4,64,5,95,6,0</FixtureVal>
+   <FixtureVal ID="5">0,83,1,0,2,0,3,98,4,64,5,95,6,0</FixtureVal>
+   <FixtureVal ID="6">0,83,1,0,2,0,3,98,4,64,5,95,6,0</FixtureVal>
+   <FixtureVal ID="7">0,83,1,0,2,0,3,98,4,64,5,95,6,0</FixtureVal>
+   <FixtureVal ID="15">0,0,1,0,2,255,3,151,4,0,5,0,6,0,7,0,8,255,9,151,10,0,11,0,12,0,13,0,14,255,15,151,16,0,17,0,22,64</FixtureVal>
+   <FixtureVal ID="18">0,0,1,0,2,255,3,151,4,0,5,0,6,0,7,0,8,255,9,151,10,0,11,0,12,0,13,0,14,255,15,151,16,0,17,0,22,64</FixtureVal>
+  </Function>
+  <Function ID="502" Type="Scene" Name="Bridge 2 Build (28s in)" Path="Living Sacrifice">
+   <Speed FadeIn="28000" FadeOut="5000" Duration="0"/>
+   <ChannelGroupsVal>15,203,16,0,17,0,18,255,19,90,20,0,21,0,8,194,0,0,1,0,2,175,3,64,4,10,5,0,22,64,23,0,24,0,25,255,26,23,27,0,28,0</ChannelGroupsVal>
+   <FixtureVal ID="16">0,203,1,0,2,0,3,255,4,90,5,0,6,0</FixtureVal>
+   <FixtureVal ID="17">0,203,1,0,2,0,3,255,4,90,5,0,6,0</FixtureVal>
+   <FixtureVal ID="4">0,194,1,0,2,0,3,175,4,64,5,10,6,0</FixtureVal>
+   <FixtureVal ID="5">0,194,1,0,2,0,3,175,4,64,5,10,6,0</FixtureVal>
+   <FixtureVal ID="6">0,194,1,0,2,0,3,175,4,64,5,10,6,0</FixtureVal>
+   <FixtureVal ID="7">0,194,1,0,2,0,3,175,4,64,5,10,6,0</FixtureVal>
+   <FixtureVal ID="15">0,0,1,0,2,255,3,23,4,0,5,0,6,0,7,0,8,255,9,23,10,0,11,0,12,0,13,0,14,255,15,23,16,0,17,0,22,64</FixtureVal>
+   <FixtureVal ID="18">0,0,1,0,2,255,3,23,4,0,5,0,6,0,7,0,8,255,9,23,10,0,11,0,12,0,13,0,14,255,15,23,16,0,17,0,22,64</FixtureVal>
+  </Function>
+  <Function ID="503" Type="Scene" Name="Chorus 4" Path="Living Sacrifice">
+   <Speed FadeIn="5000" FadeOut="5000" Duration="0"/>
+   <ChannelGroupsVal>15,203,16,0,17,0,18,255,19,163,20,0,21,0,8,194,0,0,1,0,2,175,3,94,4,40,5,0,22,64,23,0,24,0,25,255,26,23,27,0,28,0</ChannelGroupsVal>
+   <FixtureVal ID="16">0,203,1,0,2,0,3,255,4,163,5,0,6,0</FixtureVal>
+   <FixtureVal ID="17">0,203,1,0,2,0,3,255,4,163,5,0,6,0</FixtureVal>
+   <FixtureVal ID="4">0,194,1,0,2,0,3,175,4,94,5,40,6,0</FixtureVal>
+   <FixtureVal ID="5">0,194,1,0,2,0,3,175,4,94,5,40,6,0</FixtureVal>
+   <FixtureVal ID="6">0,194,1,0,2,0,3,175,4,94,5,40,6,0</FixtureVal>
+   <FixtureVal ID="7">0,194,1,0,2,0,3,175,4,94,5,40,6,0</FixtureVal>
+   <FixtureVal ID="15">0,0,1,0,2,255,3,23,4,0,5,0,6,0,7,0,8,255,9,23,10,0,11,0,12,0,13,0,14,255,15,23,16,0,17,0,22,64</FixtureVal>
+   <FixtureVal ID="18">0,0,1,0,2,255,3,23,4,0,5,0,6,0,7,0,8,255,9,23,10,0,11,0,12,0,13,0,14,255,15,23,16,0,17,0,22,64</FixtureVal>
+  </Function>
+  <Function ID="504" Type="Scene" Name="Song In" Path="Holy Holy Holy">
+   <Speed FadeIn="5000" FadeOut="5000" Duration="0"/>
+   <ChannelGroupsVal>15,55,16,110,17,0,18,0,19,102,20,64,21,0,8,16,0,57,1,0,2,0,3,110,4,17,5,0,22,0,23,0,24,0,25,0,26,0,27,0,28,0</ChannelGroupsVal>
+   <FixtureVal ID="16">0,55,1,110,2,0,3,0,4,102,5,64,6,0</FixtureVal>
+   <FixtureVal ID="17">0,55,1,110,2,0,3,0,4,102,5,64,6,0</FixtureVal>
+   <FixtureVal ID="4">0,16,1,57,2,0,3,0,4,110,5,17,6,0</FixtureVal>
+   <FixtureVal ID="5">0,16,1,57,2,0,3,0,4,110,5,17,6,0</FixtureVal>
+   <FixtureVal ID="6">0,16,1,57,2,0,3,0,4,110,5,17,6,0</FixtureVal>
+   <FixtureVal ID="7">0,16,1,57,2,0,3,0,4,110,5,17,6,0</FixtureVal>
+   <FixtureVal ID="15">0,0,1,0,2,0,3,0,4,0,5,0,6,0,7,0,8,0,9,0,10,0,11,0,12,0,13,0,14,0,15,0,16,0,17,0,22,0</FixtureVal>
+   <FixtureVal ID="18">0,0,1,0,2,0,3,0,4,0,5,0,6,0,7,0,8,0,9,0,10,0,11,0,12,0,13,0,14,0,15,0,16,0,17,0,22,0</FixtureVal>
+  </Function>
+  <Function ID="505" Type="Scene" Name="Verse" Path="Holy Holy Holy">
+   <Speed FadeIn="8000" FadeOut="5000" Duration="0"/>
+   <ChannelGroupsVal>15,102,16,169,17,0,18,0,19,167,20,91,21,0,8,20,0,57,1,0,2,0,3,110,4,27,5,0,22,0,23,0,24,0,25,0,26,0,27,0,28,0</ChannelGroupsVal>
+   <FixtureVal ID="16">0,102,1,169,2,0,3,0,4,167,5,91,6,0</FixtureVal>
+   <FixtureVal ID="17">0,102,1,169,2,0,3,0,4,167,5,91,6,0</FixtureVal>
+   <FixtureVal ID="4">0,20,1,57,2,0,3,0,4,110,5,27,6,0</FixtureVal>
+   <FixtureVal ID="5">0,20,1,57,2,0,3,0,4,110,5,27,6,0</FixtureVal>
+   <FixtureVal ID="6">0,20,1,57,2,0,3,0,4,110,5,27,6,0</FixtureVal>
+   <FixtureVal ID="7">0,20,1,57,2,0,3,0,4,110,5,27,6,0</FixtureVal>
+   <FixtureVal ID="15">0,0,1,0,2,0,3,0,4,0,5,0,6,0,7,0,8,0,9,0,10,0,11,0,12,0,13,0,14,0,15,0,16,0,17,0,22,0</FixtureVal>
+   <FixtureVal ID="18">0,0,1,0,2,0,3,0,4,0,5,0,6,0,7,0,8,0,9,0,10,0,11,0,12,0,13,0,14,0,15,0,16,0,17,0,22,0</FixtureVal>
+  </Function>
+  <Function ID="506" Type="Scene" Name="Song Out" Path="Holy Holy Holy">
+   <Speed FadeIn="6000" FadeOut="5000" Duration="0"/>
+   <ChannelGroupsVal>15,78,16,169,17,0,18,0,19,167,20,144,21,0,8,16,0,52,1,0,2,0,3,110,4,32,5,0,22,0,23,0,24,0,25,0,26,0,27,0,28,0</ChannelGroupsVal>
+   <FixtureVal ID="16">0,78,1,169,2,0,3,0,4,167,5,144,6,0</FixtureVal>
+   <FixtureVal ID="17">0,78,1,169,2,0,3,0,4,167,5,144,6,0</FixtureVal>
+   <FixtureVal ID="4">0,16,1,52,2,0,3,0,4,110,5,32,6,0</FixtureVal>
+   <FixtureVal ID="5">0,16,1,52,2,0,3,0,4,110,5,32,6,0</FixtureVal>
+   <FixtureVal ID="6">0,16,1,52,2,0,3,0,4,110,5,32,6,0</FixtureVal>
+   <FixtureVal ID="7">0,16,1,52,2,0,3,0,4,110,5,32,6,0</FixtureVal>
+   <FixtureVal ID="15">0,0,1,0,2,0,3,0,4,0,5,0,6,0,7,0,8,0,9,0,10,0,11,0,12,0,13,0,14,0,15,0,16,0,17,0,22,0</FixtureVal>
+   <FixtureVal ID="18">0,0,1,0,2,0,3,0,4,0,5,0,6,0,7,0,8,0,9,0,10,0,11,0,12,0,13,0,14,0,15,0,16,0,17,0,22,0</FixtureVal>
+  </Function>
+  <Function ID="507" Type="Chaser" Name="Holy Holy Holy [25-07] [D]" Path="Runsheets">
+   <Speed FadeIn="0" FadeOut="0" Duration="0"/>
+   <Direction>Forward</Direction>
+   <RunOrder>SingleShot</RunOrder>
+   <SpeedModes FadeIn="Default" FadeOut="Default" Duration="PerStep"/>
+   <Step Number="0" FadeIn="0" Hold="4294967294" FadeOut="0" Note="    HOLY HOLY HOLY in">504</Step>
+   <Step Number="1" FadeIn="0" Hold="4294967294" FadeOut="0" Note="&quot;Holy holy holy&quot;">505</Step>
+   <Step Number="2" FadeIn="0" Hold="4294967294" FadeOut="0" Note="    HOLY HOLY HOLY out">506</Step>
+  </Function>
+  <Function ID="508" Type="Scene" Name="Song In" Path="O Come To The Altar">
+   <Speed FadeIn="6000" FadeOut="5000" Duration="0"/>
+   <ChannelGroupsVal>15,78,16,169,17,0,18,70,19,167,20,78,21,0,8,16,0,52,1,0,2,40,3,110,4,32,5,0,22,0,23,0,24,0,25,0,26,0,27,0,28,0</ChannelGroupsVal>
+   <FixtureVal ID="16">0,78,1,169,2,0,3,70,4,167,5,78,6,0</FixtureVal>
+   <FixtureVal ID="17">0,78,1,169,2,0,3,70,4,167,5,78,6,0</FixtureVal>
+   <FixtureVal ID="4">0,16,1,52,2,0,3,40,4,110,5,32,6,0</FixtureVal>
+   <FixtureVal ID="5">0,16,1,52,2,0,3,40,4,110,5,32,6,0</FixtureVal>
+   <FixtureVal ID="6">0,16,1,52,2,0,3,40,4,110,5,32,6,0</FixtureVal>
+   <FixtureVal ID="7">0,16,1,52,2,0,3,40,4,110,5,32,6,0</FixtureVal>
+   <FixtureVal ID="15">0,0,1,0,2,0,3,0,4,0,5,0,6,0,7,0,8,0,9,0,10,0,11,0,12,0,13,0,14,0,15,0,16,0,17,0,22,0</FixtureVal>
+   <FixtureVal ID="18">0,0,1,0,2,0,3,0,4,0,5,0,6,0,7,0,8,0,9,0,10,0,11,0,12,0,13,0,14,0,15,0,16,0,17,0,22,0</FixtureVal>
+  </Function>
+  <Function ID="509" Type="Scene" Name="Chorus 1" Path="O Come To The Altar">
+   <Speed FadeIn="6000" FadeOut="5000" Duration="0"/>
+   <ChannelGroupsVal>15,78,16,169,17,0,18,132,19,255,20,78,21,0,8,16,0,52,1,0,2,73,3,255,4,32,5,0,22,0,23,0,24,0,25,0,26,0,27,0,28,0</ChannelGroupsVal>
+   <FixtureVal ID="16">0,78,1,169,2,0,3,132,4,255,5,78,6,0</FixtureVal>
+   <FixtureVal ID="17">0,78,1,169,2,0,3,132,4,255,5,78,6,0</FixtureVal>
+   <FixtureVal ID="4">0,16,1,52,2,0,3,73,4,255,5,32,6,0</FixtureVal>
+   <FixtureVal ID="5">0,16,1,52,2,0,3,73,4,255,5,32,6,0</FixtureVal>
+   <FixtureVal ID="6">0,16,1,52,2,0,3,73,4,255,5,32,6,0</FixtureVal>
+   <FixtureVal ID="7">0,16,1,52,2,0,3,73,4,255,5,32,6,0</FixtureVal>
+   <FixtureVal ID="15">0,0,1,0,2,0,3,0,4,0,5,0,6,0,7,0,8,0,9,0,10,0,11,0,12,0,13,0,14,0,15,0,16,0,17,0,22,0</FixtureVal>
+   <FixtureVal ID="18">0,0,1,0,2,0,3,0,4,0,5,0,6,0,7,0,8,0,9,0,10,0,11,0,12,0,13,0,14,0,15,0,16,0,17,0,22,0</FixtureVal>
+  </Function>
+  <Function ID="510" Type="Scene" Name="Chorus 2" Path="O Come To The Altar">
+   <Speed FadeIn="6000" FadeOut="5000" Duration="0"/>
+   <ChannelGroupsVal>15,78,16,220,17,0,18,186,19,255,20,50,21,0,8,16,0,118,1,0,2,70,3,255,4,32,5,0,22,0,23,0,24,0,25,0,26,0,27,0,28,0</ChannelGroupsVal>
+   <FixtureVal ID="16">0,78,1,220,2,0,3,186,4,255,5,50,6,0</FixtureVal>
+   <FixtureVal ID="17">0,78,1,220,2,0,3,186,4,255,5,50,6,0</FixtureVal>
+   <FixtureVal ID="4">0,16,1,118,2,0,3,70,4,255,5,32,6,0</FixtureVal>
+   <FixtureVal ID="5">0,16,1,118,2,0,3,70,4,255,5,32,6,0</FixtureVal>
+   <FixtureVal ID="6">0,16,1,118,2,0,3,70,4,255,5,32,6,0</FixtureVal>
+   <FixtureVal ID="7">0,16,1,118,2,0,3,70,4,255,5,32,6,0</FixtureVal>
+   <FixtureVal ID="15">0,0,1,0,2,0,3,0,4,0,5,0,6,0,7,0,8,0,9,0,10,0,11,0,12,0,13,0,14,0,15,0,16,0,17,0,22,0</FixtureVal>
+   <FixtureVal ID="18">0,0,1,0,2,0,3,0,4,0,5,0,6,0,7,0,8,0,9,0,10,0,11,0,12,0,13,0,14,0,15,0,16,0,17,0,22,0</FixtureVal>
+  </Function>
+  <Function ID="511" Type="Scene" Name="Bridge Down" Path="O Come To The Altar">
+   <Speed FadeIn="6000" FadeOut="5000" Duration="0"/>
+   <ChannelGroupsVal>15,53,16,220,17,0,18,186,19,67,20,69,21,0,8,16,0,118,1,0,2,105,3,77,4,27,5,0,22,45,23,121,24,0,25,23,26,0,27,0,28,0</ChannelGroupsVal>
+   <FixtureVal ID="16">0,53,1,220,2,0,3,186,4,67,5,69,6,0</FixtureVal>
+   <FixtureVal ID="17">0,53,1,220,2,0,3,186,4,67,5,69,6,0</FixtureVal>
+   <FixtureVal ID="4">0,16,1,118,2,0,3,105,4,77,5,27,6,0</FixtureVal>
+   <FixtureVal ID="5">0,16,1,118,2,0,3,105,4,77,5,27,6,0</FixtureVal>
+   <FixtureVal ID="6">0,16,1,118,2,0,3,105,4,77,5,27,6,0</FixtureVal>
+   <FixtureVal ID="7">0,16,1,118,2,0,3,105,4,77,5,27,6,0</FixtureVal>
+   <FixtureVal ID="15">0,121,1,0,2,23,3,0,4,0,5,0,6,121,7,0,8,23,9,0,10,0,11,0,12,121,13,0,14,23,15,0,16,0,17,0,22,45</FixtureVal>
+   <FixtureVal ID="18">0,121,1,0,2,23,3,0,4,0,5,0,6,121,7,0,8,23,9,0,10,0,11,0,12,121,13,0,14,23,15,0,16,0,17,0,22,45</FixtureVal>
+  </Function>
+  <Function ID="512" Type="Scene" Name="Bridge Build (36s in)" Path="O Come To The Altar">
+   <Speed FadeIn="36000" FadeOut="5000" Duration="0"/>
+   <ChannelGroupsVal>15,80,16,194,17,0,18,255,19,162,20,36,21,0,8,32,0,118,1,0,2,105,3,77,4,27,5,0,22,96,23,120,24,0,25,118,26,105,27,0,28,0</ChannelGroupsVal>
+   <FixtureVal ID="16">0,80,1,194,2,0,3,255,4,162,5,36,6,0</FixtureVal>
+   <FixtureVal ID="17">0,80,1,194,2,0,3,255,4,162,5,36,6,0</FixtureVal>
+   <FixtureVal ID="4">0,32,1,118,2,0,3,105,4,77,5,27,6,0</FixtureVal>
+   <FixtureVal ID="5">0,32,1,118,2,0,3,105,4,77,5,27,6,0</FixtureVal>
+   <FixtureVal ID="6">0,32,1,118,2,0,3,105,4,77,5,27,6,0</FixtureVal>
+   <FixtureVal ID="7">0,32,1,118,2,0,3,105,4,77,5,27,6,0</FixtureVal>
+   <FixtureVal ID="15">0,120,1,0,2,118,3,105,4,0,5,0,6,120,7,0,8,118,9,105,10,0,11,0,12,120,13,0,14,118,15,105,16,0,17,0,22,96</FixtureVal>
+   <FixtureVal ID="18">0,120,1,0,2,118,3,105,4,0,5,0,6,120,7,0,8,118,9,105,10,0,11,0,12,120,13,0,14,118,15,105,16,0,17,0,22,96</FixtureVal>
+  </Function>
+  <Function ID="513" Type="Scene" Name="Chorus 3" Path="O Come To The Altar">
+   <Speed FadeIn="6000" FadeOut="5000" Duration="0"/>
+   <ChannelGroupsVal>15,80,16,225,17,0,18,175,19,162,20,36,21,0,8,32,0,180,1,0,2,105,3,77,4,104,5,0,22,96,23,120,24,0,25,35,26,105,27,0,28,0</ChannelGroupsVal>
+   <FixtureVal ID="16">0,80,1,225,2,0,3,175,4,162,5,36,6,0</FixtureVal>
+   <FixtureVal ID="17">0,80,1,225,2,0,3,175,4,162,5,36,6,0</FixtureVal>
+   <FixtureVal ID="4">0,32,1,180,2,0,3,105,4,77,5,104,6,0</FixtureVal>
+   <FixtureVal ID="5">0,32,1,180,2,0,3,105,4,77,5,104,6,0</FixtureVal>
+   <FixtureVal ID="6">0,32,1,180,2,0,3,105,4,77,5,104,6,0</FixtureVal>
+   <FixtureVal ID="7">0,32,1,180,2,0,3,105,4,77,5,104,6,0</FixtureVal>
+   <FixtureVal ID="15">0,120,1,0,2,35,3,105,4,0,5,0,6,120,7,0,8,35,9,105,10,0,11,0,12,120,13,0,14,35,15,105,16,0,17,0,22,96</FixtureVal>
+   <FixtureVal ID="18">0,120,1,0,2,35,3,105,4,0,5,0,6,120,7,0,8,35,9,105,10,0,11,0,12,120,13,0,14,35,15,105,16,0,17,0,22,96</FixtureVal>
+  </Function>
+  <Function ID="514" Type="Scene" Name="Chorus 3 Build (16s in)" Path="O Come To The Altar">
+   <Speed FadeIn="16000" FadeOut="5000" Duration="0"/>
+   <ChannelGroupsVal>15,132,16,225,17,0,18,175,19,255,20,136,21,0,8,48,0,180,1,0,2,105,3,179,4,128,5,0,22,220,23,120,24,0,25,35,26,105,27,43,28,0</ChannelGroupsVal>
+   <FixtureVal ID="16">0,132,1,225,2,0,3,175,4,255,5,136,6,0</FixtureVal>
+   <FixtureVal ID="17">0,132,1,225,2,0,3,175,4,255,5,136,6,0</FixtureVal>
+   <FixtureVal ID="4">0,48,1,180,2,0,3,105,4,179,5,128,6,0</FixtureVal>
+   <FixtureVal ID="5">0,48,1,180,2,0,3,105,4,179,5,128,6,0</FixtureVal>
+   <FixtureVal ID="6">0,48,1,180,2,0,3,105,4,179,5,128,6,0</FixtureVal>
+   <FixtureVal ID="7">0,48,1,180,2,0,3,105,4,179,5,128,6,0</FixtureVal>
+   <FixtureVal ID="15">0,120,1,0,2,35,3,105,4,43,5,0,6,120,7,0,8,35,9,105,10,43,11,0,12,120,13,0,14,35,15,105,16,43,17,0,22,220</FixtureVal>
+   <FixtureVal ID="18">0,120,1,0,2,35,3,105,4,43,5,0,6,120,7,0,8,35,9,105,10,43,11,0,12,120,13,0,14,35,15,105,16,43,17,0,22,220</FixtureVal>
+  </Function>
+  <Function ID="515" Type="Scene" Name="Verse 1" Path="This Is Amazing Grace">
+   <Speed FadeIn="2000" FadeOut="5000" Duration="0"/>
+   <ChannelGroupsVal>15,105,16,47,17,11,18,0,19,255,20,104,21,0,8,42,0,43,1,15,2,0,3,255,4,26,5,0,22,0,23,0,24,0,25,0,26,0,27,0,28,0</ChannelGroupsVal>
+   <FixtureVal ID="16">0,105,1,47,2,11,3,0,4,255,5,104,6,0</FixtureVal>
+   <FixtureVal ID="17">0,105,1,47,2,11,3,0,4,255,5,104,6,0</FixtureVal>
+   <FixtureVal ID="4">0,42,1,43,2,15,3,0,4,255,5,26,6,0</FixtureVal>
+   <FixtureVal ID="5">0,42,1,43,2,15,3,0,4,255,5,26,6,0</FixtureVal>
+   <FixtureVal ID="6">0,42,1,43,2,15,3,0,4,255,5,26,6,0</FixtureVal>
+   <FixtureVal ID="7">0,42,1,43,2,15,3,0,4,255,5,26,6,0</FixtureVal>
+   <FixtureVal ID="15">0,0,1,0,2,0,3,0,4,0,5,0,6,0,7,0,8,0,9,0,10,0,11,0,12,0,13,0,14,0,15,0,16,0,17,0,22,0</FixtureVal>
+   <FixtureVal ID="18">0,0,1,0,2,0,3,0,4,0,5,0,6,0,7,0,8,0,9,0,10,0,11,0,12,0,13,0,14,0,15,0,16,0,17,0,22,0</FixtureVal>
+  </Function>
+  <Function ID="516" Type="Scene" Name="Chorus 2" Path="This Is Amazing Grace">
+   <Speed FadeIn="6000" FadeOut="5000" Duration="0"/>
+   <ChannelGroupsVal>15,186,16,120,17,52,18,0,19,255,20,67,21,0,8,85,0,56,1,15,2,0,3,255,4,85,5,0,22,96,23,64,24,0,25,0,26,255,27,32,28,0</ChannelGroupsVal>
+   <FixtureVal ID="16">0,186,1,120,2,52,3,0,4,255,5,67,6,0</FixtureVal>
+   <FixtureVal ID="17">0,186,1,120,2,52,3,0,4,255,5,67,6,0</FixtureVal>
+   <FixtureVal ID="4">0,85,1,56,2,15,3,0,4,255,5,85,6,0</FixtureVal>
+   <FixtureVal ID="5">0,85,1,56,2,15,3,0,4,255,5,85,6,0</FixtureVal>
+   <FixtureVal ID="6">0,85,1,56,2,15,3,0,4,255,5,85,6,0</FixtureVal>
+   <FixtureVal ID="7">0,85,1,56,2,15,3,0,4,255,5,85,6,0</FixtureVal>
+   <FixtureVal ID="15">0,64,1,0,2,0,3,255,4,32,5,0,6,64,7,0,8,0,9,255,10,32,11,0,12,64,13,0,14,0,15,255,16,32,17,0,22,96</FixtureVal>
+   <FixtureVal ID="18">0,64,1,0,2,0,3,255,4,32,5,0,6,64,7,0,8,0,9,255,10,32,11,0,12,64,13,0,14,0,15,255,16,32,17,0,22,96</FixtureVal>
+  </Function>
+  <Function ID="517" Type="Scene" Name="Chorus 3" Path="This Is Amazing Grace">
+   <Speed FadeIn="4000" FadeOut="5000" Duration="0"/>
+   <ChannelGroupsVal>15,177,16,173,17,65,18,0,19,255,20,137,21,0,8,58,0,190,1,46,2,0,3,255,4,128,5,0,22,123,23,255,24,0,25,0,26,255,27,76,28,0</ChannelGroupsVal>
+   <FixtureVal ID="16">0,177,1,173,2,65,3,0,4,255,5,137,6,0</FixtureVal>
+   <FixtureVal ID="17">0,177,1,173,2,65,3,0,4,255,5,137,6,0</FixtureVal>
+   <FixtureVal ID="4">0,58,1,190,2,46,3,0,4,255,5,128,6,0</FixtureVal>
+   <FixtureVal ID="5">0,58,1,190,2,46,3,0,4,255,5,128,6,0</FixtureVal>
+   <FixtureVal ID="6">0,58,1,190,2,46,3,0,4,255,5,128,6,0</FixtureVal>
+   <FixtureVal ID="7">0,58,1,190,2,46,3,0,4,255,5,128,6,0</FixtureVal>
+   <FixtureVal ID="15">0,255,1,0,2,0,3,255,4,76,5,0,6,255,7,0,8,0,9,255,10,76,11,0,12,255,13,0,14,0,15,255,16,76,17,0,22,123</FixtureVal>
+   <FixtureVal ID="18">0,255,1,0,2,0,3,255,4,76,5,0,6,255,7,0,8,0,9,255,10,76,11,0,12,255,13,0,14,0,15,255,16,76,17,0,22,123</FixtureVal>
+  </Function>
+  <Function ID="518" Type="Scene" Name="Chorus 4" Path="This Is Amazing Grace">
+   <Speed FadeIn="6000" FadeOut="5000" Duration="0"/>
+   <ChannelGroupsVal>15,177,16,255,17,65,18,0,19,255,20,100,21,0,8,62,0,255,1,52,2,0,3,255,4,97,5,0,22,170,23,255,24,0,25,0,26,255,27,44,28,0</ChannelGroupsVal>
+   <FixtureVal ID="16">0,177,1,255,2,65,3,0,4,255,5,100,6,0</FixtureVal>
+   <FixtureVal ID="17">0,177,1,255,2,65,3,0,4,255,5,100,6,0</FixtureVal>
+   <FixtureVal ID="4">0,62,1,255,2,52,3,0,4,255,5,97,6,0</FixtureVal>
+   <FixtureVal ID="5">0,62,1,255,2,52,3,0,4,255,5,97,6,0</FixtureVal>
+   <FixtureVal ID="6">0,62,1,255,2,52,3,0,4,255,5,97,6,0</FixtureVal>
+   <FixtureVal ID="7">0,62,1,255,2,52,3,0,4,255,5,97,6,0</FixtureVal>
+   <FixtureVal ID="15">0,255,1,0,2,0,3,255,4,44,5,0,6,255,7,0,8,0,9,255,10,44,11,0,12,255,13,0,14,0,15,255,16,44,17,0,22,170</FixtureVal>
+   <FixtureVal ID="18">0,255,1,0,2,0,3,255,4,44,5,0,6,255,7,0,8,0,9,255,10,44,11,0,12,255,13,0,14,0,15,255,16,44,17,0,22,170</FixtureVal>
+  </Function>
+  <Function ID="519" Type="Scene" Name="Bridge 2 Down" Path="Living Sacrifice">
+   <Speed FadeIn="6000" FadeOut="5000" Duration="0"/>
+   <ChannelGroupsVal>15,156,16,0,17,0,18,255,19,98,20,0,21,0,8,118,0,0,1,0,2,98,3,30,4,54,5,0,22,64,23,0,24,0,25,255,26,47,27,0,28,0</ChannelGroupsVal>
+   <FixtureVal ID="16">0,156,1,0,2,0,3,255,4,98,5,0,6,0</FixtureVal>
+   <FixtureVal ID="17">0,156,1,0,2,0,3,255,4,98,5,0,6,0</FixtureVal>
+   <FixtureVal ID="4">0,118,1,0,2,0,3,98,4,30,5,54,6,0</FixtureVal>
+   <FixtureVal ID="5">0,118,1,0,2,0,3,98,4,30,5,54,6,0</FixtureVal>
+   <FixtureVal ID="6">0,118,1,0,2,0,3,98,4,30,5,54,6,0</FixtureVal>
+   <FixtureVal ID="7">0,118,1,0,2,0,3,98,4,30,5,54,6,0</FixtureVal>
+   <FixtureVal ID="15">0,0,1,0,2,255,3,47,4,0,5,0,6,0,7,0,8,255,9,47,10,0,11,0,12,0,13,0,14,255,15,47,16,0,17,0,22,64</FixtureVal>
+   <FixtureVal ID="18">0,0,1,0,2,255,3,47,4,0,5,0,6,0,7,0,8,255,9,47,10,0,11,0,12,0,13,0,14,255,15,47,16,0,17,0,22,64</FixtureVal>
+  </Function>
+  <Function ID="520" Type="Scene" Name="Interlude" Path="Living Sacrifice">
+   <Speed FadeIn="6000" FadeOut="5000" Duration="0"/>
+   <ChannelGroupsVal>15,147,16,61,17,0,18,232,19,255,20,0,21,0,8,156,0,59,1,0,2,235,3,145,4,10,5,0,22,64,23,171,24,0,25,255,26,140,27,0,28,0</ChannelGroupsVal>
+   <FixtureVal ID="16">0,147,1,61,2,0,3,232,4,255,5,0,6,0</FixtureVal>
+   <FixtureVal ID="17">0,147,1,61,2,0,3,232,4,255,5,0,6,0</FixtureVal>
+   <FixtureVal ID="4">0,156,1,59,2,0,3,235,4,145,5,10,6,0</FixtureVal>
+   <FixtureVal ID="5">0,156,1,59,2,0,3,235,4,145,5,10,6,0</FixtureVal>
+   <FixtureVal ID="6">0,156,1,59,2,0,3,235,4,145,5,10,6,0</FixtureVal>
+   <FixtureVal ID="7">0,156,1,59,2,0,3,235,4,145,5,10,6,0</FixtureVal>
+   <FixtureVal ID="15">0,171,1,0,2,255,3,140,4,0,5,0,6,171,7,0,8,255,9,140,10,0,11,0,12,171,13,0,14,255,15,140,16,0,17,0,22,64</FixtureVal>
+   <FixtureVal ID="18">0,171,1,0,2,255,3,140,4,0,5,0,6,171,7,0,8,255,9,140,10,0,11,0,12,171,13,0,14,255,15,140,16,0,17,0,22,64</FixtureVal>
+  </Function>
+  <Function ID="521" Type="Scene" Name="Interlude Build" Path="Living Sacrifice">
+   <Speed FadeIn="6000" FadeOut="5000" Duration="0"/>
+   <ChannelGroupsVal>15,212,16,61,17,0,18,68,19,255,20,0,21,0,8,156,0,59,1,0,2,76,3,145,4,89,5,0,22,140,23,255,24,0,25,90,26,140,27,91,28,0</ChannelGroupsVal>
+   <FixtureVal ID="16">0,212,1,61,2,0,3,68,4,255,5,0,6,0</FixtureVal>
+   <FixtureVal ID="17">0,212,1,61,2,0,3,68,4,255,5,0,6,0</FixtureVal>
+   <FixtureVal ID="4">0,156,1,59,2,0,3,76,4,145,5,89,6,0</FixtureVal>
+   <FixtureVal ID="5">0,156,1,59,2,0,3,76,4,145,5,89,6,0</FixtureVal>
+   <FixtureVal ID="6">0,156,1,59,2,0,3,76,4,145,5,89,6,0</FixtureVal>
+   <FixtureVal ID="7">0,156,1,59,2,0,3,76,4,145,5,89,6,0</FixtureVal>
+   <FixtureVal ID="15">0,255,1,0,2,90,3,140,4,91,5,0,6,255,7,0,8,90,9,140,10,91,11,0,12,255,13,0,14,90,15,140,16,91,17,0,22,140</FixtureVal>
+   <FixtureVal ID="18">0,255,1,0,2,90,3,140,4,91,5,0,6,255,7,0,8,90,9,140,10,91,11,0,12,255,13,0,14,90,15,140,16,91,17,0,22,140</FixtureVal>
+  </Function>
+  <Function ID="522" Type="Chaser" Name="This Is Amazing Grace [25-07] [C]" Path="Runsheets">
+   <Speed FadeIn="0" FadeOut="0" Duration="0"/>
+   <Direction>Forward</Direction>
+   <RunOrder>SingleShot</RunOrder>
+   <SpeedModes FadeIn="Default" FadeOut="Default" Duration="PerStep"/>
+   <Step Number="0" FadeIn="0" Hold="4294967294" FadeOut="0" Note="    THIS IS AMAZING GRACE in">491</Step>
+   <Step Number="1" FadeIn="0" Hold="4294967294" FadeOut="0" Note="Inst in">515</Step>
+   <Step Number="2" FadeIn="0" Hold="4294967294" FadeOut="0" Note="&quot;This is amazing grace&quot;">492</Step>
+   <Step Number="3" FadeIn="0" Hold="4294967294" FadeOut="0" Note="&quot;This is amazing grace&quot;">516</Step>
+   <Step Number="4" FadeIn="0" Hold="4294967294" FadeOut="0" Note="Down">494</Step>
+   <Step Number="5" FadeIn="0" Hold="4294967294" FadeOut="0" Note="&quot;Worthy is the Lamb&quot; #3">495</Step>
+   <Step Number="6" FadeIn="0" Hold="4294967294" FadeOut="0" Note="&quot;This is amazing grace&quot;">517</Step>
+   <Step Number="7" FadeIn="0" Hold="4294967294" FadeOut="0" Note="&quot;This is amazing grace&quot;">518</Step>
+   <Step Number="8" FadeIn="0" Hold="4294967294" FadeOut="0" Note="    THIS IS AMAZING GRACE out">527</Step>
+  </Function>
+  <Function ID="523" Type="Chaser" Name="Living Sacrifice [25-07]" Path="Runsheets">
+   <Speed FadeIn="0" FadeOut="0" Duration="0"/>
+   <Direction>Forward</Direction>
+   <RunOrder>SingleShot</RunOrder>
+   <SpeedModes FadeIn="Default" FadeOut="Default" Duration="PerStep"/>
+   <Step Number="0" FadeIn="0" Hold="4294967294" FadeOut="0" Note="    LIVING SACRIFICE in">496</Step>
+   <Step Number="1" FadeIn="0" Hold="4294967294" FadeOut="0" Note="&quot;I will be a living sacrifice&quot;">497</Step>
+   <Step Number="2" FadeIn="0" Hold="4294967294" FadeOut="0" Note="&quot;I will be a living sacrifice&quot;">500</Step>
+   <Step Number="3" FadeIn="0" Hold="4294967294" FadeOut="0" Note="Down">498</Step>
+   <Step Number="4" FadeIn="0" Hold="4294967294" FadeOut="0" Note="&quot;I'll give You all&quot; #3">499</Step>
+   <Step Number="5" FadeIn="0" Hold="4294967294" FadeOut="0" Note="&quot;I will be a living sacrifice&quot;">501</Step>
+   <Step Number="6" FadeIn="0" Hold="4294967294" FadeOut="0" Note="Down">519</Step>
+   <Step Number="7" FadeIn="0" Hold="4294967294" FadeOut="0" Note="&quot;I'll give You all&quot; #3">502</Step>
+   <Step Number="8" FadeIn="0" Hold="6000" FadeOut="0" Note="&quot;Your fire fall down&quot;">520</Step>
+   <Step Number="9" FadeIn="0" Hold="4294967294" FadeOut="0" Note="[AUTO]">521</Step>
+   <Step Number="10" FadeIn="0" Hold="4294967294" FadeOut="0" Note="&quot;I will be a living sacrifice&quot;">503</Step>
+   <Step Number="11" FadeIn="0" Hold="4294967294" FadeOut="0" Note="    LIVING SACRIFICE out">525</Step>
+  </Function>
+  <Function ID="524" Type="Chaser" Name="O Come To The Altar [25-07]" Path="Runsheets">
+   <Speed FadeIn="0" FadeOut="0" Duration="0"/>
+   <Direction>Forward</Direction>
+   <RunOrder>SingleShot</RunOrder>
+   <SpeedModes FadeIn="Default" FadeOut="Default" Duration="PerStep"/>
+   <Step Number="0" FadeIn="0" Hold="4294967294" FadeOut="0" Note="    O COME TO THE ALTAR in">508</Step>
+   <Step Number="1" FadeIn="0" Hold="4294967294" FadeOut="0" Note="&quot;O come to the altar&quot;">509</Step>
+   <Step Number="2" FadeIn="0" Hold="4294967294" FadeOut="0" Note="&quot;O come to the altar&quot;">510</Step>
+   <Step Number="3" FadeIn="0" Hold="4294967294" FadeOut="0" Note="Down">511</Step>
+   <Step Number="4" FadeIn="0" Hold="4294967294" FadeOut="0" Note="&quot;Oh what a Savior&quot; #2">512</Step>
+   <Step Number="5" FadeIn="0" Hold="4294967294" FadeOut="0" Note="&quot;O come to the altar&quot;">513</Step>
+   <Step Number="6" FadeIn="0" Hold="4294967294" FadeOut="0" Note="&quot;O come to the altar&quot; #2 [longer?]">514</Step>
+   <Step Number="7" FadeIn="0" Hold="4294967294" FadeOut="0" Note="    O COME TO THE ALTAR out">526</Step>
+  </Function>
+  <Function ID="525" Type="Scene" Name="Song Out" Path="Living Sacrifice">
+   <Speed FadeIn="5000" FadeOut="5000" Duration="0"/>
+   <ChannelGroupsVal>15,155,16,0,17,0,18,255,19,115,20,0,21,0,8,80,0,0,1,0,2,175,3,65,4,40,5,0,22,64,23,0,24,0,25,255,26,23,27,0,28,0</ChannelGroupsVal>
+   <FixtureVal ID="16">0,155,1,0,2,0,3,255,4,115,5,0,6,0</FixtureVal>
+   <FixtureVal ID="17">0,155,1,0,2,0,3,255,4,115,5,0,6,0</FixtureVal>
+   <FixtureVal ID="4">0,80,1,0,2,0,3,175,4,65,5,40,6,0</FixtureVal>
+   <FixtureVal ID="5">0,80,1,0,2,0,3,175,4,65,5,40,6,0</FixtureVal>
+   <FixtureVal ID="6">0,80,1,0,2,0,3,175,4,65,5,40,6,0</FixtureVal>
+   <FixtureVal ID="7">0,80,1,0,2,0,3,175,4,65,5,40,6,0</FixtureVal>
+   <FixtureVal ID="15">0,0,1,0,2,255,3,23,4,0,5,0,6,0,7,0,8,255,9,23,10,0,11,0,12,0,13,0,14,255,15,23,16,0,17,0,22,64</FixtureVal>
+   <FixtureVal ID="18">0,0,1,0,2,255,3,23,4,0,5,0,6,0,7,0,8,255,9,23,10,0,11,0,12,0,13,0,14,255,15,23,16,0,17,0,22,64</FixtureVal>
+  </Function>
+  <Function ID="526" Type="Scene" Name="Song Out" Path="O Come To The Altar">
+   <Speed FadeIn="6000" FadeOut="5000" Duration="0"/>
+   <ChannelGroupsVal>15,80,16,225,17,0,18,175,19,162,20,146,21,0,8,25,0,180,1,0,2,105,3,77,4,104,5,0,22,96,23,120,24,0,25,35,26,105,27,51,28,0</ChannelGroupsVal>
+   <FixtureVal ID="16">0,80,1,225,2,0,3,175,4,162,5,146,6,0</FixtureVal>
+   <FixtureVal ID="17">0,80,1,225,2,0,3,175,4,162,5,146,6,0</FixtureVal>
+   <FixtureVal ID="4">0,25,1,180,2,0,3,105,4,77,5,104,6,0</FixtureVal>
+   <FixtureVal ID="5">0,25,1,180,2,0,3,105,4,77,5,104,6,0</FixtureVal>
+   <FixtureVal ID="6">0,25,1,180,2,0,3,105,4,77,5,104,6,0</FixtureVal>
+   <FixtureVal ID="7">0,25,1,180,2,0,3,105,4,77,5,104,6,0</FixtureVal>
+   <FixtureVal ID="15">0,120,1,0,2,35,3,105,4,51,5,0,6,120,7,0,8,35,9,105,10,51,11,0,12,120,13,0,14,35,15,105,16,51,17,0,22,96</FixtureVal>
+   <FixtureVal ID="18">0,120,1,0,2,35,3,105,4,51,5,0,6,120,7,0,8,35,9,105,10,51,11,0,12,120,13,0,14,35,15,105,16,51,17,0,22,96</FixtureVal>
+  </Function>
+  <Function ID="527" Type="Scene" Name="Song Out" Path="This Is Amazing Grace">
+   <Speed FadeIn="6000" FadeOut="5000" Duration="0"/>
+   <ChannelGroupsVal>15,79,16,94,17,49,18,0,19,255,20,103,21,0,8,40,0,129,1,19,2,0,3,255,4,22,5,0,22,43,23,74,24,0,25,0,26,255,27,0,28,0</ChannelGroupsVal>
+   <FixtureVal ID="16">0,79,1,94,2,49,3,0,4,255,5,103,6,0</FixtureVal>
+   <FixtureVal ID="17">0,79,1,94,2,49,3,0,4,255,5,103,6,0</FixtureVal>
+   <FixtureVal ID="4">0,40,1,129,2,19,3,0,4,255,5,22,6,0</FixtureVal>
+   <FixtureVal ID="5">0,40,1,129,2,19,3,0,4,255,5,22,6,0</FixtureVal>
+   <FixtureVal ID="6">0,40,1,129,2,19,3,0,4,255,5,22,6,0</FixtureVal>
+   <FixtureVal ID="7">0,40,1,129,2,19,3,0,4,255,5,22,6,0</FixtureVal>
+   <FixtureVal ID="15">0,74,1,0,2,0,3,255,4,0,5,0,6,74,7,0,8,0,9,255,10,0,11,0,12,74,13,0,14,0,15,255,16,0,17,0,22,43</FixtureVal>
+   <FixtureVal ID="18">0,74,1,0,2,0,3,255,4,0,5,0,6,74,7,0,8,0,9,255,10,0,11,0,12,74,13,0,14,0,15,255,16,0,17,0,22,43</FixtureVal>
+  </Function>
+  <Function ID="529" Type="Scene" Name="Verse 1" Path="Tremble">
+   <Speed FadeIn="5000" FadeOut="5000" Duration="0"/>
+   <ChannelGroupsVal>15,206,16,168,17,0,18,148,19,0,20,137,21,0,8,17,0,143,1,0,2,62,3,0,4,30,5,0,22,61,23,80,24,0,25,72,26,0,27,0,28,0</ChannelGroupsVal>
+   <FixtureVal ID="16">0,206,1,168,2,0,3,148,4,0,5,137,6,0</FixtureVal>
+   <FixtureVal ID="17">0,206,1,168,2,0,3,148,4,0,5,137,6,0</FixtureVal>
+   <FixtureVal ID="4">0,17,1,143,2,0,3,62,4,0,5,30,6,0</FixtureVal>
+   <FixtureVal ID="5">0,17,1,143,2,0,3,62,4,0,5,30,6,0</FixtureVal>
+   <FixtureVal ID="6">0,17,1,143,2,0,3,62,4,0,5,30,6,0</FixtureVal>
+   <FixtureVal ID="7">0,17,1,143,2,0,3,62,4,0,5,30,6,0</FixtureVal>
+   <FixtureVal ID="15">0,80,1,0,2,72,3,0,4,0,5,0,6,80,7,0,8,72,9,0,10,0,11,0,12,80,13,0,14,72,15,0,16,0,17,0,22,61</FixtureVal>
+   <FixtureVal ID="18">0,80,1,0,2,72,3,0,4,0,5,0,6,80,7,0,8,72,9,0,10,0,11,0,12,80,13,0,14,72,15,0,16,0,17,0,22,61</FixtureVal>
+  </Function>
+  <Function ID="530" Type="Scene" Name="Chorus 1" Path="Tremble">
+   <Speed FadeIn="5000" FadeOut="5000" Duration="0"/>
+   <ChannelGroupsVal>15,210,16,134,17,0,18,131,19,0,20,110,21,0,8,99,0,119,1,0,2,62,3,0,4,51,5,0,22,90,23,99,24,0,25,72,26,0,27,0,28,0</ChannelGroupsVal>
+   <FixtureVal ID="16">0,210,1,134,2,0,3,131,4,0,5,110,6,0</FixtureVal>
+   <FixtureVal ID="17">0,210,1,134,2,0,3,131,4,0,5,110,6,0</FixtureVal>
+   <FixtureVal ID="4">0,99,1,119,2,0,3,62,4,0,5,51,6,0</FixtureVal>
+   <FixtureVal ID="5">0,99,1,119,2,0,3,62,4,0,5,51,6,0</FixtureVal>
+   <FixtureVal ID="6">0,99,1,119,2,0,3,62,4,0,5,51,6,0</FixtureVal>
+   <FixtureVal ID="7">0,99,1,119,2,0,3,62,4,0,5,51,6,0</FixtureVal>
+   <FixtureVal ID="15">0,99,1,0,2,72,3,0,4,0,5,0,6,99,7,0,8,72,9,0,10,0,11,0,12,99,13,0,14,72,15,0,16,0,17,0,22,90</FixtureVal>
+   <FixtureVal ID="18">0,99,1,0,2,72,3,0,4,0,5,0,6,99,7,0,8,72,9,0,10,0,11,0,12,99,13,0,14,72,15,0,16,0,17,0,22,90</FixtureVal>
+  </Function>
+  <Function ID="531" Type="Scene" Name="Chorus 2" Path="Tremble">
+   <Speed FadeIn="5000" FadeOut="5000" Duration="0"/>
+   <ChannelGroupsVal>15,177,16,181,17,0,18,131,19,0,20,110,21,0,8,127,0,130,1,0,2,62,3,0,4,65,5,0,22,107,23,99,24,0,25,72,26,0,27,0,28,0</ChannelGroupsVal>
+   <FixtureVal ID="16">0,177,1,181,2,0,3,131,4,0,5,110,6,0</FixtureVal>
+   <FixtureVal ID="17">0,177,1,181,2,0,3,131,4,0,5,110,6,0</FixtureVal>
+   <FixtureVal ID="4">0,127,1,130,2,0,3,62,4,0,5,65,6,0</FixtureVal>
+   <FixtureVal ID="5">0,127,1,130,2,0,3,62,4,0,5,65,6,0</FixtureVal>
+   <FixtureVal ID="6">0,127,1,130,2,0,3,62,4,0,5,65,6,0</FixtureVal>
+   <FixtureVal ID="7">0,127,1,130,2,0,3,62,4,0,5,65,6,0</FixtureVal>
+   <FixtureVal ID="15">0,99,1,0,2,72,3,0,4,0,5,0,6,99,7,0,8,72,9,0,10,0,11,0,12,99,13,0,14,72,15,0,16,0,17,0,22,107</FixtureVal>
+   <FixtureVal ID="18">0,99,1,0,2,72,3,0,4,0,5,0,6,99,7,0,8,72,9,0,10,0,11,0,12,99,13,0,14,72,15,0,16,0,17,0,22,107</FixtureVal>
+  </Function>
+  <Function ID="533" Type="Scene" Name="Bridge (15s in)" Path="Tremble">
+   <Speed FadeIn="15000" FadeOut="5000" Duration="0"/>
+   <ChannelGroupsVal>15,190,16,208,17,0,18,167,19,0,20,140,21,0,8,118,0,126,1,0,2,62,3,0,4,65,5,0,22,107,23,99,24,0,25,72,26,0,27,0,28,0</ChannelGroupsVal>
+   <FixtureVal ID="16">0,190,1,208,2,0,3,167,4,0,5,140,6,0</FixtureVal>
+   <FixtureVal ID="17">0,190,1,208,2,0,3,167,4,0,5,140,6,0</FixtureVal>
+   <FixtureVal ID="4">0,118,1,126,2,0,3,62,4,0,5,65,6,0</FixtureVal>
+   <FixtureVal ID="5">0,118,1,126,2,0,3,62,4,0,5,65,6,0</FixtureVal>
+   <FixtureVal ID="6">0,118,1,126,2,0,3,62,4,0,5,65,6,0</FixtureVal>
+   <FixtureVal ID="7">0,118,1,126,2,0,3,62,4,0,5,65,6,0</FixtureVal>
+   <FixtureVal ID="15">0,99,1,0,2,72,3,0,4,0,5,0,6,99,7,0,8,72,9,0,10,0,11,0,12,99,13,0,14,72,15,0,16,0,17,0,22,107</FixtureVal>
+   <FixtureVal ID="18">0,99,1,0,2,72,3,0,4,0,5,0,6,99,7,0,8,72,9,0,10,0,11,0,12,99,13,0,14,72,15,0,16,0,17,0,22,107</FixtureVal>
+  </Function>
+  <Function ID="535" Type="Scene" Name="Chorus 3" Path="Tremble">
+   <Speed FadeIn="5000" FadeOut="5000" Duration="0"/>
+   <ChannelGroupsVal>15,197,16,231,17,0,18,167,19,0,20,140,21,0,8,130,0,126,1,0,2,62,3,0,4,65,5,0,22,156,23,99,24,0,25,92,26,0,27,0,28,0</ChannelGroupsVal>
+   <FixtureVal ID="16">0,197,1,231,2,0,3,167,4,0,5,140,6,0</FixtureVal>
+   <FixtureVal ID="17">0,197,1,231,2,0,3,167,4,0,5,140,6,0</FixtureVal>
+   <FixtureVal ID="4">0,130,1,126,2,0,3,62,4,0,5,65,6,0</FixtureVal>
+   <FixtureVal ID="5">0,130,1,126,2,0,3,62,4,0,5,65,6,0</FixtureVal>
+   <FixtureVal ID="6">0,130,1,126,2,0,3,62,4,0,5,65,6,0</FixtureVal>
+   <FixtureVal ID="7">0,130,1,126,2,0,3,62,4,0,5,65,6,0</FixtureVal>
+   <FixtureVal ID="15">0,99,1,0,2,92,3,0,4,0,5,0,6,99,7,0,8,92,9,0,10,0,11,0,12,99,13,0,14,92,15,0,16,0,17,0,22,156</FixtureVal>
+   <FixtureVal ID="18">0,99,1,0,2,92,3,0,4,0,5,0,6,99,7,0,8,92,9,0,10,0,11,0,12,99,13,0,14,92,15,0,16,0,17,0,22,156</FixtureVal>
+  </Function>
+  <Function ID="536" Type="Scene" Name="Song In" Path="Tremble">
+   <Speed FadeIn="5000" FadeOut="5000" Duration="0"/>
+   <ChannelGroupsVal>15,155,16,208,17,0,18,167,19,0,20,170,21,0,8,0,0,0,1,0,2,0,3,0,4,0,5,0,22,0,23,0,24,0,25,0,26,0,27,0,28,0</ChannelGroupsVal>
+   <FixtureVal ID="16">0,155,1,208,2,0,3,167,4,0,5,170,6,0</FixtureVal>
+   <FixtureVal ID="17">0,155,1,208,2,0,3,167,4,0,5,170,6,0</FixtureVal>
+   <FixtureVal ID="4">0,0,1,0,2,0,3,0,4,0,5,0,6,0</FixtureVal>
+   <FixtureVal ID="5">0,0,1,0,2,0,3,0,4,0,5,0,6,0</FixtureVal>
+   <FixtureVal ID="6">0,0,1,0,2,0,3,0,4,0,5,0,6,0</FixtureVal>
+   <FixtureVal ID="7">0,0,1,0,2,0,3,0,4,0,5,0,6,0</FixtureVal>
+   <FixtureVal ID="15">0,0,1,0,2,0,3,0,4,0,5,0,6,0,7,0,8,0,9,0,10,0,11,0,12,0,13,0,14,0,15,0,16,0,17,0,22,0</FixtureVal>
+   <FixtureVal ID="18">0,0,1,0,2,0,3,0,4,0,5,0,6,0,7,0,8,0,9,0,10,0,11,0,12,0,13,0,14,0,15,0,16,0,17,0,22,0</FixtureVal>
+  </Function>
+  <Function ID="537" Type="Scene" Name="Song In" Path="Came To My Rescue">
+   <Speed FadeIn="5000" FadeOut="5000" Duration="0"/>
+   <ChannelGroupsVal>15,164,16,155,17,0,18,0,19,161,20,144,21,0,8,0,0,101,1,0,2,0,3,94,4,45,5,0,22,123,23,0,24,0,25,0,26,169,27,0,28,0</ChannelGroupsVal>
+   <FixtureVal ID="16">0,164,1,155,2,0,3,0,4,161,5,144,6,0</FixtureVal>
+   <FixtureVal ID="17">0,164,1,155,2,0,3,0,4,161,5,144,6,0</FixtureVal>
+   <FixtureVal ID="4">0,0,1,101,2,0,3,0,4,94,5,45,6,0</FixtureVal>
+   <FixtureVal ID="5">0,0,1,101,2,0,3,0,4,94,5,45,6,0</FixtureVal>
+   <FixtureVal ID="6">0,0,1,101,2,0,3,0,4,94,5,45,6,0</FixtureVal>
+   <FixtureVal ID="7">0,0,1,101,2,0,3,0,4,94,5,45,6,0</FixtureVal>
+   <FixtureVal ID="15">0,0,1,0,2,0,3,169,4,0,5,0,6,0,7,0,8,0,9,169,10,0,11,0,12,0,13,0,14,0,15,169,16,0,17,0,22,123</FixtureVal>
+   <FixtureVal ID="18">0,0,1,0,2,0,3,169,4,0,5,0,6,0,7,0,8,0,9,169,10,0,11,0,12,0,13,0,14,0,15,169,16,0,17,0,22,123</FixtureVal>
+  </Function>
+  <Function ID="538" Type="Scene" Name="Chorus 1" Path="Came To My Rescue">
+   <Speed FadeIn="5000" FadeOut="5000" Duration="0"/>
+   <ChannelGroupsVal>15,197,16,155,17,0,18,0,19,161,20,154,21,0,8,76,0,101,1,0,2,0,3,94,4,45,5,0,22,115,23,0,24,0,25,0,26,169,27,0,28,0</ChannelGroupsVal>
+   <FixtureVal ID="16">0,197,1,155,2,0,3,0,4,161,5,154,6,0</FixtureVal>
+   <FixtureVal ID="17">0,197,1,155,2,0,3,0,4,161,5,154,6,0</FixtureVal>
+   <FixtureVal ID="4">0,76,1,101,2,0,3,0,4,94,5,45,6,0</FixtureVal>
+   <FixtureVal ID="5">0,76,1,101,2,0,3,0,4,94,5,45,6,0</FixtureVal>
+   <FixtureVal ID="6">0,76,1,101,2,0,3,0,4,94,5,45,6,0</FixtureVal>
+   <FixtureVal ID="7">0,76,1,101,2,0,3,0,4,94,5,45,6,0</FixtureVal>
+   <FixtureVal ID="15">0,0,1,0,2,0,3,169,4,0,5,0,6,0,7,0,8,0,9,169,10,0,11,0,12,0,13,0,14,0,15,169,16,0,17,0,22,115</FixtureVal>
+   <FixtureVal ID="18">0,0,1,0,2,0,3,169,4,0,5,0,6,0,7,0,8,0,9,169,10,0,11,0,12,0,13,0,14,0,15,169,16,0,17,0,22,115</FixtureVal>
+  </Function>
+  <Function ID="539" Type="Scene" Name="Bridge 1 (45s in)" Path="Came To My Rescue">
+   <Speed FadeIn="45000" FadeOut="5000" Duration="0"/>
+   <ChannelGroupsVal>15,231,16,180,17,0,18,0,19,191,20,215,21,0,8,89,0,101,1,0,2,0,3,94,4,45,5,0,22,176,23,224,24,0,25,0,26,80,27,0,28,0</ChannelGroupsVal>
+   <FixtureVal ID="16">0,231,1,180,2,0,3,0,4,191,5,215,6,0</FixtureVal>
+   <FixtureVal ID="17">0,231,1,180,2,0,3,0,4,191,5,215,6,0</FixtureVal>
+   <FixtureVal ID="4">0,89,1,101,2,0,3,0,4,94,5,45,6,0</FixtureVal>
+   <FixtureVal ID="5">0,89,1,101,2,0,3,0,4,94,5,45,6,0</FixtureVal>
+   <FixtureVal ID="6">0,89,1,101,2,0,3,0,4,94,5,45,6,0</FixtureVal>
+   <FixtureVal ID="7">0,89,1,101,2,0,3,0,4,94,5,45,6,0</FixtureVal>
+   <FixtureVal ID="15">0,224,1,0,2,0,3,80,4,0,5,0,6,224,7,0,8,0,9,80,10,0,11,0,12,224,13,0,14,0,15,80,16,0,17,0,22,176</FixtureVal>
+   <FixtureVal ID="18">0,224,1,0,2,0,3,80,4,0,5,0,6,224,7,0,8,0,9,80,10,0,11,0,12,224,13,0,14,0,15,80,16,0,17,0,22,176</FixtureVal>
+  </Function>
+  <Function ID="540" Type="Scene" Name="Chorus 2" Path="Came To My Rescue">
+   <Speed FadeIn="6000" FadeOut="5000" Duration="0"/>
+   <ChannelGroupsVal>15,180,16,215,17,0,18,0,19,228,20,148,21,0,8,136,0,203,1,0,2,0,3,134,4,111,5,0,22,171,23,154,24,0,25,0,26,169,27,0,28,0</ChannelGroupsVal>
+   <FixtureVal ID="16">0,180,1,215,2,0,3,0,4,228,5,148,6,0</FixtureVal>
+   <FixtureVal ID="17">0,180,1,215,2,0,3,0,4,228,5,148,6,0</FixtureVal>
+   <FixtureVal ID="4">0,136,1,203,2,0,3,0,4,134,5,111,6,0</FixtureVal>
+   <FixtureVal ID="5">0,136,1,203,2,0,3,0,4,134,5,111,6,0</FixtureVal>
+   <FixtureVal ID="6">0,136,1,203,2,0,3,0,4,134,5,111,6,0</FixtureVal>
+   <FixtureVal ID="7">0,136,1,203,2,0,3,0,4,134,5,111,6,0</FixtureVal>
+   <FixtureVal ID="15">0,154,1,0,2,0,3,169,4,0,5,0,6,154,7,0,8,0,9,169,10,0,11,0,12,154,13,0,14,0,15,169,16,0,17,0,22,171</FixtureVal>
+   <FixtureVal ID="18">0,154,1,0,2,0,3,169,4,0,5,0,6,154,7,0,8,0,9,169,10,0,11,0,12,154,13,0,14,0,15,169,16,0,17,0,22,171</FixtureVal>
+  </Function>
+  <Function ID="541" Type="Scene" Name="Bridge 2 (45s in)" Path="Came To My Rescue">
+   <Speed FadeIn="45000" FadeOut="5000" Duration="0"/>
+   <ChannelGroupsVal>15,234,16,179,17,0,18,0,19,131,20,183,21,0,8,107,0,203,1,0,2,0,3,124,4,72,5,0,22,168,23,164,24,0,25,0,26,169,27,0,28,0</ChannelGroupsVal>
+   <FixtureVal ID="16">0,234,1,179,2,0,3,0,4,131,5,183,6,0</FixtureVal>
+   <FixtureVal ID="17">0,234,1,179,2,0,3,0,4,131,5,183,6,0</FixtureVal>
+   <FixtureVal ID="4">0,107,1,203,2,0,3,0,4,124,5,72,6,0</FixtureVal>
+   <FixtureVal ID="5">0,107,1,203,2,0,3,0,4,124,5,72,6,0</FixtureVal>
+   <FixtureVal ID="6">0,107,1,203,2,0,3,0,4,124,5,72,6,0</FixtureVal>
+   <FixtureVal ID="7">0,107,1,203,2,0,3,0,4,124,5,72,6,0</FixtureVal>
+   <FixtureVal ID="15">0,164,1,0,2,0,3,169,4,0,5,0,6,164,7,0,8,0,9,169,10,0,11,0,12,164,13,0,14,0,15,169,16,0,17,0,22,168</FixtureVal>
+   <FixtureVal ID="18">0,164,1,0,2,0,3,169,4,0,5,0,6,164,7,0,8,0,9,169,10,0,11,0,12,164,13,0,14,0,15,169,16,0,17,0,22,168</FixtureVal>
+  </Function>
+  <Function ID="542" Type="Scene" Name="Bridge Down" Path="Tremble">
+   <Speed FadeIn="5000" FadeOut="5000" Duration="0"/>
+   <ChannelGroupsVal>15,145,16,231,17,0,18,167,19,0,20,140,21,0,8,9,0,126,1,0,2,62,3,0,4,65,5,0,22,10,23,99,24,0,25,92,26,0,27,0,28,0</ChannelGroupsVal>
+   <FixtureVal ID="16">0,145,1,231,2,0,3,167,4,0,5,140,6,0</FixtureVal>
+   <FixtureVal ID="17">0,145,1,231,2,0,3,167,4,0,5,140,6,0</FixtureVal>
+   <FixtureVal ID="4">0,9,1,126,2,0,3,62,4,0,5,65,6,0</FixtureVal>
+   <FixtureVal ID="5">0,9,1,126,2,0,3,62,4,0,5,65,6,0</FixtureVal>
+   <FixtureVal ID="6">0,9,1,126,2,0,3,62,4,0,5,65,6,0</FixtureVal>
+   <FixtureVal ID="7">0,9,1,126,2,0,3,62,4,0,5,65,6,0</FixtureVal>
+   <FixtureVal ID="15">0,99,1,0,2,92,3,0,4,0,5,0,6,99,7,0,8,92,9,0,10,0,11,0,12,99,13,0,14,92,15,0,16,0,17,0,22,10</FixtureVal>
+   <FixtureVal ID="18">0,99,1,0,2,92,3,0,4,0,5,0,6,99,7,0,8,92,9,0,10,0,11,0,12,99,13,0,14,92,15,0,16,0,17,0,22,10</FixtureVal>
+  </Function>
+  <Function ID="543" Type="Scene" Name="Bridge Build (20s in)" Path="Tremble">
+   <Speed FadeIn="20000" FadeOut="5000" Duration="0"/>
+   <ChannelGroupsVal>15,199,16,202,17,0,18,190,19,0,20,106,21,0,8,142,0,130,1,0,2,118,3,0,4,76,5,0,22,146,23,99,24,0,25,146,26,0,27,0,28,0</ChannelGroupsVal>
+   <FixtureVal ID="16">0,199,1,202,2,0,3,190,4,0,5,106,6,0</FixtureVal>
+   <FixtureVal ID="17">0,199,1,202,2,0,3,190,4,0,5,106,6,0</FixtureVal>
+   <FixtureVal ID="4">0,142,1,130,2,0,3,118,4,0,5,76,6,0</FixtureVal>
+   <FixtureVal ID="5">0,142,1,130,2,0,3,118,4,0,5,76,6,0</FixtureVal>
+   <FixtureVal ID="6">0,142,1,130,2,0,3,118,4,0,5,76,6,0</FixtureVal>
+   <FixtureVal ID="7">0,142,1,130,2,0,3,118,4,0,5,76,6,0</FixtureVal>
+   <FixtureVal ID="15">0,99,1,0,2,146,3,0,4,0,5,0,6,99,7,0,8,146,9,0,10,0,11,0,12,99,13,0,14,146,15,0,16,0,17,0,22,146</FixtureVal>
+   <FixtureVal ID="18">0,99,1,0,2,146,3,0,4,0,5,0,6,99,7,0,8,146,9,0,10,0,11,0,12,99,13,0,14,146,15,0,16,0,17,0,22,146</FixtureVal>
+  </Function>
+  <Function ID="544" Type="Scene" Name="Chorus 4" Path="Tremble">
+   <Speed FadeIn="2000" FadeOut="5000" Duration="0"/>
+   <ChannelGroupsVal>15,222,16,181,17,0,18,131,19,0,20,179,21,0,8,213,0,130,1,0,2,87,3,0,4,98,5,0,22,163,23,122,24,0,25,135,26,0,27,0,28,0</ChannelGroupsVal>
+   <FixtureVal ID="16">0,222,1,181,2,0,3,131,4,0,5,179,6,0</FixtureVal>
+   <FixtureVal ID="17">0,222,1,181,2,0,3,131,4,0,5,179,6,0</FixtureVal>
+   <FixtureVal ID="4">0,213,1,130,2,0,3,87,4,0,5,98,6,0</FixtureVal>
+   <FixtureVal ID="5">0,213,1,130,2,0,3,87,4,0,5,98,6,0</FixtureVal>
+   <FixtureVal ID="6">0,213,1,130,2,0,3,87,4,0,5,98,6,0</FixtureVal>
+   <FixtureVal ID="7">0,213,1,130,2,0,3,87,4,0,5,98,6,0</FixtureVal>
+   <FixtureVal ID="15">0,122,1,0,2,135,3,0,4,0,5,0,6,122,7,0,8,135,9,0,10,0,11,0,12,122,13,0,14,135,15,0,16,0,17,0,22,163</FixtureVal>
+   <FixtureVal ID="18">0,122,1,0,2,135,3,0,4,0,5,0,6,122,7,0,8,135,9,0,10,0,11,0,12,122,13,0,14,135,15,0,16,0,17,0,22,163</FixtureVal>
+  </Function>
+  <Function ID="545" Type="Scene" Name="Song Out" Path="Tremble">
+   <Speed FadeIn="5000" FadeOut="5000" Duration="0"/>
+   <ChannelGroupsVal>15,125,16,208,17,0,18,167,19,0,20,170,21,0,8,87,0,86,1,0,2,63,3,0,4,0,5,0,22,46,23,46,24,0,25,46,26,0,27,0,28,0</ChannelGroupsVal>
+   <FixtureVal ID="16">0,125,1,208,2,0,3,167,4,0,5,170,6,0</FixtureVal>
+   <FixtureVal ID="17">0,125,1,208,2,0,3,167,4,0,5,170,6,0</FixtureVal>
+   <FixtureVal ID="4">0,87,1,86,2,0,3,63,4,0,5,0,6,0</FixtureVal>
+   <FixtureVal ID="5">0,87,1,86,2,0,3,63,4,0,5,0,6,0</FixtureVal>
+   <FixtureVal ID="6">0,87,1,86,2,0,3,63,4,0,5,0,6,0</FixtureVal>
+   <FixtureVal ID="7">0,87,1,86,2,0,3,63,4,0,5,0,6,0</FixtureVal>
+   <FixtureVal ID="15">0,46,1,0,2,46,3,0,4,0,5,0,6,46,7,0,8,46,9,0,10,0,11,0,12,46,13,0,14,46,15,0,16,0,17,0,22,46</FixtureVal>
+   <FixtureVal ID="18">0,46,1,0,2,46,3,0,4,0,5,0,6,46,7,0,8,46,9,0,10,0,11,0,12,46,13,0,14,46,15,0,16,0,17,0,22,46</FixtureVal>
+  </Function>
+  <Function ID="546" Type="Scene" Name="Chorus 3" Path="Came To My Rescue">
+   <Speed FadeIn="45000" FadeOut="5000" Duration="0"/>
+   <ChannelGroupsVal>15,241,16,179,17,0,18,0,19,131,20,220,21,0,8,165,0,203,1,0,2,0,3,124,4,72,5,0,22,188,23,164,24,0,25,0,26,169,27,0,28,0</ChannelGroupsVal>
+   <FixtureVal ID="16">0,241,1,179,2,0,3,0,4,131,5,220,6,0</FixtureVal>
+   <FixtureVal ID="17">0,241,1,179,2,0,3,0,4,131,5,220,6,0</FixtureVal>
+   <FixtureVal ID="4">0,165,1,203,2,0,3,0,4,124,5,72,6,0</FixtureVal>
+   <FixtureVal ID="5">0,165,1,203,2,0,3,0,4,124,5,72,6,0</FixtureVal>
+   <FixtureVal ID="6">0,165,1,203,2,0,3,0,4,124,5,72,6,0</FixtureVal>
+   <FixtureVal ID="7">0,165,1,203,2,0,3,0,4,124,5,72,6,0</FixtureVal>
+   <FixtureVal ID="15">0,164,1,0,2,0,3,169,4,0,5,0,6,164,7,0,8,0,9,169,10,0,11,0,12,164,13,0,14,0,15,169,16,0,17,0,22,188</FixtureVal>
+   <FixtureVal ID="18">0,164,1,0,2,0,3,169,4,0,5,0,6,164,7,0,8,0,9,169,10,0,11,0,12,164,13,0,14,0,15,169,16,0,17,0,22,188</FixtureVal>
+  </Function>
+  <Function ID="547" Type="Scene" Name="Song Out" Path="Came To My Rescue">
+   <Speed FadeIn="5000" FadeOut="5000" Duration="0"/>
+   <ChannelGroupsVal>15,174,16,155,17,0,18,0,19,161,20,144,21,0,8,54,0,101,1,0,2,6,3,94,4,45,5,0,22,56,23,61,24,0,25,0,26,112,27,0,28,0</ChannelGroupsVal>
+   <FixtureVal ID="16">0,174,1,155,2,0,3,0,4,161,5,144,6,0</FixtureVal>
+   <FixtureVal ID="17">0,174,1,155,2,0,3,0,4,161,5,144,6,0</FixtureVal>
+   <FixtureVal ID="4">0,54,1,101,2,0,3,6,4,94,5,45,6,0</FixtureVal>
+   <FixtureVal ID="5">0,54,1,101,2,0,3,6,4,94,5,45,6,0</FixtureVal>
+   <FixtureVal ID="6">0,54,1,101,2,0,3,6,4,94,5,45,6,0</FixtureVal>
+   <FixtureVal ID="7">0,54,1,101,2,0,3,6,4,94,5,45,6,0</FixtureVal>
+   <FixtureVal ID="15">0,61,1,0,2,0,3,112,4,0,5,0,6,61,7,0,8,0,9,112,10,0,11,0,12,61,13,0,14,0,15,112,16,0,17,0,22,56</FixtureVal>
+   <FixtureVal ID="18">0,61,1,0,2,0,3,112,4,0,5,0,6,61,7,0,8,0,9,112,10,0,11,0,12,61,13,0,14,0,15,112,16,0,17,0,22,56</FixtureVal>
+  </Function>
+  <Function ID="548" Type="Chaser" Name="Tremble" Path="Runsheets">
+   <Speed FadeIn="0" FadeOut="0" Duration="4294967294"/>
+   <Direction>Forward</Direction>
+   <RunOrder>Loop</RunOrder>
+   <SpeedModes FadeIn="Default" FadeOut="Default" Duration="PerStep"/>
+   <Step Number="0" FadeIn="0" Hold="4294967294" FadeOut="0">536</Step>
+   <Step Number="1" FadeIn="0" Hold="4294967294" FadeOut="0">529</Step>
+   <Step Number="2" FadeIn="0" Hold="4294967294" FadeOut="0">530</Step>
+   <Step Number="3" FadeIn="0" Hold="4294967294" FadeOut="0">531</Step>
+   <Step Number="4" FadeIn="0" Hold="4294967294" FadeOut="0">533</Step>
+   <Step Number="5" FadeIn="0" Hold="4294967294" FadeOut="0">535</Step>
+   <Step Number="6" FadeIn="0" Hold="4294967294" FadeOut="0">542</Step>
+   <Step Number="7" FadeIn="0" Hold="4294967294" FadeOut="0">543</Step>
+   <Step Number="8" FadeIn="0" Hold="4294967294" FadeOut="0">544</Step>
+   <Step Number="9" FadeIn="0" Hold="4294967294" FadeOut="0">545</Step>
+  </Function>
   <Monitor DisplayMode="0" ShowLabels="0">
    <Font>Arial,12,-1,5,50,0,0,0,0,0</Font>
    <ChannelStyle>0</ChannelStyle>
@@ -8225,7 +9019,7 @@
     <Font>Default</Font>
    </Appearance>
    <Slider Caption="Front House" ID="0" WidgetStyle="Slider" InvertedAppearance="false">
-    <WindowState Visible="False" X="540" Y="0" Width="90" Height="365"/>
+    <WindowState Visible="True" X="540" Y="0" Width="90" Height="365"/>
     <Appearance>
      <FrameStyle>Sunken</FrameStyle>
      <ForegroundColor>Default</ForegroundColor>
@@ -8251,7 +9045,7 @@
      <BackgroundImage>None</BackgroundImage>
      <Font>Default</Font>
     </Appearance>
-    <WindowState Visible="False" X="630" Y="0" Width="200" Height="365"/>
+    <WindowState Visible="True" X="630" Y="0" Width="200" Height="365"/>
     <AllowChildren>True</AllowChildren>
     <AllowResize>True</AllowResize>
     <ShowHeader>True</ShowHeader>
@@ -8260,7 +9054,7 @@
     <Collapsed>False</Collapsed>
     <Disabled>False</Disabled>
     <Button Caption="100%" ID="1" Icon="">
-     <WindowState Visible="False" X="25" Y="50" Width="145" Height="40"/>
+     <WindowState Visible="True" X="25" Y="50" Width="145" Height="40"/>
      <Appearance>
       <FrameStyle>None</FrameStyle>
       <ForegroundColor>Default</ForegroundColor>
@@ -8273,7 +9067,7 @@
      <Intensity Adjust="False">100</Intensity>
     </Button>
     <Button Caption="0%" ID="4" Icon="">
-     <WindowState Visible="False" X="25" Y="305" Width="145" Height="40"/>
+     <WindowState Visible="True" X="25" Y="305" Width="145" Height="40"/>
      <Appearance>
       <FrameStyle>None</FrameStyle>
       <ForegroundColor>Default</ForegroundColor>
@@ -8286,7 +9080,7 @@
      <Intensity Adjust="False">0</Intensity>
     </Button>
     <Button Caption="50%" ID="33" Icon="">
-     <WindowState Visible="False" X="25" Y="180" Width="145" Height="40"/>
+     <WindowState Visible="True" X="25" Y="180" Width="145" Height="40"/>
      <Appearance>
       <FrameStyle>None</FrameStyle>
       <ForegroundColor>Default</ForegroundColor>
@@ -8300,7 +9094,7 @@
     </Button>
    </SoloFrame>
    <Slider Caption="Back House" ID="5" WidgetStyle="Slider" InvertedAppearance="false">
-    <WindowState Visible="False" X="840" Y="0" Width="90" Height="365"/>
+    <WindowState Visible="True" X="840" Y="0" Width="90" Height="365"/>
     <Appearance>
      <FrameStyle>Sunken</FrameStyle>
      <ForegroundColor>Default</ForegroundColor>
@@ -8310,7 +9104,7 @@
     </Appearance>
     <SliderMode ValueDisplayStyle="Exact" ClickAndGoType="None" Monitor="true">Level</SliderMode>
     <Reset/>
-    <Level LowLimit="0" HighLimit="255" Value="0">
+    <Level LowLimit="0" HighLimit="255" Value="255">
      <Channel Fixture="2">0</Channel>
     </Level>
     <Playback>
@@ -8325,7 +9119,7 @@
      <BackgroundImage>None</BackgroundImage>
      <Font>Default</Font>
     </Appearance>
-    <WindowState Visible="False" X="925" Y="0" Width="200" Height="365"/>
+    <WindowState Visible="True" X="925" Y="0" Width="200" Height="365"/>
     <AllowChildren>True</AllowChildren>
     <AllowResize>True</AllowResize>
     <ShowHeader>True</ShowHeader>
@@ -8334,7 +9128,7 @@
     <Collapsed>False</Collapsed>
     <Disabled>False</Disabled>
     <Button Caption="100%" ID="7" Icon="">
-     <WindowState Visible="False" X="25" Y="50" Width="145" Height="40"/>
+     <WindowState Visible="True" X="25" Y="50" Width="145" Height="40"/>
      <Appearance>
       <FrameStyle>None</FrameStyle>
       <ForegroundColor>Default</ForegroundColor>
@@ -8347,7 +9141,7 @@
      <Intensity Adjust="False">100</Intensity>
     </Button>
     <Button Caption="50%" ID="8" Icon="">
-     <WindowState Visible="False" X="25" Y="180" Width="145" Height="40"/>
+     <WindowState Visible="True" X="25" Y="180" Width="145" Height="40"/>
      <Appearance>
       <FrameStyle>None</FrameStyle>
       <ForegroundColor>Default</ForegroundColor>
@@ -8360,7 +9154,7 @@
      <Intensity Adjust="False">50</Intensity>
     </Button>
     <Button Caption="0%" ID="9" Icon="">
-     <WindowState Visible="False" X="25" Y="310" Width="145" Height="40"/>
+     <WindowState Visible="True" X="25" Y="310" Width="145" Height="40"/>
      <Appearance>
       <FrameStyle>None</FrameStyle>
       <ForegroundColor>Default</ForegroundColor>
@@ -8374,7 +9168,7 @@
     </Button>
    </SoloFrame>
    <Slider Caption="Stage Wash" ID="10" WidgetStyle="Slider" InvertedAppearance="false">
-    <WindowState Visible="False" X="1340" Y="0" Width="90" Height="365"/>
+    <WindowState Visible="True" X="1340" Y="0" Width="90" Height="365"/>
     <Appearance>
      <FrameStyle>Sunken</FrameStyle>
      <ForegroundColor>Default</ForegroundColor>
@@ -8384,7 +9178,7 @@
     </Appearance>
     <SliderMode ValueDisplayStyle="Exact" ClickAndGoType="None" Monitor="true">Level</SliderMode>
     <Reset/>
-    <Level LowLimit="0" HighLimit="255" Value="0">
+    <Level LowLimit="0" HighLimit="255" Value="255">
      <Channel Fixture="1">0</Channel>
     </Level>
     <Playback>
@@ -8399,7 +9193,7 @@
      <BackgroundImage>None</BackgroundImage>
      <Font>Default</Font>
     </Appearance>
-    <WindowState Visible="False" X="1430" Y="0" Width="200" Height="365"/>
+    <WindowState Visible="True" X="1430" Y="0" Width="200" Height="365"/>
     <AllowChildren>True</AllowChildren>
     <AllowResize>True</AllowResize>
     <ShowHeader>True</ShowHeader>
@@ -8408,7 +9202,7 @@
     <Collapsed>False</Collapsed>
     <Disabled>False</Disabled>
     <Button Caption="100%" ID="11" Icon="">
-     <WindowState Visible="False" X="25" Y="50" Width="145" Height="40"/>
+     <WindowState Visible="True" X="25" Y="50" Width="145" Height="40"/>
      <Appearance>
       <FrameStyle>None</FrameStyle>
       <ForegroundColor>Default</ForegroundColor>
@@ -8421,7 +9215,7 @@
      <Intensity Adjust="False">100</Intensity>
     </Button>
     <Button Caption="50%" ID="12" Icon="">
-     <WindowState Visible="False" X="25" Y="180" Width="145" Height="40"/>
+     <WindowState Visible="True" X="25" Y="180" Width="145" Height="40"/>
      <Appearance>
       <FrameStyle>None</FrameStyle>
       <ForegroundColor>Default</ForegroundColor>
@@ -8434,7 +9228,7 @@
      <Intensity Adjust="False">50</Intensity>
     </Button>
     <Button Caption="0%" ID="13" Icon="">
-     <WindowState Visible="False" X="25" Y="310" Width="145" Height="40"/>
+     <WindowState Visible="True" X="25" Y="310" Width="145" Height="40"/>
      <Appearance>
       <FrameStyle>None</FrameStyle>
       <ForegroundColor>Default</ForegroundColor>
@@ -8448,7 +9242,7 @@
     </Button>
    </SoloFrame>
    <SpeedDial Caption="House Fade" ID="15">
-    <WindowState Visible="False" X="1125" Y="0" Width="150" Height="245"/>
+    <WindowState Visible="True" X="1125" Y="0" Width="150" Height="245"/>
     <Appearance>
      <FrameStyle>Sunken</FrameStyle>
      <ForegroundColor>Default</ForegroundColor>
@@ -8491,7 +9285,7 @@
     </Preset>
    </SpeedDial>
    <SpeedDial Caption="Wash Fade" ID="16">
-    <WindowState Visible="False" X="1630" Y="0" Width="150" Height="245"/>
+    <WindowState Visible="True" X="1630" Y="0" Width="150" Height="245"/>
     <Appearance>
      <FrameStyle>Sunken</FrameStyle>
      <ForegroundColor>Default</ForegroundColor>
@@ -8538,7 +9332,7 @@
      <BackgroundImage>None</BackgroundImage>
      <Font>Default</Font>
     </Appearance>
-    <WindowState Visible="False" X="0" Y="0" Width="175" Height="365"/>
+    <WindowState Visible="True" X="0" Y="0" Width="175" Height="365"/>
     <AllowChildren>True</AllowChildren>
     <AllowResize>True</AllowResize>
     <ShowHeader>True</ShowHeader>
@@ -8547,7 +9341,7 @@
     <Collapsed>False</Collapsed>
     <Disabled>False</Disabled>
     <Button Caption="25%" ID="19" Icon="">
-     <WindowState Visible="False" X="10" Y="240" Width="155" Height="50"/>
+     <WindowState Visible="True" X="10" Y="240" Width="155" Height="50"/>
      <Appearance>
       <FrameStyle>None</FrameStyle>
       <ForegroundColor>Default</ForegroundColor>
@@ -8560,7 +9354,7 @@
      <Intensity Adjust="False">100</Intensity>
     </Button>
     <Button Caption="50%" ID="20" Icon="">
-     <WindowState Visible="False" X="10" Y="175" Width="155" Height="50"/>
+     <WindowState Visible="True" X="10" Y="175" Width="155" Height="50"/>
      <Appearance>
       <FrameStyle>None</FrameStyle>
       <ForegroundColor>Default</ForegroundColor>
@@ -8573,7 +9367,7 @@
      <Intensity Adjust="False">100</Intensity>
     </Button>
     <Button Caption="75%" ID="21" Icon="">
-     <WindowState Visible="False" X="10" Y="110" Width="155" Height="50"/>
+     <WindowState Visible="True" X="10" Y="110" Width="155" Height="50"/>
      <Appearance>
       <FrameStyle>None</FrameStyle>
       <ForegroundColor>Default</ForegroundColor>
@@ -8586,7 +9380,7 @@
      <Intensity Adjust="False">100</Intensity>
     </Button>
     <Button Caption="100%" ID="22" Icon="">
-     <WindowState Visible="False" X="10" Y="45" Width="155" Height="50"/>
+     <WindowState Visible="True" X="10" Y="45" Width="155" Height="50"/>
      <Appearance>
       <FrameStyle>None</FrameStyle>
       <ForegroundColor>Default</ForegroundColor>
@@ -8599,7 +9393,7 @@
      <Intensity Adjust="False">100</Intensity>
     </Button>
     <Button Caption="0%" ID="23" Icon="">
-     <WindowState Visible="False" X="10" Y="305" Width="155" Height="50"/>
+     <WindowState Visible="True" X="10" Y="305" Width="155" Height="50"/>
      <Appearance>
       <FrameStyle>None</FrameStyle>
       <ForegroundColor>Default</ForegroundColor>
@@ -8620,7 +9414,7 @@
      <BackgroundImage>None</BackgroundImage>
      <Font>Default</Font>
     </Appearance>
-    <WindowState Visible="False" X="175" Y="0" Width="175" Height="365"/>
+    <WindowState Visible="True" X="175" Y="0" Width="175" Height="365"/>
     <AllowChildren>True</AllowChildren>
     <AllowResize>True</AllowResize>
     <ShowHeader>True</ShowHeader>
@@ -8629,7 +9423,7 @@
     <Collapsed>False</Collapsed>
     <Disabled>False</Disabled>
     <Button Caption="Magenta" ID="25" Icon="">
-     <WindowState Visible="False" X="10" Y="240" Width="155" Height="50"/>
+     <WindowState Visible="True" X="10" Y="240" Width="155" Height="50"/>
      <Appearance>
       <FrameStyle>None</FrameStyle>
       <ForegroundColor>4278190080</ForegroundColor>
@@ -8642,7 +9436,7 @@
      <Intensity Adjust="False">100</Intensity>
     </Button>
     <Button Caption="Cyan" ID="26" Icon="">
-     <WindowState Visible="False" X="10" Y="175" Width="155" Height="50"/>
+     <WindowState Visible="True" X="10" Y="175" Width="155" Height="50"/>
      <Appearance>
       <FrameStyle>None</FrameStyle>
       <ForegroundColor>4278190080</ForegroundColor>
@@ -8655,7 +9449,7 @@
      <Intensity Adjust="False">100</Intensity>
     </Button>
     <Button Caption="Blue" ID="27" Icon="">
-     <WindowState Visible="False" X="10" Y="110" Width="155" Height="50"/>
+     <WindowState Visible="True" X="10" Y="110" Width="155" Height="50"/>
      <Appearance>
       <FrameStyle>None</FrameStyle>
       <ForegroundColor>4278190080</ForegroundColor>
@@ -8668,7 +9462,7 @@
      <Intensity Adjust="False">100</Intensity>
     </Button>
     <Button Caption="Amber" ID="28" Icon="">
-     <WindowState Visible="False" X="10" Y="45" Width="155" Height="50"/>
+     <WindowState Visible="True" X="10" Y="45" Width="155" Height="50"/>
      <Appearance>
       <FrameStyle>None</FrameStyle>
       <ForegroundColor>4278190080</ForegroundColor>
@@ -8681,7 +9475,7 @@
      <Intensity Adjust="False">100</Intensity>
     </Button>
     <Button Caption="Red" ID="24" Icon="">
-     <WindowState Visible="False" X="10" Y="305" Width="155" Height="50"/>
+     <WindowState Visible="True" X="10" Y="305" Width="155" Height="50"/>
      <Appearance>
       <FrameStyle>None</FrameStyle>
       <ForegroundColor>4278190080</ForegroundColor>
@@ -8695,7 +9489,7 @@
     </Button>
    </SoloFrame>
    <SpeedDial Caption="Color Fade" ID="31">
-    <WindowState Visible="False" X="350" Y="0" Width="150" Height="245"/>
+    <WindowState Visible="True" X="350" Y="0" Width="150" Height="245"/>
     <Appearance>
      <FrameStyle>Sunken</FrameStyle>
      <ForegroundColor>Default</ForegroundColor>
@@ -8742,7 +9536,7 @@
     </Preset>
    </SpeedDial>
    <CueList Caption="Cue list" ID="29">
-    <WindowState Visible="False" X="0" Y="365" Width="810" Height="715"/>
+    <WindowState Visible="True" X="0" Y="365" Width="810" Height="715"/>
     <Appearance>
      <FrameStyle>Sunken</FrameStyle>
      <ForegroundColor>Default</ForegroundColor>
@@ -8764,7 +9558,7 @@
     </Stop>
    </CueList>
    <CueList Caption="Cue list" ID="18">
-    <WindowState Visible="False" X="1700" Y="365" Width="220" Height="145"/>
+    <WindowState Visible="True" X="1700" Y="365" Width="220" Height="145"/>
     <Appearance>
      <FrameStyle>Sunken</FrameStyle>
      <ForegroundColor>Default</ForegroundColor>
@@ -8780,7 +9574,7 @@
     <Stop/>
    </CueList>
    <Button Caption="Haze" ID="32" Icon="">
-    <WindowState Visible="False" X="1700" Y="305" Width="220" Height="60"/>
+    <WindowState Visible="True" X="1700" Y="305" Width="220" Height="60"/>
     <Appearance>
      <FrameStyle>None</FrameStyle>
      <ForegroundColor>Default</ForegroundColor>
@@ -8793,7 +9587,7 @@
     <Intensity Adjust="False">100</Intensity>
    </Button>
    <Button Caption="Ultrabar shutters open" ID="35" Icon="">
-    <WindowState Visible="False" X="1715" Y="530" Width="185" Height="60"/>
+    <WindowState Visible="True" X="1715" Y="530" Width="185" Height="60"/>
     <Appearance>
      <FrameStyle>None</FrameStyle>
      <ForegroundColor>Default</ForegroundColor>
