@@ -10,7 +10,7 @@
   <InputOutputMap>
    <BeatGenerator BeatType="Disabled" BPM="0"/>
    <Universe Name="Universe 1" ID="0">
-    <Output Plugin="ArtNet" UID="192.168.1.202" Line="2"/>
+    <Output Plugin="ArtNet" UID="192.168.1.202" Line="3"/>
    </Universe>
    <Universe Name="Universe 2" ID="1"/>
    <Universe Name="Universe 3" ID="2"/>
@@ -1055,7 +1055,7 @@
    <Step Number="2" FadeIn="0" Hold="4294967294" FadeOut="0" Note="Down">188</Step>
    <Step Number="3" FadeIn="0" Hold="4294967294" FadeOut="0" Note="&quot;He picked me up&quot;">189</Step>
    <Step Number="4" FadeIn="0" Hold="4294967294" FadeOut="0" Note="&quot;Hell lost another one&quot;">190</Step>
-   <Step Number="5" FadeIn="0" Hold="4294967294" FadeOut="0" Note="&quot;Hell lost another one&quot; #5">191</Step>
+   <Step Number="5" FadeIn="0" Hold="4294967294" FadeOut="0" Note="&quot;Hell lost another one&quot; #4">191</Step>
    <Step Number="6" FadeIn="0" Hold="4294967294" FadeOut="0" Note="&quot;He picked me up&quot;">192</Step>
    <Step Number="7" FadeIn="0" Hold="4294967294" FadeOut="0" Note="Chorus down">235</Step>
    <Step Number="8" FadeIn="0" Hold="4294967294" FadeOut="0" Note="    I THANK GOD out">193</Step>
@@ -9812,55 +9812,26 @@
    <Direction>Forward</Direction>
    <RunOrder>SingleShot</RunOrder>
    <SpeedModes FadeIn="Default" FadeOut="Default" Duration="PerStep"/>
-   <Step Number="0" FadeIn="0" Hold="4294967294" FadeOut="0" Note="    I SPEAK JESUS in + v1 + v2">141</Step>
-   <Step Number="1" FadeIn="0" Hold="4294967294" FadeOut="0" Note="&quot;Your name&quot; + v3">142</Step>
-   <Step Number="2" FadeIn="0" Hold="4294967294" FadeOut="0" Note="&quot;Your name&quot;">143</Step>
-   <Step Number="3" FadeIn="0" Hold="4294967294" FadeOut="0">650</Step>
-   <Step Number="4" FadeIn="0" Hold="4294967294" FadeOut="0" Note="&quot;Shout jesus from the&quot;">144</Step>
-   <Step Number="5" FadeIn="0" Hold="4294967294" FadeOut="0" Note="&quot;Your name&quot;">145</Step>
-   <Step Number="6" FadeIn="0" Hold="4294967294" FadeOut="0" Note="&quot;I just want to speak&quot;">146</Step>
-   <Step Number="7" FadeIn="0" Hold="4294967294" FadeOut="0" Note="&quot;Shout Jesus from the&quot;">147</Step>
-   <Step Number="8" FadeIn="0" Hold="4294967294" FadeOut="0" Note="    I SPEAK JESUS out">148</Step>
-   <Step Number="9" FadeIn="0" Hold="4294967294" FadeOut="0" Note="    GOD OF REVIVAL in">651</Step>
-   <Step Number="10" FadeIn="0" Hold="4294967294" FadeOut="0" Note="&quot;The darkest night&quot;">652</Step>
-   <Step Number="11" FadeIn="0" Hold="4294967294" FadeOut="0" Note="&quot;The darkest night&quot;">653</Step>
-   <Step Number="12" FadeIn="0" Hold="4294967294" FadeOut="0" Note="Inst down">654</Step>
-   <Step Number="13" FadeIn="0" Hold="4294967294" FadeOut="0" Note="&quot;Come awaken Your people&quot; #2">655</Step>
-   <Step Number="14" FadeIn="0" Hold="4294967294" FadeOut="0" Note="&quot;The darkest night&quot;">656</Step>
-   <Step Number="15" FadeIn="0" Hold="4294967294" FadeOut="0" Note="&quot;Come awaken Your people&quot; #2">657</Step>
-   <Step Number="16" FadeIn="0" Hold="4294967294" FadeOut="0" Note="    GOD OF REVIVAL out">658</Step>
-   <Step Number="17" FadeIn="0" Hold="4294967294" FadeOut="0" Note="    TOUCH OF HEAVEN in">480</Step>
-   <Step Number="18" FadeIn="0" Hold="4294967294" FadeOut="0" Note="&quot;How I live for the moments&quot;">481</Step>
-   <Step Number="19" FadeIn="0" Hold="4294967294" FadeOut="0" Note="&quot;All I want&quot;">482</Step>
-   <Step Number="20" FadeIn="0" Hold="4294967294" FadeOut="0" Note="&quot;You're the fire in the morning&quot;">483</Step>
-   <Step Number="21" FadeIn="0" Hold="4294967294" FadeOut="0" Note="&quot;All I want&quot;">484</Step>
-   <Step Number="22" FadeIn="0" Hold="4294967294" FadeOut="0" Note="Inst">490</Step>
-   <Step Number="23" FadeIn="0" Hold="4294967294" FadeOut="0" Note="&quot;I open up my heart&quot; #2">485</Step>
-   <Step Number="24" FadeIn="0" Hold="4294967294" FadeOut="0" Note="Inst">608</Step>
-   <Step Number="25" FadeIn="0" Hold="4294967294" FadeOut="0" Note="&quot;All I want&quot;">486</Step>
-   <Step Number="26" FadeIn="0" Hold="4294967294" FadeOut="0" Note="    TOUCH OF HEAVEN out">488</Step>
-   <Step Number="27" FadeIn="0" Hold="4294967294" FadeOut="0" Note="    CAME TO MY RESCUE in">537</Step>
-   <Step Number="28" FadeIn="0" Hold="4294967294" FadeOut="0" Note="&quot;In my life be lifted high&quot;">539</Step>
-   <Step Number="29" FadeIn="0" Hold="4294967294" FadeOut="0" Note="&quot;I called&quot;">540</Step>
-   <Step Number="30" FadeIn="0" Hold="4294967294" FadeOut="0" Note="&quot;In my life be lifted high&quot;">541</Step>
-   <Step Number="31" FadeIn="0" Hold="4294967294" FadeOut="0" Note="&quot;I called&quot;">546</Step>
-   <Step Number="32" FadeIn="0" Hold="4294967294" FadeOut="0" Note="    CAME TO MY RESCUE out">547</Step>
-   <Step Number="33" FadeIn="0" Hold="4294967294" FadeOut="0" Note="    LIVING SACRIFICE in">496</Step>
-   <Step Number="34" FadeIn="0" Hold="4294967294" FadeOut="0" Note="&quot;I will be a living sacrifice&quot;">497</Step>
-   <Step Number="35" FadeIn="0" Hold="4294967294" FadeOut="0" Note="&quot;I will be a living sacrifice&quot;">500</Step>
-   <Step Number="36" FadeIn="0" Hold="4294967294" FadeOut="0" Note="Down">498</Step>
-   <Step Number="37" FadeIn="0" Hold="4294967294" FadeOut="0" Note="&quot;I'll give You all&quot; #3">499</Step>
-   <Step Number="38" FadeIn="0" Hold="4294967294" FadeOut="0" Note="&quot;I will be a living sacrifice&quot;">501</Step>
-   <Step Number="39" FadeIn="0" Hold="4294967294" FadeOut="0" Note="&quot;I'll give You all&quot; #3">502</Step>
-   <Step Number="40" FadeIn="0" Hold="6000" FadeOut="0" Note="&quot;Your fire fall down&quot;">520</Step>
-   <Step Number="41" FadeIn="0" Hold="4294967294" FadeOut="0" Note="[AUTO]">521</Step>
-   <Step Number="42" FadeIn="0" Hold="4294967294" FadeOut="0" Note="&quot;I'll give you all&quot;">503</Step>
-   <Step Number="43" FadeIn="0" Hold="4294967294" FadeOut="0" Note="    LIVING SACRIFICE out">525</Step>
-   <Step Number="44" FadeIn="0" Hold="4294967294" FadeOut="0" Note="    LIVING SACRIFICE REPRISE in">502</Step>
-   <Step Number="45" FadeIn="0" Hold="4294967294" FadeOut="0" Note="&quot;Your fire fall down&quot;">520</Step>
-   <Step Number="46" FadeIn="0" Hold="4294967294" FadeOut="0" Note="&quot;Your fire fall down&quot; build">521</Step>
-   <Step Number="47" FadeIn="0" Hold="4294967294" FadeOut="0" Note="&quot;I'll give you all&quot;">503</Step>
-   <Step Number="48" FadeIn="0" Hold="4294967294" FadeOut="0" Note="    LIVING SACRIFICE REPRISE out">525</Step>
+   <Step Number="0" FadeIn="0" Hold="4294967294" FadeOut="0" Note="    NEW WINE in">726</Step>
+   <Step Number="1" FadeIn="0" Hold="4294967294" FadeOut="0" Note="&quot;In the crushing&quot;">727</Step>
+   <Step Number="2" FadeIn="0" Hold="4294967294" FadeOut="0" Note="&quot;Make me Your vessel&quot;">728</Step>
+   <Step Number="3" FadeIn="0" Hold="4294967294" FadeOut="0" Note="&quot;Make me Your vessel&quot;">729</Step>
+   <Step Number="4" FadeIn="0" Hold="4294967294" FadeOut="0" Note="&quot;Where there is new wine&quot;">730</Step>
+   <Step Number="5" FadeIn="0" Hold="4294967294" FadeOut="0" Note="&quot;Where there is new wine&quot; #2">731</Step>
+   <Step Number="6" FadeIn="0" Hold="4294967294" FadeOut="0" Note="&quot;Make me Your vessel&quot;">732</Step>
+   <Step Number="7" FadeIn="0" Hold="4294967294" FadeOut="0" Note="down">750</Step>
+   <Step Number="8" FadeIn="0" Hold="4294967294" FadeOut="0" Note="&quot;Jesus bring new wine&quot; #2">733</Step>
+   <Step Number="9" FadeIn="0" Hold="4294967294" FadeOut="0" Note="&quot;Cause where there is new wine&quot;">748</Step>
+   <Step Number="10" FadeIn="0" Hold="4294967294" FadeOut="0" Note="&quot;Cause where there is new wine&quot; #2">734</Step>
+   <Step Number="11" FadeIn="0" Hold="4294967294" FadeOut="0" Note="&quot;Make me Your vessel&quot;">749</Step>
+   <Step Number="12" FadeIn="0" Hold="4294967294" FadeOut="0" Note="    NEW WINE out">747</Step>
+   <Step Number="13" FadeIn="0" Hold="4294967294" FadeOut="0" Note="    MAKE ROOM in">691</Step>
+   <Step Number="14" FadeIn="0" Hold="4294967294" FadeOut="0" Note="&quot;And I will make room&quot;">692</Step>
+   <Step Number="15" FadeIn="0" Hold="4294967294" FadeOut="0" Note="&quot;And I will make room&quot;">693</Step>
+   <Step Number="16" FadeIn="0" Hold="4294967294" FadeOut="0" Note="Inst">697</Step>
+   <Step Number="17" FadeIn="0" Hold="4294967294" FadeOut="0" Note="&quot;Shake up the ground&quot;">694</Step>
+   <Step Number="18" FadeIn="0" Hold="4294967294" FadeOut="0" Note="&quot;And I will make room&quot;">695</Step>
+   <Step Number="19" FadeIn="0" Hold="4294967294" FadeOut="0" Note="    MAKE ROOM out">696</Step>
   </Function>
   <Function ID="610" Type="Scene" Name="Prechorus 2" Path="From The Inside Out">
    <Speed FadeIn="6000" FadeOut="5000" Duration="0"/>
@@ -12086,8 +12057,8 @@
    <FixtureVal ID="15"/>
    <FixtureVal ID="18"/>
   </Function>
-  <Function ID="789" Type="Scene" Name="Bridge Build B (60s in)" Path="No Longer Slaves">
-   <Speed FadeIn="60000" FadeOut="5000" Duration="0"/>
+  <Function ID="789" Type="Scene" Name="Bridge Build B (56s in)" Path="No Longer Slaves">
+   <Speed FadeIn="56000" FadeOut="5000" Duration="0"/>
    <ChannelGroupsVal>15,208,16,0,17,0,18,160,19,0,21,0,8,160,0,64,1,0,2,64,3,0,4,32,5,0,22,192,23,24,24,0,25,255,26,0,27,64,28,0</ChannelGroupsVal>
    <FixtureVal ID="16">0,208,1,0,2,0,3,160,4,0,6,0</FixtureVal>
    <FixtureVal ID="17">0,208,1,0,2,0,3,160,4,0,6,0</FixtureVal>
@@ -12122,7 +12093,7 @@
    <FixtureVal ID="15">0,24,1,0,2,255,3,0,4,255,5,0,6,24,7,0,8,255,9,0,10,255,11,0,12,24,13,0,14,255,15,0,16,255,17,0,22,160</FixtureVal>
    <FixtureVal ID="18">0,24,1,0,2,255,3,0,4,255,5,0,6,24,7,0,8,255,9,0,10,255,11,0,12,24,13,0,14,255,15,0,16,255,17,0,22,160</FixtureVal>
   </Function>
-  <Function ID="792" Type="Collection" Name="Bridge Build (60s in)" Path="No Longer Slaves">
+  <Function ID="792" Type="Collection" Name="Bridge Build (56s in)" Path="No Longer Slaves">
    <Step Number="0">788</Step>
    <Step Number="1">789</Step>
   </Function>
@@ -12693,7 +12664,7 @@
      <BackgroundImage>None</BackgroundImage>
      <Font>Default</Font>
     </Appearance>
-    <Chaser>51</Chaser>
+    <Chaser>609</Chaser>
     <NextPrevBehavior>2</NextPrevBehavior>
     <Next>
      <Key>Space</Key>
