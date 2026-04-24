@@ -10,7 +10,7 @@
   <InputOutputMap>
    <BeatGenerator BeatType="Disabled" BPM="0"/>
    <Universe Name="Universe 1" ID="0">
-    <Output Plugin="ArtNet" UID="192.168.1.202" Line="2"/>
+    <Output Plugin="ArtNet" UID="192.168.1.202" Line="3"/>
    </Universe>
    <Universe Name="Universe 2" ID="1"/>
    <Universe Name="Universe 3" ID="2"/>
@@ -1064,40 +1064,39 @@
    <Step Number="1" FadeIn="0" Hold="27000" FadeOut="0" Note="PRE-SERVICE 1: COUNTDOWN">896</Step>
    <Step Number="2" FadeIn="0" Hold="4294967294" FadeOut="0" Note="PRE-SERVICE 2 [AUTO]">897</Step>
    <Step Number="3" FadeIn="0" Hold="4294967294" FadeOut="0" Note="PRE-SERVICE 3: LIGHTS DOWN">899</Step>
-   <Step Number="4" FadeIn="0" Hold="4294967294" FadeOut="0" Note="    DO IT AGAIN LORD in">900</Step>
-   <Step Number="5" FadeIn="0" Hold="4294967294" FadeOut="0" Note="&quot;Give us the grace&quot;">901</Step>
-   <Step Number="6" FadeIn="0" Hold="4294967294" FadeOut="0" Note="&quot;Do it again Lord&quot; + v2">902</Step>
-   <Step Number="7" FadeIn="0" Hold="4294967294" FadeOut="0" Note="&quot;Do it again Lord&quot;">903</Step>
-   <Step Number="8" FadeIn="0" Hold="4294967294" FadeOut="0" Note="&quot;You're waking every tribe&quot;">904</Step>
-   <Step Number="9" FadeIn="0" Hold="4294967294" FadeOut="0" Note="&quot;Do it again Lord&quot;">905</Step>
-   <Step Number="10" FadeIn="0" Hold="4294967294" FadeOut="0" Note="&quot;You're waking every tribe&quot;">906</Step>
-   <Step Number="11" FadeIn="0" Hold="4294967294" FadeOut="0" Note="&quot;Do it again Lord&quot;">907</Step>
-   <Step Number="12" FadeIn="0" Hold="4294967294" FadeOut="0" Note="    DO IT AGAIN LORD out">908</Step>
-   <Step Number="13" FadeIn="0" Hold="4294967294" FadeOut="0" Note="    FRESH WIND in">159</Step>
-   <Step Number="14" FadeIn="0" Hold="4294967294" FadeOut="0" Note="&quot;We need a fresh wind&quot;">160</Step>
-   <Step Number="15" FadeIn="0" Hold="4294967294" FadeOut="0" Note="    FRESH WIND out &quot;Pour Your Spirit out&quot;">165</Step>
-   <Step Number="16" FadeIn="0" Hold="4294967294" FadeOut="0" Note="    O GOD WOULD YOU MOVE in">179</Step>
-   <Step Number="17" FadeIn="0" Hold="4294967294" FadeOut="0" Note="&quot;We've prayed our prayers&quot; #2">180</Step>
-   <Step Number="18" FadeIn="0" Hold="4294967294" FadeOut="0" Note="&quot;Hear Your people crying out&quot;">181</Step>
-   <Step Number="19" FadeIn="0" Hold="4294967294" FadeOut="0" Note="    O GOD WOULD YOU MOVE out">183</Step>
-   <Step Number="20" FadeIn="0" Hold="4294967294" FadeOut="0" Note="    HE WHO IS TO COME in">425</Step>
-   <Step Number="21" FadeIn="0" Hold="4294967294" FadeOut="0" Note="&quot;There is a day coming&quot;">427</Step>
-   <Step Number="22" FadeIn="0" Hold="4294967294" FadeOut="0" Note="&quot;He who is to come&quot;">428</Step>
-   <Step Number="23" FadeIn="0" Hold="4294967294" FadeOut="0" Note="&quot;There's only One worthy&quot;">429</Step>
-   <Step Number="24" FadeIn="0" Hold="4294967294" FadeOut="0" Note="&quot;He who is to come&quot;">430</Step>
-   <Step Number="25" FadeIn="0" Hold="4294967294" FadeOut="0" Note="&quot;He is surely coming&quot;">916</Step>
-   <Step Number="26" FadeIn="0" Hold="4294967294" FadeOut="0" Note="&quot;The story has been written&quot;">917</Step>
-   <Step Number="27" FadeIn="0" Hold="4294967294" FadeOut="0" Note="&quot;He who is to come&quot;">432</Step>
-   <Step Number="28" FadeIn="0" Hold="4294967294" FadeOut="0" Note="    HE WHO IS TO COME out">433</Step>
-   <Step Number="29" FadeIn="0" Hold="4294967294" FadeOut="0" Note="    ALL HAIL KING JESUS">915</Step>
-   <Step Number="30" FadeIn="0" Hold="4294967294" FadeOut="0" Note="    O GOD WOULD YOU MOVE in">179</Step>
-   <Step Number="31" FadeIn="0" Hold="4294967294" FadeOut="0" Note="&quot;We've prayed our prayers&quot; #2">180</Step>
-   <Step Number="32" FadeIn="0" Hold="4294967294" FadeOut="0" Note="&quot;Hear Your people crying out&quot;">181</Step>
-   <Step Number="33" FadeIn="0" Hold="4294967294" FadeOut="0" Note="    O GOD WOULD YOU MOVE out">183</Step>
-   <Step Number="34" FadeIn="0" Hold="4294967294" FadeOut="0" Note="    DO IT AGAIN LORD in">900</Step>
-   <Step Number="35" FadeIn="0" Hold="4294967294" FadeOut="0" Note="&quot;Do it again Lord&quot; + v2">902</Step>
-   <Step Number="36" FadeIn="0" Hold="4294967294" FadeOut="0" Note="&quot;Do it again Lord&quot;">903</Step>
-   <Step Number="37" FadeIn="0" Hold="4294967294" FadeOut="0" Note="    DO IT AGAIN LORD out">908</Step>
+   <Step Number="4" FadeIn="0" Hold="4294967294" FadeOut="0" Note="    KING OF KINGS in">926</Step>
+   <Step Number="5" FadeIn="0" Hold="4294967294" FadeOut="0" Note="&quot;Praise the Father&quot;">927</Step>
+   <Step Number="6" FadeIn="0" Hold="4294967294" FadeOut="0" Note="&quot;Praise the Father&quot;">928</Step>
+   <Step Number="7" FadeIn="0" Hold="4294967294" FadeOut="0" Note="&quot;The morning that you rose&quot;">929</Step>
+   <Step Number="8" FadeIn="0" Hold="4294967294" FadeOut="0" Note="&quot;And the dead rose from their tombs&quot;">930</Step>
+   <Step Number="9" FadeIn="0" Hold="4294967294" FadeOut="0" Note="&quot;And the church of Christ was born&quot;">931</Step>
+   <Step Number="10" FadeIn="0" Hold="4294967294" FadeOut="0" Note="&quot;Praise the Father&quot;">932</Step>
+   <Step Number="11" FadeIn="0" Hold="4294967294" FadeOut="0" Note="    KING OF KINGS out">933</Step>
+   <Step Number="12" FadeIn="0" Hold="4294967294" FadeOut="0" Note="    LIFT YOU HIGH in">400</Step>
+   <Step Number="13" FadeIn="0" Hold="4294967294" FadeOut="0" Note="&quot;So we lift You high&quot;">401</Step>
+   <Step Number="14" FadeIn="0" Hold="4294967294" FadeOut="0" Note="Down">403</Step>
+   <Step Number="15" FadeIn="0" Hold="4294967294" FadeOut="0" Note="&quot;I won't let the rocks&quot; #3">404</Step>
+   <Step Number="16" FadeIn="0" Hold="4294967294" FadeOut="0" Note="&quot;So we lift You high&quot;">405</Step>
+   <Step Number="17" FadeIn="0" Hold="4294967294" FadeOut="0" Note="    LIFT YOU HIGH out">406</Step>
+   <Step Number="18" FadeIn="0" Hold="4294967294" FadeOut="0" Note="    SAME GOD in + verse 1">68</Step>
+   <Step Number="19" FadeIn="0" Hold="4294967294" FadeOut="0" Note="&quot;O God my God&quot; + verse 2">69</Step>
+   <Step Number="20" FadeIn="0" Hold="4294967294" FadeOut="0" Note="&quot;O God my God&quot;">70</Step>
+   <Step Number="21" FadeIn="0" Hold="4294967294" FadeOut="0" Note="Down">71</Step>
+   <Step Number="22" FadeIn="0" Hold="4294967294" FadeOut="0" Note="&quot;You were providing then&quot;">72</Step>
+   <Step Number="23" FadeIn="0" Hold="4294967294" FadeOut="0" Note="&quot;You were a savior then&quot;">73</Step>
+   <Step Number="24" FadeIn="0" Hold="4294967294" FadeOut="0" Note="&quot;O God my God&quot;">74</Step>
+   <Step Number="25" FadeIn="0" Hold="4294967294" FadeOut="0" Note="    SAME GOD out">76</Step>
+   <Step Number="26" FadeIn="0" Hold="4294967294" FadeOut="0" Note="    MAKE ROOM in">691</Step>
+   <Step Number="27" FadeIn="0" Hold="4294967294" FadeOut="0" Note="&quot;And I will make room&quot;">692</Step>
+   <Step Number="28" FadeIn="0" Hold="4294967294" FadeOut="0" Note="&quot;And I will make room&quot;">693</Step>
+   <Step Number="29" FadeIn="0" Hold="4294967294" FadeOut="0" Note="Inst">697</Step>
+   <Step Number="30" FadeIn="0" Hold="4294967294" FadeOut="0" Note="&quot;Shake up the ground&quot; #2">694</Step>
+   <Step Number="31" FadeIn="0" Hold="4294967294" FadeOut="0" Note="&quot;And I will make room&quot;">695</Step>
+   <Step Number="32" FadeIn="0" Hold="4294967294" FadeOut="0" Note="    MAKE ROOM out">696</Step>
+   <Step Number="33" FadeIn="0" Hold="4294967294" FadeOut="0" Note="    KING OF KINGS in">926</Step>
+   <Step Number="34" FadeIn="0" Hold="4294967294" FadeOut="0" Note="&quot;Praise the Father&quot;">927</Step>
+   <Step Number="35" FadeIn="0" Hold="4294967294" FadeOut="0" Note="&quot;Praise the Father&quot;">928</Step>
+   <Step Number="36" FadeIn="0" Hold="4294967294" FadeOut="0" Note="    KING OF KINGS out">933</Step>
   </Function>
   <Function ID="52" Type="Scene" Name="Song In" Path=".Templates">
    <Speed FadeIn="5000" FadeOut="5000" Duration="0"/>
@@ -1383,8 +1382,8 @@
    <FixtureVal ID="12">0,255,1,89,2,19,3,255,4,89,5,19,6,255,7,89,8,19,12,163</FixtureVal>
    <FixtureVal ID="13">0,255,1,89,2,19,3,255,4,89,5,19,6,255,7,89,8,19,12,163</FixtureVal>
   </Function>
-  <Function ID="68" Type="Scene" Name="Song In" Path="Same God">
-   <Speed FadeIn="5000" FadeOut="5000" Duration="0"/>
+  <Function ID="68" Type="Scene" Name="Song In (10s in)" Path="Same God">
+   <Speed FadeIn="10000" FadeOut="5000" Duration="0"/>
    <ChannelGroupsVal>15,54,16,0,17,172,18,255,19,0,20,255,21,0,8,8,0,0,1,129,2,255,3,0,4,0,5,0,9,0,6,0,7,0,10,0,22,0,23,0,24,0,25,0,26,0,27,0,28,0,11,0,12,0,13,0,14,0</ChannelGroupsVal>
    <FixtureVal ID="16">0,54,1,0,2,172,3,255,4,0,5,255,6,0</FixtureVal>
    <FixtureVal ID="17">0,54,1,0,2,172,3,255,4,0,5,255,6,0</FixtureVal>
@@ -1475,13 +1474,13 @@
   </Function>
   <Function ID="73" Type="Scene" Name="Bridge 1 Build B (10s in)" Path="Same God">
    <Speed FadeIn="10000" FadeOut="5000" Duration="0"/>
-   <ChannelGroupsVal>15,160,16,0,17,172,18,255,19,0,20,45,21,0,8,90,0,0,1,129,2,255,3,0,4,0,5,0,9,113,6,57,7,137,10,255,22,128,23,0,24,189,25,255,26,0,27,0,28,0,11,255,12,0,13,124,14,255</ChannelGroupsVal>
-   <FixtureVal ID="16">0,160,1,0,2,172,3,255,4,0,5,45,6,0</FixtureVal>
-   <FixtureVal ID="17">0,160,1,0,2,172,3,255,4,0,5,45,6,0</FixtureVal>
-   <FixtureVal ID="4">0,90,1,0,2,129,3,255,4,0,5,0,6,0</FixtureVal>
-   <FixtureVal ID="5">0,90,1,0,2,129,3,255,4,0,5,0,6,0</FixtureVal>
-   <FixtureVal ID="6">0,90,1,0,2,129,3,255,4,0,5,0,6,0</FixtureVal>
-   <FixtureVal ID="7">0,90,1,0,2,129,3,255,4,0,5,0,6,0</FixtureVal>
+   <ChannelGroupsVal>15,160,16,0,17,172,18,255,19,0,20,255,21,0,8,90,0,0,1,52,2,122,3,0,4,160,5,0,9,113,6,57,7,137,10,255,22,128,23,0,24,189,25,255,26,0,27,0,28,0,11,255,12,0,13,124,14,255</ChannelGroupsVal>
+   <FixtureVal ID="16">0,160,1,0,2,172,3,255,4,0,5,255,6,0</FixtureVal>
+   <FixtureVal ID="17">0,160,1,0,2,172,3,255,4,0,5,255,6,0</FixtureVal>
+   <FixtureVal ID="4">0,90,1,0,2,52,3,122,4,0,5,160,6,0</FixtureVal>
+   <FixtureVal ID="5">0,90,1,0,2,52,3,122,4,0,5,160,6,0</FixtureVal>
+   <FixtureVal ID="6">0,90,1,0,2,52,3,122,4,0,5,160,6,0</FixtureVal>
+   <FixtureVal ID="7">0,90,1,0,2,52,3,122,4,0,5,160,6,0</FixtureVal>
    <FixtureVal ID="8">0,57,1,137,2,255,6,113</FixtureVal>
    <FixtureVal ID="9">0,57,1,137,2,255,6,113</FixtureVal>
    <FixtureVal ID="10">0,57,1,137,2,255,6,113</FixtureVal>
@@ -1527,8 +1526,8 @@
    <FixtureVal ID="12">0,0,1,21,2,255,3,0,4,21,5,255,6,0,7,21,8,255,12,64</FixtureVal>
    <FixtureVal ID="13">0,0,1,21,2,255,3,0,4,21,5,255,6,0,7,21,8,255,12,64</FixtureVal>
   </Function>
-  <Function ID="76" Type="Scene" Name="Song Out" Path="Same God">
-   <Speed FadeIn="7000" FadeOut="7000" Duration="0"/>
+  <Function ID="76" Type="Scene" Name="Song Out (10s in)" Path="Same God">
+   <Speed FadeIn="10000" FadeOut="7000" Duration="0"/>
    <ChannelGroupsVal>15,128,16,0,17,32,18,255,19,0,20,64,21,0,8,16,0,0,1,64,2,255,3,0,4,0,5,0,9,32,6,0,7,77,10,255,22,123,23,0,24,16,25,255,26,0,27,0,28,0,11,51,12,0,13,21,14,255</ChannelGroupsVal>
    <FixtureVal ID="16">0,128,1,0,2,32,3,255,4,0,5,64,6,0</FixtureVal>
    <FixtureVal ID="17">0,128,1,0,2,32,3,255,4,0,5,64,6,0</FixtureVal>
@@ -7724,7 +7723,7 @@
    <Step Number="9" FadeIn="0" Hold="4294967294" FadeOut="0" Note="    GOODNESS OF GOD out">442</Step>
   </Function>
   <Function ID="441" Type="Scene" Name="Chorus 3" Path="Goodness of God">
-   <Speed FadeIn="5000" FadeOut="5000" Duration="0"/>
+   <Speed FadeIn="8000" FadeOut="5000" Duration="0"/>
    <ChannelGroupsVal>15,172,16,60,17,0,18,142,19,0,20,164,21,0,8,64,0,87,1,0,2,89,3,0,4,69,5,0,9,51,6,48,7,0,10,45,22,83,23,97,24,0,25,34,26,0,27,27,28,0,11,64,12,92,13,67,14,69</ChannelGroupsVal>
    <FixtureVal ID="16">0,172,1,60,2,0,3,142,4,0,5,164,6,0</FixtureVal>
    <FixtureVal ID="17">0,172,1,60,2,0,3,142,4,0,5,164,6,0</FixtureVal>
@@ -10971,8 +10970,8 @@
    <FixtureVal ID="15">0,84,1,0,2,4,3,0,4,7,5,0,6,84,7,0,8,4,9,0,10,7,11,0,12,84,13,0,14,4,15,0,16,7,17,0,22,138</FixtureVal>
    <FixtureVal ID="18">0,84,1,0,2,4,3,0,4,7,5,0,6,84,7,0,8,4,9,0,10,7,11,0,12,84,13,0,14,4,15,0,16,7,17,0,22,138</FixtureVal>
   </Function>
-  <Function ID="697" Type="Scene" Name="Bridge Inst Build (24s in)" Path="Make Room">
-   <Speed FadeIn="24000" FadeOut="5000" Duration="0"/>
+  <Function ID="697" Type="Scene" Name="Bridge Inst Build (12s in)" Path="Make Room">
+   <Speed FadeIn="12000" FadeOut="5000" Duration="0"/>
    <ChannelGroupsVal>15,199,16,85,17,0,18,0,19,40,20,155,21,0,8,119,0,92,1,0,2,0,3,22,4,29,5,0,22,104,23,129,24,0,25,0,26,26,27,18,28,0</ChannelGroupsVal>
    <FixtureVal ID="16">0,199,1,85,2,0,3,0,4,40,5,155,6,0</FixtureVal>
    <FixtureVal ID="17">0,199,1,85,2,0,3,0,4,40,5,155,6,0</FixtureVal>
@@ -13705,6 +13704,174 @@
    <Step Number="0">919</Step>
    <Step Number="1">918</Step>
   </Function>
+  <Function ID="921" Type="Chaser" Name="In Christ Alone [26-04] [D]" Path="Runsheets">
+   <Speed FadeIn="0" FadeOut="0" Duration="0"/>
+   <Direction>Forward</Direction>
+   <RunOrder>SingleShot</RunOrder>
+   <SpeedModes FadeIn="Default" FadeOut="Default" Duration="PerStep"/>
+   <Step Number="0" FadeIn="0" Hold="4294967294" FadeOut="0" Note="    IN CHRIST ALONE in">922</Step>
+   <Step Number="1" FadeIn="0" Hold="4294967294" FadeOut="0" Note="&quot;O trampled Death&quot;">923</Step>
+   <Step Number="2" FadeIn="0" Hold="4294967294" FadeOut="0" Note="&quot;He shall return&quot;">924</Step>
+   <Step Number="3" FadeIn="0" Hold="4294967294" FadeOut="0" Note="    IN CHRIST ALONE out">925</Step>
+  </Function>
+  <Function ID="922" Type="Scene" Name="Song In" Path="In Christ Alone">
+   <Speed FadeIn="8000" FadeOut="5000" Duration="0"/>
+   <ChannelGroupsVal>15,59,16,0,17,0,18,59,19,138,20,105,21,0,8,24,0,0,1,0,2,46,3,181,4,0,5,0,22,0,23,0,24,0,25,0,26,0,27,0,28,0</ChannelGroupsVal>
+   <FixtureVal ID="16">0,59,1,0,2,0,3,59,4,138,5,105,6,0</FixtureVal>
+   <FixtureVal ID="17">0,59,1,0,2,0,3,59,4,138,5,105,6,0</FixtureVal>
+   <FixtureVal ID="4">0,24,1,0,2,0,3,46,4,181,5,0,6,0</FixtureVal>
+   <FixtureVal ID="5">0,24,1,0,2,0,3,46,4,181,5,0,6,0</FixtureVal>
+   <FixtureVal ID="6">0,24,1,0,2,0,3,46,4,181,5,0,6,0</FixtureVal>
+   <FixtureVal ID="7">0,24,1,0,2,0,3,46,4,181,5,0,6,0</FixtureVal>
+   <FixtureVal ID="15">0,0,1,0,2,0,3,0,4,0,5,0,6,0,7,0,8,0,9,0,10,0,11,0,12,0,13,0,14,0,15,0,16,0,17,0,22,0</FixtureVal>
+   <FixtureVal ID="18">0,0,1,0,2,0,3,0,4,0,5,0,6,0,7,0,8,0,9,0,10,0,11,0,12,0,13,0,14,0,15,0,16,0,17,0,22,0</FixtureVal>
+  </Function>
+  <Function ID="923" Type="Scene" Name="Verse 3 Big (16s in)" Path="In Christ Alone">
+   <Speed FadeIn="16000" FadeOut="5000" Duration="0"/>
+   <ChannelGroupsVal>15,112,16,0,17,0,18,59,19,138,20,105,21,0,8,79,0,0,1,0,2,46,3,181,4,0,5,0,22,0,23,0,24,0,25,0,26,0,27,0,28,0</ChannelGroupsVal>
+   <FixtureVal ID="16">0,112,1,0,2,0,3,59,4,138,5,105,6,0</FixtureVal>
+   <FixtureVal ID="17">0,112,1,0,2,0,3,59,4,138,5,105,6,0</FixtureVal>
+   <FixtureVal ID="4">0,79,1,0,2,0,3,46,4,181,5,0,6,0</FixtureVal>
+   <FixtureVal ID="5">0,79,1,0,2,0,3,46,4,181,5,0,6,0</FixtureVal>
+   <FixtureVal ID="6">0,79,1,0,2,0,3,46,4,181,5,0,6,0</FixtureVal>
+   <FixtureVal ID="7">0,79,1,0,2,0,3,46,4,181,5,0,6,0</FixtureVal>
+   <FixtureVal ID="15">0,0,1,0,2,0,3,0,4,0,5,0,6,0,7,0,8,0,9,0,10,0,11,0,12,0,13,0,14,0,15,0,16,0,17,0,22,0</FixtureVal>
+   <FixtureVal ID="18">0,0,1,0,2,0,3,0,4,0,5,0,6,0,7,0,8,0,9,0,10,0,11,0,12,0,13,0,14,0,15,0,16,0,17,0,22,0</FixtureVal>
+  </Function>
+  <Function ID="924" Type="Scene" Name="Verse 4 (24s in)" Path="In Christ Alone">
+   <Speed FadeIn="24000" FadeOut="5000" Duration="0"/>
+   <ChannelGroupsVal>15,152,16,0,17,0,18,59,19,138,20,161,21,0,8,113,0,0,1,0,2,43,3,181,4,0,5,0,22,59,23,0,24,0,25,45,26,255,27,0,28,0</ChannelGroupsVal>
+   <FixtureVal ID="16">0,152,1,0,2,0,3,59,4,138,5,161,6,0</FixtureVal>
+   <FixtureVal ID="17">0,152,1,0,2,0,3,59,4,138,5,161,6,0</FixtureVal>
+   <FixtureVal ID="4">0,113,1,0,2,0,3,43,4,181,5,0,6,0</FixtureVal>
+   <FixtureVal ID="5">0,113,1,0,2,0,3,43,4,181,5,0,6,0</FixtureVal>
+   <FixtureVal ID="6">0,113,1,0,2,0,3,43,4,181,5,0,6,0</FixtureVal>
+   <FixtureVal ID="7">0,113,1,0,2,0,3,43,4,181,5,0,6,0</FixtureVal>
+   <FixtureVal ID="15">0,0,1,0,2,45,3,255,4,0,5,0,6,0,7,0,8,45,9,255,10,0,11,0,12,0,13,0,14,45,15,255,16,0,17,0,22,59</FixtureVal>
+   <FixtureVal ID="18">0,0,1,0,2,45,3,255,4,0,5,0,6,0,7,0,8,45,9,255,10,0,11,0,12,0,13,0,14,45,15,255,16,0,17,0,22,59</FixtureVal>
+  </Function>
+  <Function ID="925" Type="Scene" Name="Song Out" Path="In Christ Alone">
+   <Speed FadeIn="8000" FadeOut="5000" Duration="0"/>
+   <ChannelGroupsVal>15,109,16,0,17,0,18,59,19,203,20,96,21,0,8,42,0,0,1,0,2,54,3,181,4,0,5,0,22,20,23,0,24,0,25,46,26,255,27,0,28,0</ChannelGroupsVal>
+   <FixtureVal ID="16">0,109,1,0,2,0,3,59,4,203,5,96,6,0</FixtureVal>
+   <FixtureVal ID="17">0,109,1,0,2,0,3,59,4,203,5,96,6,0</FixtureVal>
+   <FixtureVal ID="4">0,42,1,0,2,0,3,54,4,181,5,0,6,0</FixtureVal>
+   <FixtureVal ID="5">0,42,1,0,2,0,3,54,4,181,5,0,6,0</FixtureVal>
+   <FixtureVal ID="6">0,42,1,0,2,0,3,54,4,181,5,0,6,0</FixtureVal>
+   <FixtureVal ID="7">0,42,1,0,2,0,3,54,4,181,5,0,6,0</FixtureVal>
+   <FixtureVal ID="15">0,0,1,0,2,46,3,255,4,0,5,0,6,0,7,0,8,46,9,255,10,0,11,0,12,0,13,0,14,46,15,255,16,0,17,0,22,20</FixtureVal>
+   <FixtureVal ID="18">0,0,1,0,2,46,3,255,4,0,5,0,6,0,7,0,8,46,9,255,10,0,11,0,12,0,13,0,14,46,15,255,16,0,17,0,22,20</FixtureVal>
+  </Function>
+  <Function ID="926" Type="Scene" Name="Song In" Path="King of Kings">
+   <Speed FadeIn="8000" FadeOut="5000" Duration="0"/>
+   <ChannelGroupsVal>15,48,16,65,17,0,18,0,19,0,20,103,21,0,8,26,0,207,1,0,2,19,3,0,4,0,5,0,22,0,23,0,24,0,25,0,26,0,27,0,28,0</ChannelGroupsVal>
+   <FixtureVal ID="16">0,48,1,65,2,0,3,0,4,0,5,103,6,0</FixtureVal>
+   <FixtureVal ID="17">0,48,1,65,2,0,3,0,4,0,5,103,6,0</FixtureVal>
+   <FixtureVal ID="4">0,26,1,207,2,0,3,19,4,0,5,0,6,0</FixtureVal>
+   <FixtureVal ID="5">0,26,1,207,2,0,3,19,4,0,5,0,6,0</FixtureVal>
+   <FixtureVal ID="6">0,26,1,207,2,0,3,19,4,0,5,0,6,0</FixtureVal>
+   <FixtureVal ID="7">0,26,1,207,2,0,3,19,4,0,5,0,6,0</FixtureVal>
+   <FixtureVal ID="15">0,0,1,0,2,0,3,0,4,0,5,0,6,0,7,0,8,0,9,0,10,0,11,0,12,0,13,0,14,0,15,0,16,0,17,0,22,0</FixtureVal>
+   <FixtureVal ID="18">0,0,1,0,2,0,3,0,4,0,5,0,6,0,7,0,8,0,9,0,10,0,11,0,12,0,13,0,14,0,15,0,16,0,17,0,22,0</FixtureVal>
+  </Function>
+  <Function ID="927" Type="Scene" Name="Chorus 1" Path="King of Kings">
+   <Speed FadeIn="8000" FadeOut="5000" Duration="0"/>
+   <ChannelGroupsVal>15,82,16,65,17,0,18,0,19,0,20,150,21,0,8,26,0,207,1,0,2,19,3,0,4,0,5,0,22,0,23,0,24,0,25,0,26,0,27,0,28,0</ChannelGroupsVal>
+   <FixtureVal ID="16">0,82,1,65,2,0,3,0,4,0,5,150,6,0</FixtureVal>
+   <FixtureVal ID="17">0,82,1,65,2,0,3,0,4,0,5,150,6,0</FixtureVal>
+   <FixtureVal ID="4">0,26,1,207,2,0,3,19,4,0,5,0,6,0</FixtureVal>
+   <FixtureVal ID="5">0,26,1,207,2,0,3,19,4,0,5,0,6,0</FixtureVal>
+   <FixtureVal ID="6">0,26,1,207,2,0,3,19,4,0,5,0,6,0</FixtureVal>
+   <FixtureVal ID="7">0,26,1,207,2,0,3,19,4,0,5,0,6,0</FixtureVal>
+   <FixtureVal ID="15">0,0,1,0,2,0,3,0,4,0,5,0,6,0,7,0,8,0,9,0,10,0,11,0,12,0,13,0,14,0,15,0,16,0,17,0,22,0</FixtureVal>
+   <FixtureVal ID="18">0,0,1,0,2,0,3,0,4,0,5,0,6,0,7,0,8,0,9,0,10,0,11,0,12,0,13,0,14,0,15,0,16,0,17,0,22,0</FixtureVal>
+  </Function>
+  <Function ID="928" Type="Scene" Name="Chorus 2" Path="King of Kings">
+   <Speed FadeIn="8000" FadeOut="5000" Duration="0"/>
+   <ChannelGroupsVal>15,116,16,65,17,0,18,0,19,0,20,150,21,0,8,49,0,207,1,0,2,19,3,0,4,0,5,0,22,0,23,0,24,0,25,0,26,0,27,0,28,0</ChannelGroupsVal>
+   <FixtureVal ID="16">0,116,1,65,2,0,3,0,4,0,5,150,6,0</FixtureVal>
+   <FixtureVal ID="17">0,116,1,65,2,0,3,0,4,0,5,150,6,0</FixtureVal>
+   <FixtureVal ID="4">0,49,1,207,2,0,3,19,4,0,5,0,6,0</FixtureVal>
+   <FixtureVal ID="5">0,49,1,207,2,0,3,19,4,0,5,0,6,0</FixtureVal>
+   <FixtureVal ID="6">0,49,1,207,2,0,3,19,4,0,5,0,6,0</FixtureVal>
+   <FixtureVal ID="7">0,49,1,207,2,0,3,19,4,0,5,0,6,0</FixtureVal>
+   <FixtureVal ID="15">0,0,1,0,2,0,3,0,4,0,5,0,6,0,7,0,8,0,9,0,10,0,11,0,12,0,13,0,14,0,15,0,16,0,17,0,21,32,22,0</FixtureVal>
+   <FixtureVal ID="18">0,0,1,0,2,0,3,0,4,0,5,0,6,0,7,0,8,0,9,0,10,0,11,0,12,0,13,0,14,0,15,0,16,0,17,0,21,32,22,0</FixtureVal>
+  </Function>
+  <Function ID="929" Type="Scene" Name="Verse 3" Path="King of Kings">
+   <Speed FadeIn="8000" FadeOut="5000" Duration="0"/>
+   <ChannelGroupsVal>15,116,16,65,17,0,18,0,19,0,20,72,21,0,8,49,0,207,1,0,2,11,3,0,4,0,5,0,22,0,23,0,24,0,25,0,26,0,27,0,28,0</ChannelGroupsVal>
+   <FixtureVal ID="16">0,116,1,65,2,0,3,0,4,0,5,72,6,0</FixtureVal>
+   <FixtureVal ID="17">0,116,1,65,2,0,3,0,4,0,5,72,6,0</FixtureVal>
+   <FixtureVal ID="4">0,49,1,207,2,0,3,11,4,0,5,0,6,0</FixtureVal>
+   <FixtureVal ID="5">0,49,1,207,2,0,3,11,4,0,5,0,6,0</FixtureVal>
+   <FixtureVal ID="6">0,49,1,207,2,0,3,11,4,0,5,0,6,0</FixtureVal>
+   <FixtureVal ID="7">0,49,1,207,2,0,3,11,4,0,5,0,6,0</FixtureVal>
+   <FixtureVal ID="15">0,0,1,0,2,0,3,0,4,0,5,0,6,0,7,0,8,0,9,0,10,0,11,0,12,0,13,0,14,0,15,0,16,0,17,0,21,32,22,0</FixtureVal>
+   <FixtureVal ID="18">0,0,1,0,2,0,3,0,4,0,5,0,6,0,7,0,8,0,9,0,10,0,11,0,12,0,13,0,14,0,15,0,16,0,17,0,21,32,22,0</FixtureVal>
+  </Function>
+  <Function ID="930" Type="Scene" Name="Verse 3 Build (12s in)" Path="King of Kings">
+   <Speed FadeIn="12000" FadeOut="5000" Duration="0"/>
+   <ChannelGroupsVal>15,125,16,65,17,0,18,0,19,0,20,146,21,0,8,64,0,207,1,0,2,21,3,0,4,0,5,0,22,64,23,255,24,0,25,0,26,0,27,0,28,64</ChannelGroupsVal>
+   <FixtureVal ID="16">0,125,1,65,2,0,3,0,4,0,5,146,6,0</FixtureVal>
+   <FixtureVal ID="17">0,125,1,65,2,0,3,0,4,0,5,146,6,0</FixtureVal>
+   <FixtureVal ID="4">0,64,1,207,2,0,3,21,4,0,5,0,6,0</FixtureVal>
+   <FixtureVal ID="5">0,64,1,207,2,0,3,21,4,0,5,0,6,0</FixtureVal>
+   <FixtureVal ID="6">0,64,1,207,2,0,3,21,4,0,5,0,6,0</FixtureVal>
+   <FixtureVal ID="7">0,64,1,207,2,0,3,21,4,0,5,0,6,0</FixtureVal>
+   <FixtureVal ID="15">0,255,1,0,2,0,3,0,4,0,5,64,6,255,7,0,8,0,9,0,10,0,11,64,12,255,13,0,14,0,15,0,16,0,17,64,21,32,22,64</FixtureVal>
+   <FixtureVal ID="18">0,255,1,0,2,0,3,0,4,0,5,64,6,255,7,0,8,0,9,0,10,0,11,64,12,255,13,0,14,0,15,0,16,0,17,64,21,32,22,64</FixtureVal>
+  </Function>
+  <Function ID="931" Type="Scene" Name="Verse 4 (24s in)" Path="King of Kings">
+   <Speed FadeIn="24000" FadeOut="5000" Duration="0"/>
+   <ChannelGroupsVal>15,178,16,65,17,0,18,0,19,0,20,146,21,0,8,64,0,207,1,0,2,21,3,0,4,89,5,0,22,160,23,255,24,0,25,54,26,0,27,160,28,64</ChannelGroupsVal>
+   <FixtureVal ID="16">0,178,1,65,2,0,3,0,4,0,5,146,6,0</FixtureVal>
+   <FixtureVal ID="17">0,178,1,65,2,0,3,0,4,0,5,146,6,0</FixtureVal>
+   <FixtureVal ID="4">0,64,1,207,2,0,3,21,4,0,5,89,6,0</FixtureVal>
+   <FixtureVal ID="5">0,64,1,207,2,0,3,21,4,0,5,89,6,0</FixtureVal>
+   <FixtureVal ID="6">0,64,1,207,2,0,3,21,4,0,5,89,6,0</FixtureVal>
+   <FixtureVal ID="7">0,64,1,207,2,0,3,21,4,0,5,89,6,0</FixtureVal>
+   <FixtureVal ID="15">0,255,1,0,2,54,3,0,4,160,5,64,6,255,7,0,8,54,9,0,10,160,11,64,12,255,13,0,14,54,15,0,16,160,17,64,21,32,22,160</FixtureVal>
+   <FixtureVal ID="18">0,255,1,0,2,54,3,0,4,160,5,64,6,255,7,0,8,54,9,0,10,160,11,64,12,255,13,0,14,54,15,0,16,160,17,64,21,32,22,160</FixtureVal>
+  </Function>
+  <Function ID="932" Type="Scene" Name="Chorus 3 (10s in)" Path="King of Kings">
+   <Speed FadeIn="10000" FadeOut="5000" Duration="0"/>
+   <ChannelGroupsVal>15,178,16,148,17,0,18,0,19,0,20,146,21,0,8,64,0,255,1,0,2,21,3,0,4,48,5,0,22,160,23,255,24,0,25,7,26,0,27,33,28,64</ChannelGroupsVal>
+   <FixtureVal ID="16">0,178,1,148,2,0,3,0,4,0,5,146,6,0</FixtureVal>
+   <FixtureVal ID="17">0,178,1,148,2,0,3,0,4,0,5,146,6,0</FixtureVal>
+   <FixtureVal ID="4">0,64,1,255,2,0,3,21,4,0,5,48,6,0</FixtureVal>
+   <FixtureVal ID="5">0,64,1,255,2,0,3,21,4,0,5,48,6,0</FixtureVal>
+   <FixtureVal ID="6">0,64,1,255,2,0,3,21,4,0,5,48,6,0</FixtureVal>
+   <FixtureVal ID="7">0,64,1,255,2,0,3,21,4,0,5,48,6,0</FixtureVal>
+   <FixtureVal ID="15">0,255,1,0,2,7,3,0,4,33,5,64,6,255,7,0,8,7,9,0,10,33,11,64,12,255,13,0,14,7,15,0,16,33,17,64,21,32,22,160</FixtureVal>
+   <FixtureVal ID="18">0,255,1,0,2,7,3,0,4,33,5,64,6,255,7,0,8,7,9,0,10,33,11,64,12,255,13,0,14,7,15,0,16,33,17,64,21,32,22,160</FixtureVal>
+  </Function>
+  <Function ID="933" Type="Scene" Name="Song Out" Path="King of Kings">
+   <Speed FadeIn="8000" FadeOut="5000" Duration="0"/>
+   <ChannelGroupsVal>15,128,16,113,17,0,18,0,19,0,20,146,21,0,8,32,0,255,1,0,2,14,3,0,4,15,5,0,22,64,23,255,24,0,25,0,26,0,27,0,28,64</ChannelGroupsVal>
+   <FixtureVal ID="16">0,128,1,113,2,0,3,0,4,0,5,146,6,0</FixtureVal>
+   <FixtureVal ID="17">0,128,1,113,2,0,3,0,4,0,5,146,6,0</FixtureVal>
+   <FixtureVal ID="4">0,32,1,255,2,0,3,14,4,0,5,15,6,0</FixtureVal>
+   <FixtureVal ID="5">0,32,1,255,2,0,3,14,4,0,5,15,6,0</FixtureVal>
+   <FixtureVal ID="6">0,32,1,255,2,0,3,14,4,0,5,15,6,0</FixtureVal>
+   <FixtureVal ID="7">0,32,1,255,2,0,3,14,4,0,5,15,6,0</FixtureVal>
+   <FixtureVal ID="15">0,255,1,0,2,0,3,0,4,0,5,64,6,255,7,0,8,0,9,0,10,0,11,64,12,255,13,0,14,0,15,0,16,0,17,64,21,32,22,64</FixtureVal>
+   <FixtureVal ID="18">0,255,1,0,2,0,3,0,4,0,5,64,6,255,7,0,8,0,9,0,10,0,11,64,12,255,13,0,14,0,15,0,16,0,17,64,21,32,22,64</FixtureVal>
+  </Function>
+  <Function ID="934" Type="Chaser" Name="King of Kings" Path="Runsheets">
+   <Speed FadeIn="0" FadeOut="0" Duration="0"/>
+   <Direction>Forward</Direction>
+   <RunOrder>SingleShot</RunOrder>
+   <SpeedModes FadeIn="Default" FadeOut="Default" Duration="PerStep"/>
+   <Step Number="0" FadeIn="0" Hold="4294967294" FadeOut="0" Note="    KING OF KINGS in">926</Step>
+   <Step Number="1" FadeIn="0" Hold="4294967294" FadeOut="0" Note="&quot;Praise the Father&quot;">927</Step>
+   <Step Number="2" FadeIn="0" Hold="4294967294" FadeOut="0" Note="&quot;Praise the Father&quot;">928</Step>
+   <Step Number="3" FadeIn="0" Hold="4294967294" FadeOut="0" Note="&quot;The morning that you rose&quot;">929</Step>
+   <Step Number="4" FadeIn="0" Hold="4294967294" FadeOut="0" Note="&quot;And the dead rose from their tombs&quot;">930</Step>
+   <Step Number="5" FadeIn="0" Hold="4294967294" FadeOut="0" Note="&quot;And the church of Christ was born&quot;">931</Step>
+   <Step Number="6" FadeIn="0" Hold="4294967294" FadeOut="0" Note="&quot;Praise the Father&quot;">932</Step>
+   <Step Number="7" FadeIn="0" Hold="4294967294" FadeOut="0" Note="    KING OF KINGS out">933</Step>
+  </Function>
   <Monitor DisplayMode="0" ShowLabels="0">
    <Font>Arial,12,-1,5,400,0,0,0,0,0,0,0,0,0,0,1</Font>
    <ChannelStyle>0</ChannelStyle>
@@ -13732,7 +13899,7 @@
     </Appearance>
     <SliderMode ValueDisplayStyle="Exact" ClickAndGoType="None" Monitor="true">Level</SliderMode>
     <Reset/>
-    <Level LowLimit="0" HighLimit="255" Value="255">
+    <Level LowLimit="0" HighLimit="255" Value="88">
      <Channel Fixture="0">0</Channel>
      <Channel Fixture="3">0</Channel>
     </Level>
@@ -13807,7 +13974,7 @@
     </Appearance>
     <SliderMode ValueDisplayStyle="Exact" ClickAndGoType="None" Monitor="true">Level</SliderMode>
     <Reset/>
-    <Level LowLimit="0" HighLimit="255" Value="255">
+    <Level LowLimit="0" HighLimit="255" Value="90">
      <Channel Fixture="2">0</Channel>
     </Level>
     <Playback>
@@ -13881,7 +14048,7 @@
     </Appearance>
     <SliderMode ValueDisplayStyle="Exact" ClickAndGoType="None" Monitor="true">Level</SliderMode>
     <Reset/>
-    <Level LowLimit="0" HighLimit="255" Value="255">
+    <Level LowLimit="0" HighLimit="255" Value="93">
      <Channel Fixture="1">0</Channel>
     </Level>
     <Playback>
