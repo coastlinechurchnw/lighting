@@ -9,10 +9,14 @@
  <Engine>
   <InputOutputMap>
    <BeatGenerator BeatType="Disabled" BPM="0"/>
-   <Universe Name="Universe 1" ID="0">
+   <Universe Name="ArtNet" ID="0">
     <Output Plugin="ArtNet" UID="192.168.1.54" Line="2"/>
    </Universe>
-   <Universe Name="Universe 2" ID="1"/>
+   <Universe Name="MIDI" ID="1">
+    <Input Plugin="MIDI" UID="" Line="0" Profile="Coastline ProPresenter">
+     <PluginParameters mode="Note Velocity"/>
+    </Input>
+   </Universe>
    <Universe Name="Universe 3" ID="2"/>
    <Universe Name="Universe 4" ID="3"/>
   </InputOutputMap>
@@ -295,15 +299,15 @@
    <FixtureVal ID="2">0,255</FixtureVal>
   </Function>
   <Function ID="6" Type="Scene" Name="Stage Wash 000" Path=".Intensity Palette">
-   <Speed FadeIn="10000" FadeOut="10000" Duration="0"/>
+   <Speed FadeIn="5000" FadeOut="5000" Duration="0"/>
    <FixtureVal ID="1">0,0</FixtureVal>
   </Function>
   <Function ID="7" Type="Scene" Name="Stage Wash 128" Path=".Intensity Palette">
-   <Speed FadeIn="10000" FadeOut="10000" Duration="0"/>
+   <Speed FadeIn="5000" FadeOut="5000" Duration="0"/>
    <FixtureVal ID="1">0,128</FixtureVal>
   </Function>
   <Function ID="8" Type="Scene" Name="Stage Wash 255" Path=".Intensity Palette">
-   <Speed FadeIn="10000" FadeOut="10000" Duration="0"/>
+   <Speed FadeIn="5000" FadeOut="5000" Duration="0"/>
    <FixtureVal ID="1">0,255</FixtureVal>
   </Function>
   <Function ID="9" Type="Scene" Name="Magenta" Path=".Color Palette">
@@ -15162,7 +15166,7 @@
    <Step Number="1">1027</Step>
   </Function>
   <Function ID="1036" Type="Scene" Name="Spot 64" Path=".Intensity Palette">
-   <Speed FadeIn="10000" FadeOut="10000" Duration="0"/>
+   <Speed FadeIn="5000" FadeOut="5000" Duration="0"/>
    <FixtureVal ID="19">7,64</FixtureVal>
   </Function>
   <Function ID="1037" Type="Scene" Name="Song In" Path="Good Good Father">
@@ -15468,7 +15472,7 @@
     </Appearance>
     <SliderMode ValueDisplayStyle="Exact" ClickAndGoType="None" Monitor="true">Level</SliderMode>
     <Reset/>
-    <Level LowLimit="0" HighLimit="255" Value="0">
+    <Level LowLimit="0" HighLimit="255" Value="255">
      <Channel Fixture="0">0</Channel>
      <Channel Fixture="3">0</Channel>
     </Level>
@@ -15543,7 +15547,7 @@
     </Appearance>
     <SliderMode ValueDisplayStyle="Exact" ClickAndGoType="None" Monitor="true">Level</SliderMode>
     <Reset/>
-    <Level LowLimit="0" HighLimit="255" Value="64">
+    <Level LowLimit="0" HighLimit="255" Value="255">
      <Channel Fixture="2">0</Channel>
     </Level>
     <Playback>
@@ -15630,7 +15634,7 @@
     </Appearance>
     <SliderMode ValueDisplayStyle="Exact" ClickAndGoType="None" Monitor="true">Level</SliderMode>
     <Reset/>
-    <Level LowLimit="0" HighLimit="255" Value="64">
+    <Level LowLimit="0" HighLimit="255" Value="255">
      <Channel Fixture="1">0</Channel>
     </Level>
     <Playback>
@@ -15761,7 +15765,8 @@
     </Appearance>
     <Visibility>51</Visibility>
     <AbsoluteValue Minimum="0" Maximum="10000"/>
-    <Time>10000</Time>
+    <Time>5000</Time>
+    <Function FadeIn="6" FadeOut="6" Duration="0">1014</Function>
     <Function FadeIn="6" FadeOut="6" Duration="0">8</Function>
     <Function FadeIn="6" FadeOut="6" Duration="0">7</Function>
     <Function FadeIn="6" FadeOut="6" Duration="0">6</Function>
@@ -15901,6 +15906,7 @@
      <Function ID="1059"/>
      <Action>Toggle</Action>
      <Intensity Adjust="False">100</Intensity>
+     <Input Universe="1" Channel="128"/>
     </Button>
     <Button Caption="Magenta" ID="25" Icon="">
      <WindowState Visible="True" X="10" Y="240" Width="145" Height="50"/>
@@ -15979,6 +15985,7 @@
      <Function ID="1057"/>
      <Action>Toggle</Action>
      <Intensity Adjust="False">100</Intensity>
+     <Input Universe="1" Channel="129"/>
     </Button>
     <Button Caption="Peach-Indigo" ID="49" Icon="">
      <WindowState Visible="True" X="165" Y="175" Width="145" Height="50"/>
@@ -15992,6 +15999,7 @@
      <Function ID="1058"/>
      <Action>Toggle</Action>
      <Intensity Adjust="False">100</Intensity>
+     <Input Universe="1" Channel="130"/>
     </Button>
     <Button Caption="Peach-Salmon" ID="50" Icon="">
      <WindowState Visible="True" X="165" Y="240" Width="145" Height="50"/>
@@ -16005,6 +16013,7 @@
      <Function ID="1047"/>
      <Action>Toggle</Action>
      <Intensity Adjust="False">100</Intensity>
+     <Input Universe="1" Channel="131"/>
     </Button>
    </SoloFrame>
    <SpeedDial Caption="Color Fade" ID="31">
@@ -16049,6 +16058,7 @@
     <Preset ID="19">
      <Name>10s</Name>
      <Value>10000</Value>
+     <Input Universe="1" Channel="136"/>
     </Preset>
     <Preset ID="20">
      <Name>25s</Name>

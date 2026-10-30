@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE InputProfile>
+<InputProfile xmlns="http://www.qlcplus.org/InputProfile">
+ <Creator>
+  <Name>Q Light Controller Plus</Name>
+  <Version>4.14.3</Version>
+  <Author>Coastline Production</Author>
+ </Creator>
+ <Manufacturer>Coastline</Manufacturer>
+ <Model>ProPresenter</Model>
+ <Type>MIDI</Type>
+ <Channel Number="128">
+  <Name>C-2</Name>
+  <Type>Button</Type>
+ </Channel>
+ <Channel Number="129">
+  <Name>C#-2</Name>
+  <Type>Button</Type>
+ </Channel>
+ <Channel Number="130">
+  <Name>D-2</Name>
+  <Type>Button</Type>
+ </Channel>
+ <Channel Number="131">
+  <Name>D#-2</Name>
+  <Type>Button</Type>
+ </Channel>
+ <Channel Number="132">
+  <Name>E-2</Name>
+  <Type>Button</Type>
+ </Channel>
+ <Channel Number="133">
+  <Name>F-2</Name>
+  <Type>Button</Type>
+ </Channel>
+ <Channel Number="134">
+  <Name>F#-2</Name>
+  <Type>Button</Type>
+ </Channel>
+ <Channel Number="135">
+  <Name>G-2</Name>
+  <Type>Button</Type>
+ </Channel>
+ <Channel Number="136">
+  <Name>G#-2</Name>
+  <Type>Button</Type>
+ </Channel>
+</InputProfile>
