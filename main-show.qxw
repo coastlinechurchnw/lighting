@@ -15437,6 +15437,18 @@
    <FixtureVal ID="15">0,211,1,0,2,37,3,255,4,170,5,0,6,211,7,0,8,37,9,255,10,170,11,0,12,211,13,0,14,37,15,255,16,170,17,0,22,38</FixtureVal>
    <FixtureVal ID="18">0,211,1,0,2,37,3,255,4,170,5,0,6,211,7,0,8,37,9,255,10,170,11,0,12,211,13,0,14,37,15,255,16,170,17,0,22,38</FixtureVal>
   </Function>
+  <Function ID="1060" Type="Scene" Name="Peach-White" Path=".Color Palette">
+   <Speed FadeIn="5000" FadeOut="5000" Duration="0"/>
+   <ChannelGroupsVal>15,142,16,128,17,45,18,0,19,255,20,219,21,0,8,26,0,138,1,63,2,0,3,255,4,185,5,0,22,38,23,192,24,96,25,128,26,255,27,255,28,0</ChannelGroupsVal>
+   <FixtureVal ID="16">0,142,1,128,2,45,3,0,4,255,5,219,6,0</FixtureVal>
+   <FixtureVal ID="17">0,142,1,128,2,45,3,0,4,255,5,219,6,0</FixtureVal>
+   <FixtureVal ID="4">0,25,1,255,2,160,3,128,4,255,5,255,6,0</FixtureVal>
+   <FixtureVal ID="5">0,25,1,255,2,63,3,0,4,255,5,185,6,0</FixtureVal>
+   <FixtureVal ID="6">0,25,1,255,2,63,3,0,4,255,5,185,6,0</FixtureVal>
+   <FixtureVal ID="7">0,25,1,255,2,160,3,128,4,255,5,255,6,0</FixtureVal>
+   <FixtureVal ID="15">0,192,1,96,2,128,3,255,4,255,5,0,6,192,7,96,8,128,9,255,10,255,11,0,12,192,13,96,14,128,15,255,16,255,17,0,22,38</FixtureVal>
+   <FixtureVal ID="18">0,192,1,96,2,128,3,255,4,255,5,0,6,192,7,96,8,128,9,255,10,255,11,0,12,192,13,96,14,128,15,255,16,255,17,0,22,38</FixtureVal>
+  </Function>
   <Monitor DisplayMode="0" ShowLabels="0">
    <Font>Arial,12,-1,5,400,0,0,0,0,0,0,0,0,0,0,1</Font>
    <ChannelStyle>0</ChannelStyle>
@@ -16015,6 +16027,19 @@
      <Intensity Adjust="False">100</Intensity>
      <Input Universe="1" Channel="131"/>
     </Button>
+    <Button Caption="Peach-White" ID="51" Icon="">
+     <WindowState Visible="True" X="165" Y="305" Width="145" Height="50"/>
+     <Appearance>
+      <FrameStyle>None</FrameStyle>
+      <ForegroundColor>4294967295</ForegroundColor>
+      <BackgroundColor>4293295452</BackgroundColor>
+      <BackgroundImage>None</BackgroundImage>
+      <Font>Arial,13,-1,5,400,0,0,0,0,0,0,0,0,0,0,1</Font>
+     </Appearance>
+     <Function ID="1060"/>
+     <Action>Toggle</Action>
+     <Intensity Adjust="False">100</Intensity>
+    </Button>
    </SoloFrame>
    <SpeedDial Caption="Color Fade" ID="31">
     <WindowState Visible="True" X="495" Y="0" Width="150" Height="245"/>
@@ -16030,6 +16055,7 @@
     <Time>5000</Time>
     <Function FadeIn="6" FadeOut="6" Duration="0">919</Function>
     <Function FadeIn="6" FadeOut="6" Duration="0">18</Function>
+    <Function FadeIn="6" FadeOut="6" Duration="0">1060</Function>
     <Function FadeIn="6" FadeOut="6" Duration="0">1047</Function>
     <Function FadeIn="6" FadeOut="6" Duration="0">1058</Function>
     <Function FadeIn="6" FadeOut="6" Duration="0">1057</Function>
