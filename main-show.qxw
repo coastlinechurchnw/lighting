@@ -3,12 +3,13 @@
 <Workspace xmlns="http://www.qlcplus.org/Workspace" CurrentWindow="VirtualConsole">
  <Creator>
   <Name>Q Light Controller Plus</Name>
-  <Version>4.14.3</Version>
+  <Version>4.14.4</Version>
   <Author>Coastline Production</Author>
  </Creator>
  <Engine>
   <InputOutputMap>
    <BeatGenerator BeatType="Disabled" BPM="0"/>
+   <NetworkServer Type="Native" AutoStart="False" Name="" Password=""/>
    <Universe Name="ArtNet" ID="0">
     <Output Plugin="ArtNet" UID="192.168.1.54" Line="2"/>
    </Universe>
@@ -15916,7 +15917,7 @@
       <Font>Arial,13,-1,5,400,0,0,0,0,0,0,0,0,0,0,1</Font>
      </Appearance>
      <Function ID="1059"/>
-     <Action>Toggle</Action>
+     <Action>SetOn</Action>
      <Intensity Adjust="False">100</Intensity>
      <Input Universe="1" Channel="128"/>
     </Button>
@@ -15972,12 +15973,12 @@
      <Action>Toggle</Action>
      <Intensity Adjust="False">100</Intensity>
     </Button>
-    <Button Caption="Red Plasma" ID="24" Icon="">
-     <WindowState Visible="True" X="10" Y="305" Width="145" Height="50"/>
+    <Button Caption="Plasma" ID="24" Icon="">
+     <WindowState Visible="True" X="10" Y="305" Width="85" Height="50"/>
      <Appearance>
       <FrameStyle>None</FrameStyle>
-      <ForegroundColor>4278190080</ForegroundColor>
-      <BackgroundColor>4293074998</BackgroundColor>
+      <ForegroundColor>4294960616</ForegroundColor>
+      <BackgroundColor>4286583327</BackgroundColor>
       <BackgroundImage>None</BackgroundImage>
       <Font>Default</Font>
      </Appearance>
@@ -15995,7 +15996,7 @@
       <Font>Arial,13,-1,5,400,0,0,0,0,0,0,0,0,0,0,1</Font>
      </Appearance>
      <Function ID="1057"/>
-     <Action>Toggle</Action>
+     <Action>SetOn</Action>
      <Intensity Adjust="False">100</Intensity>
      <Input Universe="1" Channel="129"/>
     </Button>
@@ -16009,7 +16010,7 @@
       <Font>Arial,13,-1,5,400,0,0,0,0,0,0,0,0,0,0,1</Font>
      </Appearance>
      <Function ID="1058"/>
-     <Action>Toggle</Action>
+     <Action>SetOn</Action>
      <Intensity Adjust="False">100</Intensity>
      <Input Universe="1" Channel="130"/>
     </Button>
@@ -16023,9 +16024,22 @@
       <Font>Arial,13,-1,5,400,0,0,0,0,0,0,0,0,0,0,1</Font>
      </Appearance>
      <Function ID="1047"/>
-     <Action>Toggle</Action>
+     <Action>SetOn</Action>
      <Intensity Adjust="False">100</Intensity>
      <Input Universe="1" Channel="131"/>
+    </Button>
+    <Button Caption="X" ID="52" Icon="">
+     <WindowState Visible="True" X="105" Y="305" Width="50" Height="50"/>
+     <Appearance>
+      <FrameStyle>None</FrameStyle>
+      <ForegroundColor>Default</ForegroundColor>
+      <BackgroundColor>4279900698</BackgroundColor>
+      <BackgroundImage>None</BackgroundImage>
+      <Font>Default</Font>
+     </Appearance>
+     <Function ID="203"/>
+     <Action>Toggle</Action>
+     <Intensity Adjust="False">100</Intensity>
     </Button>
     <Button Caption="Peach-White" ID="51" Icon="">
      <WindowState Visible="True" X="165" Y="305" Width="145" Height="50"/>
@@ -16037,8 +16051,9 @@
       <Font>Arial,13,-1,5,400,0,0,0,0,0,0,0,0,0,0,1</Font>
      </Appearance>
      <Function ID="1060"/>
-     <Action>Toggle</Action>
+     <Action>SetOn</Action>
      <Intensity Adjust="False">100</Intensity>
+     <Input Universe="1" Channel="132" UpperValue="0" MonitorValue="0"/>
     </Button>
    </SoloFrame>
    <SpeedDial Caption="Color Fade" ID="31">
